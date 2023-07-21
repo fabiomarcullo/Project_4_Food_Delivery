@@ -1,0 +1,55 @@
+Restaurant Name,Rating,Category,Address,Latitude,Longitude,Province
+FINE FOOD MARKET (Convenience @ Bay & Gerrard),4.8,American,"711 Bay St, Toronto, ON M5G",43.6588232,-79.38465169999999,ON
+McDonald's (Front & George),4.8,Burgers,"121 Front St E, Toronto, ON M5A",43.6494917,-79.3704556,ON
+7-Eleven (372 Bay Street @ Richmond),4.5,Wings,"372 Bay Street @ Richmond, Toronto, ON M5H 2W9",43.651016,-79.3815181,ON
+Sunset Grill (1 Richmond St. West),4.6,Breakfast and brunch,"1 Richmond St. West (#130), Toronto, ON M5H 3W4",43.6513848,-79.3792915,ON
+Starbucks (485 Church at Wellesley),4.9,Bakery,"485 Church Street, Toronto, ON M4Y 2C6",43.6649974,-79.3804218,ON
+Subway (393 Front St W),4.8,American,"393 Front St W, Toronto, ON M5V",43.64268209999999,-79.39331360000001,ON
+Neo Coffee Bar (Bay x College),4.4,Cafe,"770 Bay St , Unit 3, Toronto, ON M5G 0A6",43.6601367,-79.3858692,ON
+FUEL+ (Canary),4.5,Healthy,"469 Front St E, Toronto, ON M5A",43.6528731,-79.3559332,ON
+Stacked Pancake & Breakfast House (Danforth),4.7,Breakfast and brunch,"425 Danforth Ave, Toronto, ON M4K 1P1",43.6775008,-79.3509176,ON
+A&W (Queen St West),4.5,Fast food,"372 Queen St W, Toronto, ON M5V 2A3",43.6490994,-79.3959812,ON
+Krispy Kreme (McCaul St & Elm St),4.9,Desserts,"164 Mccaul St, Toronto, ON M5T 1W4",43.6557344,-79.3921423,ON
+Eggsmart (Bloor & Ossington),4.3,Breakfast and brunch,"864 Bloor St W, Toronto, ON M6G",43.6624081,-79.42455489999999,ON
+Cinnabon (Oriole Pky),4.4,Bakery,"500 Oriole Parkway , Unit 4, Toronto, ON M5P",43.704666,-79.40614839999999,ON
+Wendy's (731 Eastern Avenue),4.3,Fast food,"731 Eastern Avenue, Toronto, ON M4M 3H6",43.6595692,-79.32917239999999,ON
+Smokers Mart,4.6,Convenience,"1061 Gerrard St E, Toronto, ON M4M",43.6690571,-79.3356867,ON
+The Bagel House (Eglinton),4.7,Sandwich,"450 Eglinton Ave W, Toronto, ON M5N 1A5",43.7040348,-79.41191979999999,ON
+Harvey's (805 The Queensway),4.7,American,"805 The Queensway, Toronto, ON M8Z 1N6",43.6248882,-79.5074954,ON
+Bagels on Fire,4.8,Bakery,"2248 Queen St E, Toronto, ON M4E",43.6729723,-79.28682080000002,ON
+Walmart (900 Dufferin Street),New,Grocery,"900 Dufferin St, Toronto, ON M6H",43.6579875,-79.4350058,ON
+COBS Bread (Humbertown),4.9,Bakery,"#3 - 270 The Kingsway, Etobicoke, ON M9A",43.6615135,-79.51976959999999,ON
+Smoothie Bar (Altea Active),4.6,Juice & Smoothies,"25 Ordnance Street, Toronto, ON M6K 1A1",43.6390672,-79.4100811,ON
+Rolltation (Yonge & Bloor),4.5,Healthy,"758 Yonge St, Toronto, ON M4Y",43.6694172,-79.3865848,ON
+Chick-Wings on Liberty,4.8,Comfort food,"129 Jefferson, Toronto, ON M6K3E4",43.6395619,-79.42182199999999,ON
+Gong Cha (Davisville),4.7,Desserts,"2027 Yonge St, Toronto, ON M4S 2A2",43.70150160000001,-79.3970068,ON
+Real Fruit Bubble Tea (5095 Yonge St),5.0,Asian,"5095 Yonge Street , Unit A11, Toronto, ON M2N 6Z4",43.7687022,-79.4123463,ON
+Shuyi Tealicious 书亦烧仙草,4.8,Bubble tea,"37 Sheppard Ave E, Toronto, ON M2N 2Z8",43.761668,-79.4090228,ON
+Bap bubble tea,4.8,Coffee & tea,"1190 Weston Rd, Toronto, ON M6M 4P4",43.6874995,-79.4913566,ON
+The Alley (Bloor),4.9,Asian,"621 Bloor St W, Toronto, ON M6G 1K8",43.6644156,-79.41404229999999,ON
+Baskin Robbins | Kernels (1917 Avenue Road),4.9,Desserts,"1917 Avenue Road, Toronto, ON M5M",43.7334481,-79.4192109,ON
+Bunner's Bakeshop,4.7,Desserts,"244 Augusta Ave, Toronto, ON M5T",43.6555105,-79.4027529,ON
+Craig's Cookies,4.9,Desserts,"1332 Queen St W, Toronto, ON M6K 1L4",43.64177369999999,-79.4316097,ON
+Hollywood Gelato,4.8,Ice Cream & Frozen Yogurt,"1640 Bayview Ave, Toronto, ON M4S",43.7067881,-79.3757643,ON
+TasteT House (Bathurst),4.7,Bubble tea,"410 Bathurst Street, Toronto, ON M5T",43.65418349999999,-79.4070364,ON
+BenGong's Tea 本宫的茶 Yonge,4.7,Asian,"576 Yonge Street, Toronto, ON M4Y 1Z3",43.6651044,-79.38483889999999,ON
+La Diperie (717 Bay Street),4.6,Desserts,"717 Bay Street, Toronto, ON M5G",43.6588092,-79.3846555,ON
+Chapayom,New,Bubble tea,"21 Wellesley St W, 6, Toronto, ON M4Y 0H1",43.664527,-79.3855384,ON
+Melt n Dip (Adelaide St E),4.7,Desserts,"53 Adelaide St E, Toronto, ON M5C",43.6507014,-79.37607899999999,ON
+Kibo Sushi (Rogers Centre),4.7,Sushi,"325 Bremner Blvd., Toronto, ON M5V",43.6405095,-79.3909896,ON
+Bocados Bake Shop (Queen St. W),4.7,Desserts,"923 Queen St W, B, Toronto, ON M6J",43.6452898,-79.4127389,ON
+Oishii Tea (Queen W),4.7,Desserts,"467 Queen St W, Toronto, ON M5V 2A9",43.6483773,-79.39740069999999,ON
+Tiger Sugar (Yonge St),4.7,Desserts,"439 Yonge St, A, Toronto, ON M5B 1T3",43.661044,-79.3827237,ON
+Fast Fresh Foods (Eaton Centre Mall Food Court),5.0,Healthy,"220 Yonge Street, Toronto, ON M5B",43.6539681,-79.3801225,ON
+Honey's Ice Cream,4.9,Ice Cream & Frozen Yogurt,"1448 Dundas Street West, Toronto, ON M6K",43.6497363,-79.4304253,ON
+Uncle Tetsu's Japanese Cheesecake (Bay St),4.8,Desserts,"595 Bay St, Toronto, ON M5G 2C2",43.6565324,-79.38284519999999,ON
+Salad Days,New,Salads,"333 Bay Street, Toronto, ON M5H 2R2",43.6503406,-79.38052069999999,ON
+COPS,4.9,American,"89 Lewis St, Toronto, ON M4M 2H2",43.6588302,-79.34829069999999,ON
+Pizza Café,4.6,Pizza,"3774 Bathurst St, North York, ON M3H",43.7379498,-79.43467609999999,ON
+Govinda's,4.8,Vegetarian,"243 Avenue Rd, Toronto, ON M5R 2J6",43.6769933,-79.3971906,ON
+Sukhothai (Dundas West),4.9,Best of Toronto,"1442 Dundas St W, Toronto, On M6j 1y6, Canada, ON M6K",43.6497697,-79.4302862,ON
+Yifang Fruit Tea一芳台灣水果茶-Yonge,4.8,Bubble tea,"672 Yonge St, Toronto, ON M4Y 2A6",43.66727239999999,-79.3857771,ON
+Wok & Bowl,4.7,Kosher,"3023 Bathurst Street, Toronto, ON M6B 3B5",43.7181046,-79.42914789999999,ON
+Bloomer's (Bloor),4.8,Bakery,"873 Bloor St W, Toronto, ON M6G 1M4",43.6619921,-79.42491590000002,ON
+Pho Lang Van,4.8,Vietnamese,"958 Saint Clair Avenue West, Toronto, ON M6E",43.67973250000001,-79.43618099999999,ON
+Yogen Fruz (220 Yonge St),4.9,Ice Cream & Frozen Yogurt,"220 Yonge St, Toronto, ON M5B",43.6539681,-79.3801225,ON
