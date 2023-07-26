@@ -1,0 +1,323 @@
+restaurant_name,price_range,rating,total_reviews,location,province
+The Flying Pig,$$,4.0 ,1.3k,vancouver,BC
+Kingyo,$$,4.4 ,1.1k,vancouver,BC
+Miku,$$$,4.4 ,2.2k,vancouver,BC
+Kosoo,$$,4.3 ,88,vancouver,BC
+Dinesty Dumpling House,$$,3.9 ,928,vancouver,BC
+Saku,$$,4.4 ,337,vancouver,BC
+Guu with Garlic,$$,4.3 ,1k,vancouver,BC
+Fable Kitchen,$$,4.3 ,764,vancouver,BC
+Fanny Bay Oyster Bar & Shellfish Market,$$,4.4 ,749,vancouver,BC
+Manoush’eh,$,4.8 ,228,vancouver,BC
+Sula,$$,4.3 ,89,vancouver,BC
+Phnom Penh,$$,4.2 ,1.6k,vancouver,BC
+Saku,$$,4.3 ,214,vancouver,BC
+Blue Water Cafe,$$$$,4.4 ,1.1k,vancouver,BC
+Forage,$$,4.1 ,698,vancouver,BC
+Anh and Chi,$$,3.9 ,618,vancouver,BC
+Botanist,$$$,4.3 ,370,vancouver,BC
+Twisted Fork,$$,4.2 ,1.1k,vancouver,BC
+Happy Noodle House,$$,4.6 ,79,vancouver,BC
+Lupo,$$$,4.3 ,436,vancouver,BC
+Kishimoto Japanese Kitchen,$$$,4.4 ,512,vancouver,BC
+Tendon Kohaku,$$,4.3 ,91,vancouver,BC
+Raisu,$$,4.2 ,435,vancouver,BC
+Hello Nori,$$,4.5 ,190,vancouver,BC
+Ask For Luigi,$$,4.0 ,487,vancouver,BC
+Chinatown BBQ,$$,4.5 ,260,vancouver,BC
+Fritz European Fry House,$,4.2 ,807,vancouver,BC
+Medina Cafe,$$,4.2 ,2.6k,vancouver,BC
+Kokoro Tokyo Mazesoba,$$,4.1 ,447,vancouver,BC
+Salmon n’ Bannock,$$,4.5 ,203,vancouver,BC
+Hawkers Delight Deli,$,3.9 ,351,vancouver,BC
+España Restaurant,$$,4.2 ,250,vancouver,BC
+OEB Breakfast Co. Yaletown,$$,4.3 ,730,vancouver,BC
+Joe Fortes Seafood & Chop House,$$$,4.0 ,1.2k,vancouver,BC
+Chambar,$$$,4.2 ,1.5k,vancouver,BC
+Jam Cafe on Beatty,$$,4.4 ,1.4k,vancouver,BC
+Tavola,$$$,4.5 ,363,vancouver,BC
+Nobi Nobi,$$,4.5 ,38,vancouver,BC
+Rodney’s Oyster House,$$,4.0 ,818,vancouver,BC
+Nightingale,$$$,4.1 ,471,vancouver,BC
+The Mexican Antojitos Y Cantina,$$,4.3 ,402,vancouver,BC
+Linh Cafe,$$,3.9 ,299,vancouver,BC
+Maenam,$$,3.9 ,380,vancouver,BC
+Lunch Lady,$$,4.0 ,197,vancouver,BC
+Jingle Bao,$$,4.1 ,152,vancouver,BC
+Shiok Singapore Cuisine,$$,3.8 ,102,vancouver,BC
+Cactus Club Cafe,$$,4.2 ,821,vancouver,BC
+Alibi Room,$$,4.3 ,566,vancouver,BC
+Zefferelli’s,$$,4.2 ,487,vancouver,BC
+AnnaLena,$$$$,4.5 ,347,vancouver,BC
+So Hyang Korean Cuisine,$$,4.2 ,320,vancouver,BC
+Bao Bei Chinese Brasserie,$$$,3.9 ,415,vancouver,BC
+Seiza,$$,3.9 ,79,vancouver,BC
+Le Crocodile Restaurant,$$$$,4.3 ,438,vancouver,BC
+Bali Thai,$,4.5 ,91,vancouver,BC
+Suika,$$,4.1 ,520,vancouver,BC
+The Mackenzie Room,$$$$,4.5 ,182,vancouver,BC
+Sushi Jin,$$$,4.6 ,137,vancouver,BC
+The Fish Counter,$$,4.4 ,350,vancouver,BC
+Hei Hei Rice Roll,$$,4.3 ,83,vancouver,BC
+Burgoo Bistros,$$,3.8 ,498,vancouver,BC
+Elisa,$$$$,4.2 ,194,vancouver,BC
+St Lawrence Restaurant,$$$,4.4 ,140,vancouver,BC
+Laksa King,$$,3.8 ,207,vancouver,BC
+Ramen Danbo,$$,4.4 ,580,vancouver,BC
+Moose’s Down Under,$$,4.0 ,145,vancouver,BC
+Holy Chow,$$,4.1 ,44,vancouver,BC
+The Red Accordion,$$,4.7 ,72,vancouver,BC
+Go Fish Ocean Emporium,$$,3.9 ,502,vancouver,BC
+Kozak Ukraïnian Eatery,$$,4.4 ,30,vancouver,BC
+Maizal RMF,$$,4.3 ,145,vancouver,BC
+La Taqueria Pinche Taco Shop,$$,4.3 ,521,vancouver,BC
+La Notte Restaurant,$$,3.9 ,55,vancouver,BC
+Breakfast Table,$$,4.3 ,251,vancouver,BC
+Maruhachi Ra-men,$$,4.4 ,754,vancouver,BC
+Afghan Horsemen Restaurant,$$,3.9 ,244,vancouver,BC
+The Greek By Anatoli,$$,3.8 ,253,vancouver,BC
+Nuba in Gastown,$$$,4.1 ,743,vancouver,BC
+Bodega On Main,$$,3.9 ,212,vancouver,BC
+Cardero’s Restaurant & Marine Pub,$$$,3.9 ,640,vancouver,BC
+The Poke Guy,$$,4.5 ,207,vancouver,BC
+Mott 32,$$$$,3.9 ,176,vancouver,BC
+Banana Leaf,$$,3.7 ,299,vancouver,BC
+Fat Mao Noodles,$$,3.9 ,228,vancouver,BC
+Burger Crush,$$,4.6 ,19,vancouver,BC
+Kulinarya,$$,3.8 ,63,vancouver,BC
+Robba da Matti,$$$,4.2 ,490,vancouver,BC
+Dosanko,$$,3.8 ,101,vancouver,BC
+Peaked Pies,$$,4.4 ,195,vancouver,BC
+Jägerhof Restaurant,$$,4.0 ,115,vancouver,BC
+La Belle Patate,$$,4.1 ,544,vancouver,BC
+Nook,$$,3.9 ,163,vancouver,BC
+Osteria Savio Volpe,$$$,4.2 ,421,vancouver,BC
+Brix & Mortar,$$$,4.0 ,318,vancouver,BC
+Les Faux Bourgeois,$$,4.0 ,452,vancouver,BC
+Mandarin Hong Kong Cafe,$$,3.3 ,49,vancouver,BC
+The Vancouver Fish Company,$$$,3.6 ,258,vancouver,BC
+Sopra Sotto,$$,4.0 ,139,vancouver,BC
+L’Abattoir,$$$,4.2 ,576,vancouver,BC
+PiDGiN,$$$,4.0 ,320,vancouver,BC
+Little Minh’s,$$,4.3 ,128,vancouver,BC
+Sura Korean Cuisine,$$,4.1 ,428,vancouver,BC
+Lamajoun,$,4.7 ,93,vancouver,BC
+Cafe FortyOne,$$,4.5 ,21,vancouver,BC
+Ash Street Bistro,$$,4.5 ,11,vancouver,BC
+Micha,$$,4.4 ,42,vancouver,BC
+Damso Modern Korean Cuisine,$$,3.9 ,202,vancouver,BC
+The Locus,$$,3.9 ,265,vancouver,BC
+Thierry,$$,4.0 ,941,vancouver,BC
+Honey Salt,$$,3.5 ,266,vancouver,BC
+Toshi Sushi,$$,4.2 ,440,vancouver,BC
+Downlow Chicken Shack,$$,4.1 ,270,vancouver,BC
+ARC Restaurant,$$$,4.0 ,167,vancouver,BC
+Little Bird Dim Sum,$$,3.9 ,71,vancouver,BC
+Yagoto Sushi Dining,$$,4.4 ,78,vancouver,BC
+Cuchillo,$$,4.2 ,287,vancouver,BC
+Tom Sushi,$$,4.7 ,193,vancouver,BC
+La Mezcaleria,$$,3.8 ,292,vancouver,BC
+Absinthe Bistro,$$$,4.6 ,137,vancouver,BC
+Ramen Danbo,$$,4.2 ,413,vancouver,BC
+Guu Original Thurlow,$$,4.1 ,789,vancouver,BC
+Jamjar - Folk Lebanese Food,$$,3.8 ,256,vancouver,BC
+Jules French Bistro,$$,3.9 ,227,vancouver,BC
+Heritage Asian Eatery,$$,3.9 ,87,vancouver,BC
+ZAC.ZAC Japanese Curry House,$,3.9 ,96,vancouver,BC
+Tetsu Sushi Bar,$$$$,4.3 ,102,vancouver,BC
+Ukrainian Village,$$,4.1 ,171,vancouver,BC
+A.Bento,$$,4.0 ,26,vancouver,BC
+Kaneko Hannosuke,$$,3.8 ,58,vancouver,BC
+Harambe Restaurant,$$,3.8 ,135,vancouver,BC
+The Roof,$$$,3.8 ,80,vancouver,BC
+Katsu San,$$,4.5 ,106,vancouver,BC
+Grub,$$,4.2 ,181,vancouver,BC
+Kissa Tanto,$$$$,4.1 ,279,vancouver,BC
+Shanghai River,$$$,3.9 ,788,vancouver,BC
+Vij’s Restaurant,$$$,4.0 ,389,vancouver,BC
+Sawasdee Thai Restaurant,$$,4.0 ,334,vancouver,BC
+Do Chay,$$,4.4 ,157,vancouver,BC
+MeeT in Gastown,$$,4.1 ,491,vancouver,BC
+Sushi Bar Ajisai,$$,4.2 ,411,vancouver,BC
+JOEY Burrard,$$,4.1 ,554,vancouver,BC
+Hawksworth Restaurant,$$$,4.1 ,642,vancouver,BC
+Five Sails Restaurant,$$$$,4.4 ,179,vancouver,BC
+Gyu-Kaku Japanese BBQ,$$,4.0 ,390,vancouver,BC
+Green Leaf Sushi,$$,4.0 ,394,vancouver,BC
+Marché Mon Pitou,$$,4.3 ,36,vancouver,BC
+Browns Crafthouse Seymour,$$,4.0 ,44,vancouver,BC
+Black Frog Eatery,$$,3.8 ,214,vancouver,BC
+Smoke and Bones,$$,3.9 ,152,vancouver,BC
+Salade de Fruits Cafe,$$,4.2 ,175,vancouver,BC
+Caveman Cafe,$$,4.4 ,271,vancouver,BC
+City 1 Cafe,$$,3.4 ,96,vancouver,BC
+Los Amigos Taqueria,$$,4.0 ,121,vancouver,BC
+Indian Delicacy,$$,4.5 ,105,vancouver,BC
+Hikari Cafe,$$,4.2 ,51,vancouver,BC
+Jess’ Restaurant,$$$,3.9 ,35,vancouver,BC
+Cactus Club Cafe,$$,4.1 ,475,vancouver,BC
+Hachibei Japanese Restaurant,$$,3.9 ,74,vancouver,BC
+Red Fish Blue Fish,$$,4.5 ,1.3k,victoria,BC
+Little Jumbo,$$$,4.4 ,275,victoria,BC
+Nubo Japanese Tapas,$$,4.4 ,392,victoria,BC
+Finn’s Seafood Chops Cocktails,$$,4.4 ,165,victoria,BC
+Fishhook,$$,4.5 ,309,victoria,BC
+Ithaka Greek Restaurant,$$,4.5 ,144,victoria,BC
+Il Terrazzo Ristorante,$$$,4.5 ,614,victoria,BC
+Little Yunnan Restaurant,$$,4.5 ,130,victoria,BC
+Bodega,$$,4.5 ,133,victoria,BC
+Pagliacci’s,$$,4.1 ,619,victoria,BC
+Blue Fox Cafe,$$,4.4 ,817,victoria,BC
+Foo,$$,4.0 ,174,victoria,BC
+10 Acres Bistro,$$,3.9 ,502,victoria,BC
+Il Covo Trattoria,$$,4.2 ,163,victoria,BC
+Bao,$$,4.1 ,137,victoria,BC
+Superbaba,$$,4.5 ,55,victoria,BC
+Nautical Nellies Steak & Seafood House,$$,3.9 ,388,victoria,BC
+Chimac Korean Pub & Fried Chicken,$$,4.3 ,66,victoria,BC
+The Cozy Place Restaurant,$$,4.4 ,111,victoria,BC
+John’s Place,$$,4.4 ,456,victoria,BC
+Jam Cafe,$$,4.5 ,652,victoria,BC
+Nourish In The Harbour,$$,4.4 ,197,victoria,BC
+Hanks A Restaurant,$$,4.5 ,95,victoria,BC
+Chorizo & Co,$,4.4 ,82,victoria,BC
+Frankie’s Modern Diner,$$,4.2 ,205,victoria,BC
+Belleville’s Watering Hole & Diner,$$,3.8 ,160,victoria,BC
+Aura Waterfront Restaurant + Patio,$$,4.0 ,119,victoria,BC
+10 Acres Commons,$$,3.7 ,136,victoria,BC
+Brasserie L’ecole,$$$,4.5 ,142,victoria,BC
+The Fish Store,$$,4.2 ,181,victoria,BC
+Uchida Eatery / Shokudo,$$,4.6 ,58,victoria,BC
+Ferris’ Upstairs Seafood & Oyster Bar,$$,4.2 ,294,victoria,BC
+Q at The Empress,$$$,3.9 ,106,victoria,BC
+BeaverTails,$,4.5 ,61,victoria,BC
+Fiamo,$$,3.9 ,133,victoria,BC
+Virtuous Pie,$$,4.7 ,32,victoria,BC
+Breakwater,$$,3.5 ,66,victoria,BC
+Bear & Joey Cafe,$$,4.4 ,21,victoria,BC
+Fisherman’s Wharf,$$,3.9 ,55,victoria,BC
+Sushi Matsuri,$$,4.5 ,32,victoria,BC
+Bar 500 Eatery,$$,4.1 ,18,victoria,BC
+Blue Crab Seafood House,$$$,3.8 ,149,victoria,BC
+Part and Parcel,$$,4.6 ,63,victoria,BC
+Yalla Middle Eastern Cuisine,$,4.5 ,40,victoria,BC
+Tacofino,$$,4.1 ,116,victoria,BC
+Cactus Club Cafe,$$,4.0 ,116,victoria,BC
+Tibetan Kitchen,$$,4.2 ,52,victoria,BC
+Dumpling Drop,$,4.0 ,19,victoria,BC
+J & J Wonton Noodle House,$$,3.7 ,72,victoria,BC
+The Ruby,$$,4.2 ,57,victoria,BC
+Sookjai Thai Restaurant,$$,4.1 ,41,victoria,BC
+Sult Pierogi Bar,$$,4.2 ,99,victoria,BC
+Bin 4 Burger Lounge,$$,3.9 ,155,victoria,BC
+Cafe Brio,$$$,4.3 ,111,victoria,BC
+Beijing Bistro,$$,3.9 ,28,victoria,BC
+Sen Zushi,$$,4.2 ,46,victoria,BC
+The Mint,$$,3.6 ,105,victoria,BC
+Zambri’s,$$$,3.6 ,84,victoria,BC
+Legislative Dining Room,$$,4.6 ,27,victoria,BC
+Cenote Restaurant and Lounge,$$,3.9 ,23,victoria,BC
+Heron Rock Bistro,$$,4.3 ,103,victoria,BC
+Ayo Eat,$,4.6 ,47,victoria,BC
+Lido Waterfront Bar & Bistro,$$,3.8 ,36,victoria,BC
+Moxies,$$,3.9 ,40,victoria,BC
+The Tapa Bar,$$,3.9 ,211,victoria,BC
+Sura Korean Cuisine,$$$,3.0 ,48,victoria,BC
+Irish Times Pub,$$,4.0 ,434,victoria,BC
+Fuego Old Town Eatery,$$,4.4 ,76,victoria,BC
+Cora’s,$$,3.8 ,170,victoria,BC
+Jones Bar B Que,$$,3.9 ,61,victoria,BC
+Be Love,$$,4.1 ,143,victoria,BC
+Clarke&Co,$$$,4.0 ,41,victoria,BC
+Browns Socialhouse - Victoria Falls,$$,3.3 ,87,victoria,BC
+Fire & Water Fish and Chop House,$$,3.7 ,34,victoria,BC
+The Drake Eatery,$$,4.1 ,74,victoria,BC
+Frickin’ Delights Donuts,$$,4.5 ,42,victoria,BC
+Saveur Restaurant,$$$,4.6 ,47,victoria,BC
+Yates Street Taphouse,$$,3.4 ,47,victoria,BC
+Perro Negro,$$$,4.7 ,18,victoria,BC
+Menbow Ramen Bar,$$,3.7 ,66,victoria,BC
+Bangkok Modern Thai Cuisine,$$,4.0 ,21,victoria,BC
+Messob Ethiopian Cuisine,$,4.8 ,12,victoria,BC
+Stage,$$$,4.2 ,59,victoria,BC
+Gozen,$$,4.2 ,66,victoria,BC
+Pizzeria Prima Strada,$$,4.2 ,179,victoria,BC
+My Thai Cafe,$$,4.1 ,34,victoria,BC
+Jonathan’s Restaurant,$$,3.3 ,7,victoria,BC
+"Sakura Sushi, Grocery and Japanese Restaurant",$,3.5 ,15,victoria,BC
+Kuma Noodles Japan,$,4.1 ,36,victoria,BC
+Victoria Harbour House Restaurant,$$$,3.3 ,82,victoria,BC
+Golden City Restaurant,$$,3.7 ,99,victoria,BC
+Hope Key,$$,4.2 ,50,victoria,BC
+The Keg Steakhouse + Bar,$$$,4.1 ,146,victoria,BC
+Island Poké,$$,4.1 ,27,victoria,BC
+Picnic Too,$$,4.5 ,11,victoria,BC
+Steamship Grill & Taphouse,$$,3.2 ,150,victoria,BC
+Milestones,$$,3.5 ,184,victoria,BC
+Ramen Arashi,$$,5.0 ,3,victoria,BC
+Earls Kitchen + Bar,$$,3.9 ,146,victoria,BC
+Interactivity Board Game Cafe,$,4.3 ,36,victoria,BC
+Le Petit Saigon Vietnamese Restaurant,$$,4.2 ,80,victoria,BC
+Oak Bay Seafood,$$,3.9 ,18,victoria,BC
+La Taquisa,$,3.6 ,71,victoria,BC
+Ghost Ramen,$$,3.8 ,16,victoria,BC
+Brickyard Pizza,$,3.1 ,36,victoria,BC
+Varsha Indian Kitchen,$$,3.8 ,116,victoria,BC
+Wah Lai Yuen,$$,3.4 ,60,victoria,BC
+Fan Tan Cafe,$$,3.3 ,83,victoria,BC
+Sushi Time Express,$,4.6 ,20,victoria,BC
+LURE Restaurant & Bar,$$,3.5 ,63,victoria,BC
+The Oaks Restaurant,$$,3.5 ,26,victoria,BC
+Siam Thai Restaurant,$$,3.8 ,51,victoria,BC
+Shanzee’s Biscuit Cafe,$$,4.4 ,77,victoria,BC
+ReBar Modern Food,$$,4.0 ,272,victoria,BC
+La Taqueria,$$,3.7 ,56,victoria,BC
+The Old Spaghetti Factory,$$,3.2 ,128,victoria,BC
+The Bent Mast,$$,3.4 ,45,victoria,BC
+Omakase Izakaya & Sushi Bar,$$,3.5 ,35,victoria,BC
+Finest At Sea,$$,4.4 ,19,victoria,BC
+Lotus Pond Vegetarian Restaurant,$$,4.2 ,79,victoria,BC
+The Flying Otter,$$,3.7 ,194,victoria,BC
+Superior Pizza,$$,3.8 ,22,victoria,BC
+Thai Green Elephant Restaurant,$$,4.1 ,31,victoria,BC
+JBI Café Restaurant,$$,3.6 ,10,victoria,BC
+Romeo’s,$$,3.0 ,34,victoria,BC
+Topos Ristorante Italiano,$$$,4.3 ,3,victoria,BC
+Darcy’s Pub Downtown,$$,3.8 ,91,victoria,BC
+Crooked Goose Bistro,$$,3.7 ,46,victoria,BC
+Ebizo Japanese Restaurant,$$,3.8 ,109,victoria,BC
+Roast,$$,4.0 ,41,victoria,BC
+Italian Food Imports,$,4.2 ,37,victoria,BC
+Park’s Kitchen,$$,3.2 ,38,victoria,BC
+QV Cafe & Bakery,$,3.9 ,65,victoria,BC
+Victoria BBQ House & Bakery,$,3.3 ,15,victoria,BC
+The Local,$$,3.6 ,150,victoria,BC
+Frank’s Honeybun Cafe,$,4.0 ,49,victoria,BC
+Famoso Neapolitan Pizzeria,$$,3.6 ,125,victoria,BC
+Hecklers Bar & Grill,$$,3.8 ,28,victoria,BC
+Sizzling Tandoor,$$,4.0 ,108,victoria,BC
+Baan Thai Restaurant,$$,3.4 ,83,victoria,BC
+Kissako Sushi,$$,4.9 ,12,victoria,BC
+Cafe Mexico,$$,3.3 ,78,victoria,BC
+10 Acres Kitchen,$$$,3.5 ,69,victoria,BC
+CRAFT Beer Market - Victoria,$$,2.8 ,13,victoria,BC
+5th Street Bar & Woodfire Grill,$$,3.5 ,80,victoria,BC
+Chicken On the Run,$$,3.9 ,20,victoria,BC
+Ricasalsa,$$,3.9 ,25,victoria,BC
+Tre Fantastico,$$,3.1 ,43,victoria,BC
+Lum’s Chinese Restaurant,$,3.8 ,26,victoria,BC
+Baan Thai Restaurant,$$,3.8 ,30,victoria,BC
+Rise & Grind,$$,4.1 ,17,victoria,BC
+The Ruby,$$,4.3 ,137,victoria,BC
+The Tartan Toque,$$,3.6 ,38,victoria,BC
+The Sticky Wicket,$$,2.8 ,174,victoria,BC
+La Belle Patate,$,3.9 ,68,victoria,BC
+Hot and Cold Cafe,$$,4.7 ,24,victoria,BC
+Vista 18,$$,3.5 ,96,victoria,BC
+Japanese Village Restaurant,$$,3.2 ,59,victoria,BC
+Glo Restaurant & Lounge,$$,3.3 ,88,victoria,BC
+Pho Vy Vietnamese Restaurant,$$,3.6 ,85,victoria,BC
+Avalon Restaurant,$$,4.1 ,33,victoria,BC
+Vis-à-Vis,$$,4.1 ,39,victoria,BC
+Shine Cafe,$$,4.1 ,68,victoria,BC
+Loft and Ladder,$,4.7 ,6,victoria,BC
