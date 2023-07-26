@@ -1,0 +1,406 @@
+restaurant_name,price_range,rating,total_reviews,location,province
+Woodwork,$$,4.2 ,172,edmonton,AB
+RGE RD,$$$,4.4 ,172,edmonton,AB
+BaoBao,$$,4.3 ,40,edmonton,AB
+Baijiu,$$,4.4 ,52,edmonton,AB
+Bundok,$$$$,4.5 ,53,edmonton,AB
+Pip,$$,4.3 ,172,edmonton,AB
+Meat,$$,4.1 ,475,edmonton,AB
+Blowers & Grafton,$$,4.1 ,127,edmonton,AB
+Otto Food and Drink,$$,4.5 ,75,edmonton,AB
+Cafe Amore Bistro,$$,4.3 ,143,edmonton,AB
+El Mero Mero Taqueria,$$,4.0 ,29,edmonton,AB
+The Lunchbox Diner,$$,4.5 ,17,edmonton,AB
+Biera,$$,3.9 ,79,edmonton,AB
+Nongbu Korean Eatery,$$,4.3 ,53,edmonton,AB
+SugarBowl,$$,4.0 ,486,edmonton,AB
+The Common,$$,3.8 ,167,edmonton,AB
+Bodega Highlands,$$,4.6 ,55,edmonton,AB
+Black Pearl Seafood Bar-Downtown,$$$,4.2 ,99,edmonton,AB
+Sabor,$$$,4.2 ,167,edmonton,AB
+Uccellino,$$$,4.4 ,82,edmonton,AB
+Hathaway’s Diner,$$,4.5 ,113,edmonton,AB
+Refinery Grill,$$,3.8 ,60,edmonton,AB
+The Butternut Tree,$$$$,4.2 ,41,edmonton,AB
+JOEY Bell Tower,$$,3.9 ,81,edmonton,AB
+CRAFT Beer Market,$$,3.5 ,257,edmonton,AB
+OEB Breakfast,$$,4.4 ,237,edmonton,AB
+Dorinku Tokyo,$$,4.2 ,191,edmonton,AB
+The Bedouins,$$,4.8 ,50,edmonton,AB
+Izakaya Tomo,$$,4.4 ,169,edmonton,AB
+Rockin’ Robyn’s Diner,$$,4.2 ,177,edmonton,AB
+Tokiwa Ramen,$$,4.2 ,120,edmonton,AB
+Let’s Grill Sushi & Izakaya,$$,4.0 ,43,edmonton,AB
+Dadeo,$$,4.0 ,263,edmonton,AB
+Community Taps + Pizza,$$,4.3 ,8,edmonton,AB
+Sai Woo Garden Restaurant,$$,3.9 ,52,edmonton,AB
+The People’s Perogy,$$,4.3 ,32,edmonton,AB
+Hanjan,$$,4.3 ,115,edmonton,AB
+La Patrona,$$,4.4 ,108,edmonton,AB
+Glass Monkey,$$,3.8 ,68,edmonton,AB
+Uncle Ed’s Restaurant,$$,4.2 ,70,edmonton,AB
+Kiwado Japanese Cuisine,$$,4.2 ,20,edmonton,AB
+The Next Act,$$,4.2 ,291,edmonton,AB
+LOFT Thai Eatery,$$,4.3 ,38,edmonton,AB
+Ruth’s Chris Steak House,$$$$,3.8 ,111,edmonton,AB
+All Happy Family Restaurant,$$,3.4 ,109,edmonton,AB
+Double Greeting Wonton House,$$,4.1 ,59,edmonton,AB
+Northern Chicken,$$,4.1 ,165,edmonton,AB
+Little Brick,$$,3.9 ,100,edmonton,AB
+Share,$$$,3.8 ,10,edmonton,AB
+The Cajun House,$$,4.1 ,64,edmonton,AB
+Golden Dumpling Restaurant,$,3.7 ,7,edmonton,AB
+Shanghai 456,$$,3.9 ,66,edmonton,AB
+Vaticano Cucina,$$,4.2 ,89,edmonton,AB
+XO Bistro & Bar,$$,4.6 ,81,edmonton,AB
+Rocky Mountain Icehouse,$$,3.5 ,74,edmonton,AB
+Misoya,$$,3.8 ,29,edmonton,AB
+Barbecue King City,$,4.5 ,6,edmonton,AB
+Panini’s Italian Cucina,$$,4.4 ,57,edmonton,AB
+Moxies,$$,3.1 ,47,edmonton,AB
+Bangkok Restaurant,$$,4.0 ,22,edmonton,AB
+Seoul Fried Chicken,$$,4.0 ,225,edmonton,AB
+Ernest’s,$$,4.4 ,21,edmonton,AB
+The Underground Tap & Grill,$$,3.6 ,107,edmonton,AB
+Haus Falkenstein,$$,4.1 ,25,edmonton,AB
+Bistro Praha,$$,4.1 ,72,edmonton,AB
+May,$$$,4.4 ,5,edmonton,AB
+Dagu Rice Noodle,$$,4.3 ,15,edmonton,AB
+Harvest Room,$$$,4.1 ,62,edmonton,AB
+Tony’s Pizza & Italian Restaurant,$$,4.1 ,113,edmonton,AB
+Avila Arepa,$$,3.9 ,66,edmonton,AB
+Padmanadi Vegetarian Restaurant,$$,4.5 ,322,edmonton,AB
+Mamenche’s,$$,4.0 ,29,edmonton,AB
+Lee House,$$,4.1 ,31,edmonton,AB
+Native Delights,$,4.0 ,9,edmonton,AB
+Calle Mexico,$$,4.5 ,111,edmonton,AB
+Allegro Italian Kitchen,$$$,4.4 ,16,edmonton,AB
+Bottega 104,$$$,3.5 ,43,edmonton,AB
+Blue Truck Barbecue,$$,3.9 ,21,edmonton,AB
+New Tan Tan,$$,3.8 ,23,edmonton,AB
+Bar Bricco,$$$,4.6 ,57,edmonton,AB
+Riverside Bistro,$$,2.7 ,33,edmonton,AB
+Clementine,$$$,3.8 ,56,edmonton,AB
+Y-Not Indian,$,4.7 ,21,edmonton,AB
+Grandma Pizza,$$$$,4.1 ,16,edmonton,AB
+Big Daddy’s Sandwich,$$,4.0 ,21,edmonton,AB
+Sofra Restaurant,$$$,4.2 ,79,edmonton,AB
+OEB Breakfast,$$,4.2 ,89,edmonton,AB
+Belgravia Hub,$$,4.0 ,33,edmonton,AB
+Asian Express Hot Pot,$$,4.5 ,52,edmonton,AB
+Bodega Tapas and Wine Bar,$$$,4.1 ,38,edmonton,AB
+Yo Baba Ukrainian Foods,$$,4.8 ,4,edmonton,AB
+Noodle Feast,$$,4.3 ,80,edmonton,AB
+Nara Chicken & Tonkatsu,$$,4.0 ,25,edmonton,AB
+Memphis Blues Barbeque House,$$,3.1 ,61,edmonton,AB
+Nhatrang Vietnamese Restaurant,$$,3.8 ,24,edmonton,AB
+Thanh Thanh Oriental Noodle House,$$,4.2 ,89,edmonton,AB
+Tzin Wine & Tapas,$$$,4.4 ,132,edmonton,AB
+Graze,$$,2.8 ,4,edmonton,AB
+Dirtbag Café,$$,4.2 ,20,edmonton,AB
+Pho Tau Bay,$,4.4 ,86,edmonton,AB
+El Fogón Latino,$$,4.5 ,21,edmonton,AB
+Sorrentino’s Downtown,$$$,4.1 ,46,edmonton,AB
+97 Hot Pot,$$,4.2 ,65,edmonton,AB
+Liz’s HomeStyle Grill,$$,3.8 ,9,edmonton,AB
+Confederation Lounge,$$$,4.2 ,40,edmonton,AB
+Frida Urban Taqueria,$$,4.1 ,15,edmonton,AB
+Take Five,$,4.4 ,67,edmonton,AB
+Pals Sandwiches,$$,4.6 ,11,edmonton,AB
+Battista’s Calzone,$,4.6 ,97,edmonton,AB
+Homefire,$$,3.8 ,69,edmonton,AB
+The Wokkery Restaurant,$$,3.4 ,16,edmonton,AB
+Little Bee BBQ HK Cafe,$$,3.7 ,15,edmonton,AB
+East75 Restaurant & Lounge,$$,3.3 ,4,edmonton,AB
+Kazoku Ramen,$$,3.7 ,103,edmonton,AB
+The Parlour Italian Kitchen & Bar,$$,3.3 ,141,edmonton,AB
+Noi Thai,$$,4.5 ,60,edmonton,AB
+Pazzo Pazzo Italian Cuisine,$$,3.7 ,60,edmonton,AB
+Nuovo Bistro,$$,4.4 ,52,edmonton,AB
+Chop steakhouse,$$$,3.5 ,85,edmonton,AB
+Gravy- Burgers And Fries,$$,4.0 ,83,edmonton,AB
+Ikki Sake Bar,$$,3.6 ,27,edmonton,AB
+Malt & Mortar,$$,3.4 ,116,edmonton,AB
+El Mariachi,$$,3.8 ,38,edmonton,AB
+The Marc,$$$,4.2 ,143,edmonton,AB
+Ten Foot Henry,$$$,4.6 ,532,calgary,AB
+The Porch,$$,4.7 ,31,calgary,AB
+Calan Beef Noodle,$$,4.3 ,64,calgary,AB
+Hayden Block Smoke & Whiskey,$$,4.3 ,227,calgary,AB
+The Himalayan,$$,4.7 ,279,calgary,AB
+Maven,$$,4.5 ,27,calgary,AB
+Namsan Korean Cuisine,$$,4.7 ,22,calgary,AB
+Tokyo Street Market,$$,4.2 ,120,calgary,AB
+Model Milk,$$$,4.0 ,259,calgary,AB
+Khao San Thai Kitchen,$$,4.4 ,120,calgary,AB
+Native Tongues Taqueria,$$,4.1 ,448,calgary,AB
+Ke Charcoal Grill & Sushi,$$,4.4 ,86,calgary,AB
+Gyu-Kaku Japanese BBQ,$$,4.1 ,108,calgary,AB
+Donna Mac,$$,3.9 ,45,calgary,AB
+Cactus Club Cafe,$$$,4.4 ,223,calgary,AB
+El Furniture Warehouse,$,3.9 ,54,calgary,AB
+NOtaBLE The Restaurant,$$$,4.0 ,292,calgary,AB
+LOCAL Public Eatery,$$,3.9 ,125,calgary,AB
+The Eden,$$,4.8 ,26,calgary,AB
+The Holy Grill,$$,4.3 ,201,calgary,AB
+Shokunin,$$$,4.2 ,168,calgary,AB
+Bridgette Bar,$$$,4.4 ,107,calgary,AB
+Mamak Dang Fusion Malaysian Cuisine,$$,4.3 ,82,calgary,AB
+OEB Breakfast,$$,4.5 ,321,calgary,AB
+Charcut Roast House,$$$,4.0 ,362,calgary,AB
+Queens Breakfast Cocktails,$$,4.5 ,145,calgary,AB
+Blue Star Diner,$$,4.4 ,251,calgary,AB
+Wiener-Schnitzel Haus,$$,3.9 ,46,calgary,AB
+OEB Breakfast,$$,4.4 ,609,calgary,AB
+4th Spot Kitchen & Bar,$$,4.0 ,167,calgary,AB
+Smuggler’s Inn,$$,3.8 ,115,calgary,AB
+Garden of Italy,$$,4.6 ,60,calgary,AB
+N9NA,$$,4.0 ,139,calgary,AB
+Spot On Kitchen & Bar,$$,3.9 ,44,calgary,AB
+Rodney’s Oyster House Calgary,$$$,3.8 ,109,calgary,AB
+Minas Brazilian Steakhouse,$$$,3.8 ,121,calgary,AB
+The Captain’s Boil,$$$,3.4 ,48,calgary,AB
+The Wednesday Room,$$,4.1 ,38,calgary,AB
+Pigeonhole,$$,4.0 ,107,calgary,AB
+La Casa Latina Mexican & Latin Grill,$$,4.7 ,35,calgary,AB
+The Lake House,$$$,4.3 ,45,calgary,AB
+Fleur De Sel,$$$$,4.0 ,27,calgary,AB
+La Bodega,$$,4.3 ,61,calgary,AB
+Cassis Bistro,$$$,4.3 ,73,calgary,AB
+Great Taste Chinese Restaurant,$$,4.0 ,91,calgary,AB
+One18 Empire,$$,4.3 ,95,calgary,AB
+Brouhaha,$$,4.6 ,12,calgary,AB
+Molcajete,$$,4.9 ,7,calgary,AB
+Posto Pizzeria and Bar,$$,4.3 ,89,calgary,AB
+Holy Smoke BBQ,$$,3.9 ,79,calgary,AB
+Namo Café Bistro - Edmonton Trail,$$,4.5 ,81,calgary,AB
+Tamarind Vietnamese Grill & Noodle House,$$,4.4 ,94,calgary,AB
+Red’s Diner Kensington,$$,3.8 ,97,calgary,AB
+JOEY Eau Claire,$$,3.8 ,137,calgary,AB
+Menyatai Japanese Noodles,$$,3.9 ,103,calgary,AB
+Bennys Breakfast Bar,$$,4.1 ,121,calgary,AB
+OEB Breakfast,$$,3.9 ,129,calgary,AB
+Noodlebox,$$,4.2 ,47,calgary,AB
+900 Degree Pizza,$,4.5 ,17,calgary,AB
+UNA Pizza + Wine,$$,4.1 ,410,calgary,AB
+Banh Mi Thai Tai,$,3.9 ,55,calgary,AB
+Ikemen Ramen Bar,$$,3.7 ,102,calgary,AB
+Shawarma House,$,4.4 ,60,calgary,AB
+Las Canarias,$$,4.0 ,29,calgary,AB
+Tacos Mexico,$$,4.3 ,77,calgary,AB
+Dairy Lane Café,$$,4.2 ,244,calgary,AB
+Klein Harris,$$,4.5 ,68,calgary,AB
+Stone Bowl Korean Cuisine,$$,4.1 ,33,calgary,AB
+The CattleBaron Steakhouse & Bar,$$$,4.1 ,115,calgary,AB
+OMO Teppan and Kitchen,$$,4.0 ,56,calgary,AB
+White Elephant Thai Cuisine,$$,4.1 ,194,calgary,AB
+Big Catch Sushi,$$,4.7 ,106,calgary,AB
+Jonas Restaurant & Bar,$$,4.4 ,56,calgary,AB
+Kangnam Station,$$$,4.3 ,3,calgary,AB
+Alforno Bakery & Cafe,$$,3.8 ,190,calgary,AB
+Big T’s BBQ & Smokehouse,$$,3.5 ,150,calgary,AB
+Jackie’s Thai,$,4.1 ,32,calgary,AB
+Selkirk Grille,$$,4.1 ,24,calgary,AB
+Trolley 5,$$,3.9 ,124,calgary,AB
+OEB Breakfast,$$,3.4 ,26,calgary,AB
+Ship & Anchor Pub,$$,3.9 ,149,calgary,AB
+Anatolia,$,4.7 ,11,calgary,AB
+Ramen Ichinen,$$,4.5 ,63,calgary,AB
+Shibuya Izakaya,$$,4.0 ,84,calgary,AB
+San Dong Banjeom,$$,4.3 ,22,calgary,AB
+Last Best Brewing & Distilling,$$,4.0 ,123,calgary,AB
+Thi Thi Vietnamese Subs,$,4.3 ,148,calgary,AB
+Ogam Chicken,$$,4.0 ,69,calgary,AB
+Sso Yummy,$,4.7 ,25,calgary,AB
+Blue Flame Kitchen Café,$$,3.7 ,7,calgary,AB
+Juree’s Thai Place,$$,3.9 ,147,calgary,AB
+Sammy’s Chophouse,$,4.0 ,10,calgary,AB
+Paddy’s Barbecue & Brewery,$$,4.3 ,24,calgary,AB
+Cleaver,$$,3.4 ,162,calgary,AB
+Carino,$$$,4.6 ,36,calgary,AB
+Hdmona Restaurant,$$,4.5 ,11,calgary,AB
+Our Daily Brett Market & Cafe,$$,3.9 ,21,calgary,AB
+Empanada Queen,$,4.1 ,34,calgary,AB
+Sultan’s Tent,$$$,3.9 ,43,calgary,AB
+Red’s Diner Ramsay,$$,4.1 ,108,calgary,AB
+Pure Modern Asian Kitchen + Bar,$$,4.3 ,70,calgary,AB
+South Silk Road Chinese Restaurant,$$,4.2 ,39,calgary,AB
+Po-ke,$$,3.8 ,90,calgary,AB
+Centre Street Japanese Hotpot,$$,3.5 ,31,calgary,AB
+Han Corea,$$,4.2 ,73,calgary,AB
+The Coup,$$,4.3 ,271,calgary,AB
+Cactus Club Cafe,$$,4.1 ,98,calgary,AB
+Rouge,$$$$,4.0 ,70,calgary,AB
+BeeFun hot pot,$$,4.0 ,11,calgary,AB
+JINYA Ramen Bar - Calgary,$$,3.7 ,155,calgary,AB
+Buon Giorno Ristorante Italiano,$$,4.0 ,76,calgary,AB
+Donday,$$,3.5 ,31,calgary,AB
+Charbar,$$,3.4 ,187,calgary,AB
+Inglewood Drive In,$,4.0 ,42,calgary,AB
+Anatolia Turkish Food,$$,3.7 ,31,calgary,AB
+Pho Huong Viet Noodle House,$,3.9 ,97,calgary,AB
+Pegasus,$$,3.8 ,23,calgary,AB
+River Café,$$$,3.9 ,197,calgary,AB
+The Wilde on 27,$$$,3.9 ,10,calgary,AB
+Thai Bistro,$$,3.9 ,80,calgary,AB
+Red’s Diner 58th,$$,4.2 ,16,calgary,AB
+Han Corea,$$,4.0 ,2,calgary,AB
+Browns Socialhouse,$$,3.7 ,28,calgary,AB
+Beirut Bakery,$,4.5 ,15,calgary,AB
+Ssome,$,3.4 ,8,calgary,AB
+Cravings,$,4.3 ,3,calgary,AB
+Holy Grill,$$,4.5 ,23,calgary,AB
+Rocky Mountain BBQ Catering,$$,4.7 ,3,calgary,AB
+Big Rock Grill,$$,3.9 ,10,calgary,AB
+Around the Bend,$$,4.6 ,30,calgary,AB
+Buchanan’s Chop House Whisky Bar,$$$,4.1 ,33,calgary,AB
+Michael’s Pizza,$$,4.1 ,48,calgary,AB
+Cactus Club Cafe,$$,3.6 ,114,calgary,AB
+Pocket Dawg,$,4.0 ,5,calgary,AB
+Han’s Restaurant,$$,4.5 ,23,calgary,AB
+Soul Kitchen BBQ,$,4.5 ,15,calgary,AB
+Side Street Pub & Grill,$$,4.1 ,32,calgary,AB
+Madison’s 12|12,$$,3.7 ,59,calgary,AB
+Five Spice Kitchen,$,4.4 ,19,calgary,AB
+Moxies,$$,3.5 ,60,calgary,AB
+The Nash,$$$,3.9 ,144,calgary,AB
+Sushi Toki,$$,4.0 ,27,calgary,AB
+Samurai Ramen and Sushi,$$,4.3 ,40,calgary,AB
+Azzurri Pizzeria,$$,4.8 ,24,calgary,AB
+The Street Eatery,$$,3.4 ,41,calgary,AB
+Sushi Party,$,4.6 ,5,calgary,AB
+Dragon Dynasty Chinese Restaurant,$$,3.6 ,38,calgary,AB
+Sole Restaurant & Bar,$$,3.9 ,13,calgary,AB
+Salsita,$$,4.0 ,12,calgary,AB
+Omega Cafe,$,4.7 ,6,calgary,AB
+The Keg Steakhouse + Bar,$$$,3.9 ,94,calgary,AB
+Redheads Japa Cafe,$$,4.1 ,76,calgary,AB
+Añejo Restaurant,$$,3.7 ,209,calgary,AB
+Kingsmen Ale House,$$,4.8 ,15,lethbridge,AB
+Firestone Restaurant and Bar,$$,3.3 ,48,lethbridge,AB
+Telegraph Taphouse,$$,3.3 ,38,lethbridge,AB
+Miro Bistro,$$$,4.4 ,17,lethbridge,AB
+Two Guys & A Pizza Place,$$,4.1 ,61,lethbridge,AB
+Dylan’s Piggyback Poutinerie,$$,3.6 ,9,lethbridge,AB
+Sisters Pub & Grill,$$,4.4 ,8,lethbridge,AB
+Browns Socialhouse Lethbridge West,$$,3.6 ,30,lethbridge,AB
+Lighthouse Japanese Restaurant,$$,3.8 ,23,lethbridge,AB
+Thuan Hoa,$$,4.0 ,21,lethbridge,AB
+Cafe Verde,$$,3.6 ,28,lethbridge,AB
+Spring Rolls,$$,4.1 ,15,lethbridge,AB
+Imperial China,$$,3.4 ,12,lethbridge,AB
+Moxies,$$,3.6 ,25,lethbridge,AB
+Hudsons Canada’s Pub,$$,3.4 ,27,lethbridge,AB
+Whitbie’s Fish & Chips,$$,3.9 ,22,lethbridge,AB
+Dono Sushi,$$,4.0 ,27,lethbridge,AB
+Legendary Wing King,$$,4.3 ,7,lethbridge,AB
+Backstreet West Pub & Pizza,$$,3.8 ,9,lethbridge,AB
+Mojo’s Craft Pub & Grill,$$,2.7 ,12,lethbridge,AB
+Luigi’s Pizza & Steak House,$$,3.6 ,16,lethbridge,AB
+Luigi’s Steakhouse,$$,3.4 ,18,lethbridge,AB
+The Keg Steakhouse + Bar,$$,3.8 ,8,lethbridge,AB
+Makisu Sushi,$$,3.3 ,14,lethbridge,AB
+Browns Socialhouse Lethbridge South,$$$$,3.5 ,10,lethbridge,AB
+Streatside Eatery,$$,3.9 ,9,lethbridge,AB
+The Penny Coffee House,$$,4.1 ,25,lethbridge,AB
+The Slice Bar & Grill,$$,3.5 ,8,lethbridge,AB
+O-Sho,$$,3.2 ,12,lethbridge,AB
+Mediterranean Mazza bar,$$,3.5 ,4,lethbridge,AB
+Earls Kitchen + Bar,$$,3.0 ,11,lethbridge,AB
+Baadshah Royal East Indian Cuisine,$$,3.3 ,8,lethbridge,AB
+Montana’s,$$,1.5 ,32,lethbridge,AB
+Coyotés Grill and Wok,$$,3.7 ,3,lethbridge,AB
+Cora,$$,3.7 ,21,lethbridge,AB
+Broxburn Vegetables & Cafe,$$,4.1 ,9,lethbridge,AB
+Tony Roma’s,$$,2.5 ,15,lethbridge,AB
+Mimi’s Restaurant,$,2.8 ,5,lethbridge,AB
+Pizza Junction,$$,4.5 ,2,lethbridge,AB
+The Keg Steakhouse & Bar,$$$,3.5 ,6,lethbridge,AB
+Fatburger,$$,3.7 ,10,lethbridge,AB
+Top Pizza & Spaghetti House,$$,2.6 ,18,lethbridge,AB
+Nakagama’s Japanese Food & Giftware,$$,4.0 ,1,lethbridge,AB
+Original Joe’s,$$,3.3 ,6,lethbridge,AB
+Smitty’s,$$,3.4 ,5,lethbridge,AB
+Joey’s Seafood Restaurants,$$,2.9 ,9,lethbridge,AB
+Boston Pizza,$$,3.0 ,11,lethbridge,AB
+IHOP,$$,2.4 ,8,lethbridge,AB
+Dairy Queen Grill & Chill,$,1.0 ,1,lethbridge,AB
+McDonald’s,$,3.0 ,9,lethbridge,AB
+McDonald’s,$$,1.8 ,9,lethbridge,AB
+Swiss Chalet Rotisserie & Grill,$,1.6 ,8,lethbridge,AB
+Arby’s,$,3.5 ,2,lethbridge,AB
+West Lake Grill,$$$,4.5 ,25,red-deer,AB
+Boulevard Restaurant & Lounge,$$,4.3 ,21,red-deer,AB
+One Eleven Grill,$$$,3.7 ,60,red-deer,AB
+Old Mexico Traditional Cuisine,$$,4.0 ,58,red-deer,AB
+Rueon,$$,4.7 ,14,red-deer,AB
+Browns Socialhouse Clearview,$$,3.6 ,34,red-deer,AB
+Thap Ba Restaurant,$,4.6 ,29,red-deer,AB
+State & Main Kitchen & Bar,$$,3.8 ,19,red-deer,AB
+Blue Dragon Restaurant,$$,4.0 ,18,red-deer,AB
+The Keg Steakhouse + Bar,$$$,3.6 ,21,red-deer,AB
+Jose Jose Latin Restaurant,$$,4.5 ,26,red-deer,AB
+Bo’s Bar and Grill,$$,4.0 ,28,red-deer,AB
+Pink Bow Steak & Crepes,$$,4.2 ,13,red-deer,AB
+Rusty Pelican,$$,2.0 ,17,red-deer,AB
+It’s All Greek To Me,$$,3.6 ,18,red-deer,AB
+JB’s Lounge,$,3.6 ,5,red-deer,AB
+Hybrid 26,$,3.0 ,2,red-deer,AB
+MR MIKES,$$,3.4 ,30,red-deer,AB
+Shiso Japanese Restaurant,$$,3.9 ,44,red-deer,AB
+Vietnamese Garden,$$,3.5 ,8,red-deer,AB
+Famoso Neapolitan Pizzeria,$$,4.4 ,19,red-deer,AB
+Momo Sushi,$$,4.0 ,33,red-deer,AB
+Original Joe’s Restaurant & Bar,$$,3.6 ,31,red-deer,AB
+Sushi Sushi Japanese Noodles & Sushi,$$,4.1 ,8,red-deer,AB
+West 67 Lounge & Grill,$$,1.4 ,7,red-deer,AB
+Kim’s Riverside Cafe,$$,4.0 ,3,red-deer,AB
+Papa Baldy’s Pizza,$$,3.9 ,24,red-deer,AB
+State & Main Kitchen & Bar,$$,2.6 ,9,red-deer,AB
+The Donut Mill,$,4.0 ,133,red-deer,AB
+Pho Thuy Duong Vietnamese Restaurant,$$,3.8 ,12,red-deer,AB
+Addys Middle Eastern Cuisine,$$,4.6 ,18,red-deer,AB
+Las Palmeras,$$,3.5 ,22,red-deer,AB
+Queens Diner,$,3.6 ,5,red-deer,AB
+Peters’ Drive-In,$$,2.4 ,79,red-deer,AB
+Tandoor N Flame,$$,3.3 ,11,red-deer,AB
+Toad ‘n’ Turtle,$$,2.6 ,19,red-deer,AB
+Moxies,$$,2.5 ,28,red-deer,AB
+Burger Boy,$,3.8 ,35,red-deer,AB
+Albert’s Family Restaurant & Lounge,$$,4.5 ,6,red-deer,AB
+Koryo Korean Bbq,$$,4.2 ,9,red-deer,AB
+Phoenix Buffet,$$,3.2 ,19,red-deer,AB
+The Canadian Brewhouse,$$,2.7 ,20,red-deer,AB
+George’s Pizza & Steak House,$$,2.5 ,24,red-deer,AB
+Glenn’s Family Restaurant & Gift Shop,$$,3.8 ,40,red-deer,AB
+Cora,$$,3.6 ,14,red-deer,AB
+Joey’s Seafood Restaurants,$$,4.5 ,4,red-deer,AB
+Phil’s Restaurant,$$,3.6 ,18,red-deer,AB
+Ricky’s All Day Grill,$$,3.3 ,14,red-deer,AB
+Sushimaru,$$,4.0 ,7,red-deer,AB
+Red Star Chinese Restaurant,$$,3.3 ,21,red-deer,AB
+Earls Kitchen + Bar,$$,2.6 ,27,red-deer,AB
+Mary Brown’s Famous Chicken & Taters,$,3.6 ,5,red-deer,AB
+East Side Mario’s,$$,2.4 ,31,red-deer,AB
+Saro’s Restaurant,$$,2.5 ,6,red-deer,AB
+ABC Country Restaurant,$$,3.1 ,16,red-deer,AB
+Redcity Donair & Pita,$,4.6 ,8,red-deer,AB
+Barkada Grill,$$,3.6 ,5,red-deer,AB
+Montana’s,$$,2.8 ,32,red-deer,AB
+Buster’s Pizza & Donair,$$,3.7 ,3,red-deer,AB
+Boston Pizza,$$,4.0 ,5,red-deer,AB
+Pizza 73,$,4.0 ,3,red-deer,AB
+Eka Of Japan,$,4.4 ,5,red-deer,AB
+Five Guys,$$,4.3 ,16,red-deer,AB
+Canton Kitchen,$$,2.0 ,3,red-deer,AB
+Boston Pizza,$$,2.5 ,22,red-deer,AB
+Edo Japan,$$,3.8 ,6,red-deer,AB
+botaniCa Red Deer,$,1.8 ,4,red-deer,AB
+Pita Pit,$$,3.5 ,2,red-deer,AB
+China House,$$,2.8 ,8,red-deer,AB
+Dragon City Buffet,$$,3.2 ,18,red-deer,AB
+Mucho Burrito Fresh Mexican Grill,$,3.7 ,14,red-deer,AB
+Denny’s,$$,2.6 ,19,red-deer,AB
+Western Pizza,$$,3.8 ,8,red-deer,AB
+Chopped Leaf,$$,4.0 ,3,red-deer,AB
+Monsieur Wong’s,$$,2.0 ,6,red-deer,AB
