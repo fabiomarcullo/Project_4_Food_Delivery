@@ -1,0 +1,2469 @@
+restaurant_name,price_range,rating,total_reviews,location,province
+Woodwork,$$,4.2,172,Edmonton,AB
+RGE RD,$$$,4.4,172,Edmonton,AB
+BaoBao,$$,4.3,40,Edmonton,AB
+Baijiu,$$,4.4,52,Edmonton,AB
+Bundok,$$$$,4.5,53,Edmonton,AB
+Pip,$$,4.3,172,Edmonton,AB
+Meat,$$,4.1,475,Edmonton,AB
+Blowers & Grafton,$$,4.1,127,Edmonton,AB
+Otto Food and Drink,$$,4.5,75,Edmonton,AB
+Cafe Amore Bistro,$$,4.3,143,Edmonton,AB
+El Mero Mero Taqueria,$$,4,29,Edmonton,AB
+The Lunchbox Diner,$$,4.5,17,Edmonton,AB
+Biera,$$,3.9,79,Edmonton,AB
+Nongbu Korean Eatery,$$,4.3,53,Edmonton,AB
+SugarBowl,$$,4,486,Edmonton,AB
+The Common,$$,3.8,167,Edmonton,AB
+Bodega Highlands,$$,4.6,55,Edmonton,AB
+Black Pearl Seafood Bar-Downtown,$$$,4.2,99,Edmonton,AB
+Sabor,$$$,4.2,167,Edmonton,AB
+Uccellino,$$$,4.4,82,Edmonton,AB
+Hathaway’s Diner,$$,4.5,113,Edmonton,AB
+Refinery Grill,$$,3.8,60,Edmonton,AB
+The Butternut Tree,$$$$,4.2,41,Edmonton,AB
+JOEY Bell Tower,$$,3.9,81,Edmonton,AB
+CRAFT Beer Market,$$,3.5,257,Edmonton,AB
+OEB Breakfast,$$,4.4,237,Edmonton,AB
+Dorinku Tokyo,$$,4.2,191,Edmonton,AB
+The Bedouins,$$,4.8,50,Edmonton,AB
+Izakaya Tomo,$$,4.4,169,Edmonton,AB
+Rockin’ Robyn’s Diner,$$,4.2,177,Edmonton,AB
+Tokiwa Ramen,$$,4.2,120,Edmonton,AB
+Let’s Grill Sushi & Izakaya,$$,4,43,Edmonton,AB
+Dadeo,$$,4,263,Edmonton,AB
+Community Taps + Pizza,$$,4.3,8,Edmonton,AB
+Sai Woo Garden Restaurant,$$,3.9,52,Edmonton,AB
+The People’s Perogy,$$,4.3,32,Edmonton,AB
+Hanjan,$$,4.3,115,Edmonton,AB
+La Patrona,$$,4.4,108,Edmonton,AB
+Glass Monkey,$$,3.8,68,Edmonton,AB
+Uncle Ed’s Restaurant,$$,4.2,70,Edmonton,AB
+Kiwado Japanese Cuisine,$$,4.2,20,Edmonton,AB
+The Next Act,$$,4.2,291,Edmonton,AB
+LOFT Thai Eatery,$$,4.3,38,Edmonton,AB
+Ruth’s Chris Steak House,$$$$,3.8,111,Edmonton,AB
+All Happy Family Restaurant,$$,3.4,109,Edmonton,AB
+Double Greeting Wonton House,$$,4.1,59,Edmonton,AB
+Northern Chicken,$$,4.1,165,Edmonton,AB
+Little Brick,$$,3.9,100,Edmonton,AB
+Share,$$$,3.8,10,Edmonton,AB
+The Cajun House,$$,4.1,64,Edmonton,AB
+Golden Dumpling Restaurant,$,3.7,7,Edmonton,AB
+Shanghai 456,$$,3.9,66,Edmonton,AB
+Vaticano Cucina,$$,4.2,89,Edmonton,AB
+XO Bistro & Bar,$$,4.6,81,Edmonton,AB
+Rocky Mountain Icehouse,$$,3.5,74,Edmonton,AB
+Misoya,$$,3.8,29,Edmonton,AB
+Barbecue King City,$,4.5,6,Edmonton,AB
+Panini’s Italian Cucina,$$,4.4,57,Edmonton,AB
+Moxies,$$,3.1,47,Edmonton,AB
+Bangkok Restaurant,$$,4,22,Edmonton,AB
+Seoul Fried Chicken,$$,4,225,Edmonton,AB
+Ernest’s,$$,4.4,21,Edmonton,AB
+The Underground Tap & Grill,$$,3.6,107,Edmonton,AB
+Haus Falkenstein,$$,4.1,25,Edmonton,AB
+Bistro Praha,$$,4.1,72,Edmonton,AB
+May,$$$,4.4,5,Edmonton,AB
+Dagu Rice Noodle,$$,4.3,15,Edmonton,AB
+Harvest Room,$$$,4.1,62,Edmonton,AB
+Tony’s Pizza & Italian Restaurant,$$,4.1,113,Edmonton,AB
+Avila Arepa,$$,3.9,66,Edmonton,AB
+Padmanadi Vegetarian Restaurant,$$,4.5,322,Edmonton,AB
+Mamenche’s,$$,4,29,Edmonton,AB
+Lee House,$$,4.1,31,Edmonton,AB
+Native Delights,$,4,9,Edmonton,AB
+Calle Mexico,$$,4.5,111,Edmonton,AB
+Allegro Italian Kitchen,$$$,4.4,16,Edmonton,AB
+Bottega 104,$$$,3.5,43,Edmonton,AB
+Blue Truck Barbecue,$$,3.9,21,Edmonton,AB
+New Tan Tan,$$,3.8,23,Edmonton,AB
+Bar Bricco,$$$,4.6,57,Edmonton,AB
+Riverside Bistro,$$,2.7,33,Edmonton,AB
+Clementine,$$$,3.8,56,Edmonton,AB
+Y-Not Indian,$,4.7,21,Edmonton,AB
+Grandma Pizza,$$$$,4.1,16,Edmonton,AB
+Big Daddy’s Sandwich,$$,4,21,Edmonton,AB
+Sofra Restaurant,$$$,4.2,79,Edmonton,AB
+OEB Breakfast,$$,4.2,89,Edmonton,AB
+Belgravia Hub,$$,4,33,Edmonton,AB
+Asian Express Hot Pot,$$,4.5,52,Edmonton,AB
+Bodega Tapas and Wine Bar,$$$,4.1,38,Edmonton,AB
+Yo Baba Ukrainian Foods,$$,4.8,4,Edmonton,AB
+Noodle Feast,$$,4.3,80,Edmonton,AB
+Nara Chicken & Tonkatsu,$$,4,25,Edmonton,AB
+Memphis Blues Barbeque House,$$,3.1,61,Edmonton,AB
+Nhatrang Vietnamese Restaurant,$$,3.8,24,Edmonton,AB
+Thanh Thanh Oriental Noodle House,$$,4.2,89,Edmonton,AB
+Tzin Wine & Tapas,$$$,4.4,132,Edmonton,AB
+Graze,$$,2.8,4,Edmonton,AB
+Dirtbag Café,$$,4.2,20,Edmonton,AB
+Pho Tau Bay,$,4.4,86,Edmonton,AB
+El Fogón Latino,$$,4.5,21,Edmonton,AB
+Sorrentino’s Downtown,$$$,4.1,46,Edmonton,AB
+97 Hot Pot,$$,4.2,65,Edmonton,AB
+Liz’s HomeStyle Grill,$$,3.8,9,Edmonton,AB
+Confederation Lounge,$$$,4.2,40,Edmonton,AB
+Frida Urban Taqueria,$$,4.1,15,Edmonton,AB
+Take Five,$,4.4,67,Edmonton,AB
+Pals Sandwiches,$$,4.6,11,Edmonton,AB
+Battista’s Calzone,$,4.6,97,Edmonton,AB
+Homefire,$$,3.8,69,Edmonton,AB
+The Wokkery Restaurant,$$,3.4,16,Edmonton,AB
+Little Bee BBQ HK Cafe,$$,3.7,15,Edmonton,AB
+East75 Restaurant & Lounge,$$,3.3,4,Edmonton,AB
+Kazoku Ramen,$$,3.7,103,Edmonton,AB
+The Parlour Italian Kitchen & Bar,$$,3.3,141,Edmonton,AB
+Noi Thai,$$,4.5,60,Edmonton,AB
+Pazzo Pazzo Italian Cuisine,$$,3.7,60,Edmonton,AB
+Nuovo Bistro,$$,4.4,52,Edmonton,AB
+Chop steakhouse,$$$,3.5,85,Edmonton,AB
+Gravy- Burgers And Fries,$$,4,83,Edmonton,AB
+Ikki Sake Bar,$$,3.6,27,Edmonton,AB
+Malt & Mortar,$$,3.4,116,Edmonton,AB
+El Mariachi,$$,3.8,38,Edmonton,AB
+The Marc,$$$,4.2,143,Edmonton,AB
+Ten Foot Henry,$$$,4.6,532,Calgary,AB
+The Porch,$$,4.7,31,Calgary,AB
+Calan Beef Noodle,$$,4.3,64,Calgary,AB
+Hayden Block Smoke & Whiskey,$$,4.3,227,Calgary,AB
+The Himalayan,$$,4.7,279,Calgary,AB
+Maven,$$,4.5,27,Calgary,AB
+Namsan Korean Cuisine,$$,4.7,22,Calgary,AB
+Tokyo Street Market,$$,4.2,120,Calgary,AB
+Model Milk,$$$,4,259,Calgary,AB
+Khao San Thai Kitchen,$$,4.4,120,Calgary,AB
+Native Tongues Taqueria,$$,4.1,448,Calgary,AB
+Ke Charcoal Grill & Sushi,$$,4.4,86,Calgary,AB
+Gyu-Kaku Japanese BBQ,$$,4.1,108,Calgary,AB
+Donna Mac,$$,3.9,45,Calgary,AB
+Cactus Club Cafe,$$$,4.4,223,Calgary,AB
+El Furniture Warehouse,$,3.9,54,Calgary,AB
+NOtaBLE The Restaurant,$$$,4,292,Calgary,AB
+LOCAL Public Eatery,$$,3.9,125,Calgary,AB
+The Eden,$$,4.8,26,Calgary,AB
+The Holy Grill,$$,4.3,201,Calgary,AB
+Shokunin,$$$,4.2,168,Calgary,AB
+Bridgette Bar,$$$,4.4,107,Calgary,AB
+Mamak Dang Fusion Malaysian Cuisine,$$,4.3,82,Calgary,AB
+OEB Breakfast,$$,4.5,321,Calgary,AB
+Charcut Roast House,$$$,4,362,Calgary,AB
+Queens Breakfast Cocktails,$$,4.5,145,Calgary,AB
+Blue Star Diner,$$,4.4,251,Calgary,AB
+Wiener-Schnitzel Haus,$$,3.9,46,Calgary,AB
+OEB Breakfast,$$,4.4,609,Calgary,AB
+4th Spot Kitchen & Bar,$$,4,167,Calgary,AB
+Smuggler’s Inn,$$,3.8,115,Calgary,AB
+Garden of Italy,$$,4.6,60,Calgary,AB
+N9NA,$$,4,139,Calgary,AB
+Spot On Kitchen & Bar,$$,3.9,44,Calgary,AB
+Rodney’s Oyster House Calgary,$$$,3.8,109,Calgary,AB
+Minas Brazilian Steakhouse,$$$,3.8,121,Calgary,AB
+The Captain’s Boil,$$$,3.4,48,Calgary,AB
+The Wednesday Room,$$,4.1,38,Calgary,AB
+Pigeonhole,$$,4,107,Calgary,AB
+La Casa Latina Mexican & Latin Grill,$$,4.7,35,Calgary,AB
+The Lake House,$$$,4.3,45,Calgary,AB
+Fleur De Sel,$$$$,4,27,Calgary,AB
+La Bodega,$$,4.3,61,Calgary,AB
+Cassis Bistro,$$$,4.3,73,Calgary,AB
+Great Taste Chinese Restaurant,$$,4,91,Calgary,AB
+One18 Empire,$$,4.3,95,Calgary,AB
+Brouhaha,$$,4.6,12,Calgary,AB
+Molcajete,$$,4.9,7,Calgary,AB
+Posto Pizzeria and Bar,$$,4.3,89,Calgary,AB
+Holy Smoke BBQ,$$,3.9,79,Calgary,AB
+Namo Café Bistro - Edmonton Trail,$$,4.5,81,Calgary,AB
+Tamarind Vietnamese Grill & Noodle House,$$,4.4,94,Calgary,AB
+Red’s Diner Kensington,$$,3.8,97,Calgary,AB
+JOEY Eau Claire,$$,3.8,137,Calgary,AB
+Menyatai Japanese Noodles,$$,3.9,103,Calgary,AB
+Bennys Breakfast Bar,$$,4.1,121,Calgary,AB
+OEB Breakfast,$$,3.9,129,Calgary,AB
+Noodlebox,$$,4.2,47,Calgary,AB
+900 Degree Pizza,$,4.5,17,Calgary,AB
+UNA Pizza + Wine,$$,4.1,410,Calgary,AB
+Banh Mi Thai Tai,$,3.9,55,Calgary,AB
+Ikemen Ramen Bar,$$,3.7,102,Calgary,AB
+Shawarma House,$,4.4,60,Calgary,AB
+Las Canarias,$$,4,29,Calgary,AB
+Tacos Mexico,$$,4.3,77,Calgary,AB
+Dairy Lane Café,$$,4.2,244,Calgary,AB
+Klein Harris,$$,4.5,68,Calgary,AB
+Stone Bowl Korean Cuisine,$$,4.1,33,Calgary,AB
+The CattleBaron Steakhouse & Bar,$$$,4.1,115,Calgary,AB
+OMO Teppan and Kitchen,$$,4,56,Calgary,AB
+White Elephant Thai Cuisine,$$,4.1,194,Calgary,AB
+Big Catch Sushi,$$,4.7,106,Calgary,AB
+Jonas Restaurant & Bar,$$,4.4,56,Calgary,AB
+Kangnam Station,$$$,4.3,3,Calgary,AB
+Alforno Bakery & Cafe,$$,3.8,190,Calgary,AB
+Big T’s BBQ & Smokehouse,$$,3.5,150,Calgary,AB
+Jackie’s Thai,$,4.1,32,Calgary,AB
+Selkirk Grille,$$,4.1,24,Calgary,AB
+Trolley 5,$$,3.9,124,Calgary,AB
+OEB Breakfast,$$,3.4,26,Calgary,AB
+Ship & Anchor Pub,$$,3.9,149,Calgary,AB
+Anatolia,$,4.7,11,Calgary,AB
+Ramen Ichinen,$$,4.5,63,Calgary,AB
+Shibuya Izakaya,$$,4,84,Calgary,AB
+San Dong Banjeom,$$,4.3,22,Calgary,AB
+Last Best Brewing & Distilling,$$,4,123,Calgary,AB
+Thi Thi Vietnamese Subs,$,4.3,148,Calgary,AB
+Ogam Chicken,$$,4,69,Calgary,AB
+Sso Yummy,$,4.7,25,Calgary,AB
+Blue Flame Kitchen Café,$$,3.7,7,Calgary,AB
+Juree’s Thai Place,$$,3.9,147,Calgary,AB
+Sammy’s Chophouse,$,4,10,Calgary,AB
+Paddy’s Barbecue & Brewery,$$,4.3,24,Calgary,AB
+Cleaver,$$,3.4,162,Calgary,AB
+Carino,$$$,4.6,36,Calgary,AB
+Hdmona Restaurant,$$,4.5,11,Calgary,AB
+Our Daily Brett Market & Cafe,$$,3.9,21,Calgary,AB
+Empanada Queen,$,4.1,34,Calgary,AB
+Sultan’s Tent,$$$,3.9,43,Calgary,AB
+Red’s Diner Ramsay,$$,4.1,108,Calgary,AB
+Pure Modern Asian Kitchen + Bar,$$,4.3,70,Calgary,AB
+South Silk Road Chinese Restaurant,$$,4.2,39,Calgary,AB
+Po-ke,$$,3.8,90,Calgary,AB
+Centre Street Japanese Hotpot,$$,3.5,31,Calgary,AB
+Han Corea,$$,4.2,73,Calgary,AB
+The Coup,$$,4.3,271,Calgary,AB
+Cactus Club Cafe,$$,4.1,98,Calgary,AB
+Rouge,$$$$,4,70,Calgary,AB
+BeeFun hot pot,$$,4,11,Calgary,AB
+JINYA Ramen Bar - Calgary,$$,3.7,155,Calgary,AB
+Buon Giorno Ristorante Italiano,$$,4,76,Calgary,AB
+Donday,$$,3.5,31,Calgary,AB
+Charbar,$$,3.4,187,Calgary,AB
+Inglewood Drive In,$,4,42,Calgary,AB
+Anatolia Turkish Food,$$,3.7,31,Calgary,AB
+Pho Huong Viet Noodle House,$,3.9,97,Calgary,AB
+Pegasus,$$,3.8,23,Calgary,AB
+River Café,$$$,3.9,197,Calgary,AB
+The Wilde on 27,$$$,3.9,10,Calgary,AB
+Thai Bistro,$$,3.9,80,Calgary,AB
+Red’s Diner 58th,$$,4.2,16,Calgary,AB
+Han Corea,$$,4,2,Calgary,AB
+Browns Socialhouse,$$,3.7,28,Calgary,AB
+Beirut Bakery,$,4.5,15,Calgary,AB
+Ssome,$,3.4,8,Calgary,AB
+Cravings,$,4.3,3,Calgary,AB
+Holy Grill,$$,4.5,23,Calgary,AB
+Rocky Mountain BBQ Catering,$$,4.7,3,Calgary,AB
+Big Rock Grill,$$,3.9,10,Calgary,AB
+Around the Bend,$$,4.6,30,Calgary,AB
+Buchanan’s Chop House Whisky Bar,$$$,4.1,33,Calgary,AB
+Michael’s Pizza,$$,4.1,48,Calgary,AB
+Cactus Club Cafe,$$,3.6,114,Calgary,AB
+Pocket Dawg,$,4,5,Calgary,AB
+Han’s Restaurant,$$,4.5,23,Calgary,AB
+Soul Kitchen BBQ,$,4.5,15,Calgary,AB
+Side Street Pub & Grill,$$,4.1,32,Calgary,AB
+Madison’s 12|12,$$,3.7,59,Calgary,AB
+Five Spice Kitchen,$,4.4,19,Calgary,AB
+Moxies,$$,3.5,60,Calgary,AB
+The Nash,$$$,3.9,144,Calgary,AB
+Sushi Toki,$$,4,27,Calgary,AB
+Samurai Ramen and Sushi,$$,4.3,40,Calgary,AB
+Azzurri Pizzeria,$$,4.8,24,Calgary,AB
+The Street Eatery,$$,3.4,41,Calgary,AB
+Sushi Party,$,4.6,5,Calgary,AB
+Dragon Dynasty Chinese Restaurant,$$,3.6,38,Calgary,AB
+Sole Restaurant & Bar,$$,3.9,13,Calgary,AB
+Salsita,$$,4,12,Calgary,AB
+Omega Cafe,$,4.7,6,Calgary,AB
+The Keg Steakhouse + Bar,$$$,3.9,94,Calgary,AB
+Redheads Japa Cafe,$$,4.1,76,Calgary,AB
+Añejo Restaurant,$$,3.7,209,Calgary,AB
+Kingsmen Ale House,$$,4.8,15,Lethbridge,AB
+Firestone Restaurant and Bar,$$,3.3,48,Lethbridge,AB
+Telegraph Taphouse,$$,3.3,38,Lethbridge,AB
+Miro Bistro,$$$,4.4,17,Lethbridge,AB
+Two Guys & A Pizza Place,$$,4.1,61,Lethbridge,AB
+Dylan’s Piggyback Poutinerie,$$,3.6,9,Lethbridge,AB
+Sisters Pub & Grill,$$,4.4,8,Lethbridge,AB
+Browns Socialhouse Lethbridge West,$$,3.6,30,Lethbridge,AB
+Lighthouse Japanese Restaurant,$$,3.8,23,Lethbridge,AB
+Thuan Hoa,$$,4,21,Lethbridge,AB
+Cafe Verde,$$,3.6,28,Lethbridge,AB
+Spring Rolls,$$,4.1,15,Lethbridge,AB
+Imperial China,$$,3.4,12,Lethbridge,AB
+Moxies,$$,3.6,25,Lethbridge,AB
+Hudsons Canada’s Pub,$$,3.4,27,Lethbridge,AB
+Whitbie’s Fish & Chips,$$,3.9,22,Lethbridge,AB
+Dono Sushi,$$,4,27,Lethbridge,AB
+Legendary Wing King,$$,4.3,7,Lethbridge,AB
+Backstreet West Pub & Pizza,$$,3.8,9,Lethbridge,AB
+Mojo’s Craft Pub & Grill,$$,2.7,12,Lethbridge,AB
+Luigi’s Pizza & Steak House,$$,3.6,16,Lethbridge,AB
+Luigi’s Steakhouse,$$,3.4,18,Lethbridge,AB
+The Keg Steakhouse + Bar,$$,3.8,8,Lethbridge,AB
+Makisu Sushi,$$,3.3,14,Lethbridge,AB
+Browns Socialhouse Lethbridge South,$$$$,3.5,10,Lethbridge,AB
+Streatside Eatery,$$,3.9,9,Lethbridge,AB
+The Penny Coffee House,$$,4.1,25,Lethbridge,AB
+The Slice Bar & Grill,$$,3.5,8,Lethbridge,AB
+O-Sho,$$,3.2,12,Lethbridge,AB
+Mediterranean Mazza bar,$$,3.5,4,Lethbridge,AB
+Earls Kitchen + Bar,$$,3,11,Lethbridge,AB
+Baadshah Royal East Indian Cuisine,$$,3.3,8,Lethbridge,AB
+Montana’s,$$,1.5,32,Lethbridge,AB
+Coyotés Grill and Wok,$$,3.7,3,Lethbridge,AB
+Cora,$$,3.7,21,Lethbridge,AB
+Broxburn Vegetables & Cafe,$$,4.1,9,Lethbridge,AB
+Tony Roma’s,$$,2.5,15,Lethbridge,AB
+Mimi’s Restaurant,$,2.8,5,Lethbridge,AB
+Pizza Junction,$$,4.5,2,Lethbridge,AB
+The Keg Steakhouse & Bar,$$$,3.5,6,Lethbridge,AB
+Fatburger,$$,3.7,10,Lethbridge,AB
+Top Pizza & Spaghetti House,$$,2.6,18,Lethbridge,AB
+Nakagama’s Japanese Food & Giftware,$$,4,1,Lethbridge,AB
+Original Joe’s,$$,3.3,6,Lethbridge,AB
+Smitty’s,$$,3.4,5,Lethbridge,AB
+Joey’s Seafood Restaurants,$$,2.9,9,Lethbridge,AB
+Boston Pizza,$$,3,11,Lethbridge,AB
+IHOP,$$,2.4,8,Lethbridge,AB
+Dairy Queen Grill & Chill,$,1,1,Lethbridge,AB
+McDonald’s,$,3,9,Lethbridge,AB
+McDonald’s,$$,1.8,9,Lethbridge,AB
+Swiss Chalet Rotisserie & Grill,$,1.6,8,Lethbridge,AB
+Arby’s,$,3.5,2,Lethbridge,AB
+West Lake Grill,$$$,4.5,25,Red-Deer,AB
+Boulevard Restaurant & Lounge,$$,4.3,21,Red-Deer,AB
+One Eleven Grill,$$$,3.7,60,Red-Deer,AB
+Old Mexico Traditional Cuisine,$$,4,58,Red-Deer,AB
+Rueon,$$,4.7,14,Red-Deer,AB
+Browns Socialhouse Clearview,$$,3.6,34,Red-Deer,AB
+Thap Ba Restaurant,$,4.6,29,Red-Deer,AB
+State & Main Kitchen & Bar,$$,3.8,19,Red-Deer,AB
+Blue Dragon Restaurant,$$,4,18,Red-Deer,AB
+The Keg Steakhouse + Bar,$$$,3.6,21,Red-Deer,AB
+Jose Jose Latin Restaurant,$$,4.5,26,Red-Deer,AB
+Bo’s Bar and Grill,$$,4,28,Red-Deer,AB
+Pink Bow Steak & Crepes,$$,4.2,13,Red-Deer,AB
+Rusty Pelican,$$,2,17,Red-Deer,AB
+It’s All Greek To Me,$$,3.6,18,Red-Deer,AB
+JB’s Lounge,$,3.6,5,Red-Deer,AB
+Hybrid 26,$,3,2,Red-Deer,AB
+MR MIKES,$$,3.4,30,Red-Deer,AB
+Shiso Japanese Restaurant,$$,3.9,44,Red-Deer,AB
+Vietnamese Garden,$$,3.5,8,Red-Deer,AB
+Famoso Neapolitan Pizzeria,$$,4.4,19,Red-Deer,AB
+Momo Sushi,$$,4,33,Red-Deer,AB
+Original Joe’s Restaurant & Bar,$$,3.6,31,Red-Deer,AB
+Sushi Sushi Japanese Noodles & Sushi,$$,4.1,8,Red-Deer,AB
+West 67 Lounge & Grill,$$,1.4,7,Red-Deer,AB
+Kim’s Riverside Cafe,$$,4,3,Red-Deer,AB
+Papa Baldy’s Pizza,$$,3.9,24,Red-Deer,AB
+State & Main Kitchen & Bar,$$,2.6,9,Red-Deer,AB
+The Donut Mill,$,4,133,Red-Deer,AB
+Pho Thuy Duong Vietnamese Restaurant,$$,3.8,12,Red-Deer,AB
+Addys Middle Eastern Cuisine,$$,4.6,18,Red-Deer,AB
+Las Palmeras,$$,3.5,22,Red-Deer,AB
+Queens Diner,$,3.6,5,Red-Deer,AB
+Peters’ Drive-In,$$,2.4,79,Red-Deer,AB
+Tandoor N Flame,$$,3.3,11,Red-Deer,AB
+Toad ‘n’ Turtle,$$,2.6,19,Red-Deer,AB
+Moxies,$$,2.5,28,Red-Deer,AB
+Burger Boy,$,3.8,35,Red-Deer,AB
+Albert’s Family Restaurant & Lounge,$$,4.5,6,Red-Deer,AB
+Koryo Korean Bbq,$$,4.2,9,Red-Deer,AB
+Phoenix Buffet,$$,3.2,19,Red-Deer,AB
+The Canadian Brewhouse,$$,2.7,20,Red-Deer,AB
+George’s Pizza & Steak House,$$,2.5,24,Red-Deer,AB
+Glenn’s Family Restaurant & Gift Shop,$$,3.8,40,Red-Deer,AB
+Cora,$$,3.6,14,Red-Deer,AB
+Joey’s Seafood Restaurants,$$,4.5,4,Red-Deer,AB
+Phil’s Restaurant,$$,3.6,18,Red-Deer,AB
+Ricky’s All Day Grill,$$,3.3,14,Red-Deer,AB
+Sushimaru,$$,4,7,Red-Deer,AB
+Red Star Chinese Restaurant,$$,3.3,21,Red-Deer,AB
+Earls Kitchen + Bar,$$,2.6,27,Red-Deer,AB
+Mary Brown’s Famous Chicken & Taters,$,3.6,5,Red-Deer,AB
+East Side Mario’s,$$,2.4,31,Red-Deer,AB
+Saro’s Restaurant,$$,2.5,6,Red-Deer,AB
+ABC Country Restaurant,$$,3.1,16,Red-Deer,AB
+Redcity Donair & Pita,$,4.6,8,Red-Deer,AB
+Barkada Grill,$$,3.6,5,Red-Deer,AB
+Montana’s,$$,2.8,32,Red-Deer,AB
+Buster’s Pizza & Donair,$$,3.7,3,Red-Deer,AB
+Boston Pizza,$$,4,5,Red-Deer,AB
+Pizza 73,$,4,3,Red-Deer,AB
+Eka Of Japan,$,4.4,5,Red-Deer,AB
+Five Guys,$$,4.3,16,Red-Deer,AB
+Canton Kitchen,$$,2,3,Red-Deer,AB
+Boston Pizza,$$,2.5,22,Red-Deer,AB
+Edo Japan,$$,3.8,6,Red-Deer,AB
+botaniCa Red Deer,$,1.8,4,Red-Deer,AB
+Pita Pit,$$,3.5,2,Red-Deer,AB
+China House,$$,2.8,8,Red-Deer,AB
+Dragon City Buffet,$$,3.2,18,Red-Deer,AB
+Mucho Burrito Fresh Mexican Grill,$,3.7,14,Red-Deer,AB
+Denny’s,$$,2.6,19,Red-Deer,AB
+Western Pizza,$$,3.8,8,Red-Deer,AB
+Chopped Leaf,$$,4,3,Red-Deer,AB
+Monsieur Wong’s,$$,2,6,Red-Deer,AB
+The Flying Pig,$$,4,,Vancouver,BC
+Kingyo,$$,4.4,,Vancouver,BC
+Miku,$$$,4.4,,Vancouver,BC
+Kosoo,$$,4.3,88,Vancouver,BC
+Dinesty Dumpling House,$$,3.9,928,Vancouver,BC
+Saku,$$,4.4,337,Vancouver,BC
+Guu with Garlic,$$,4.3,,Vancouver,BC
+Fable Kitchen,$$,4.3,764,Vancouver,BC
+Fanny Bay Oyster Bar & Shellfish Market,$$,4.4,749,Vancouver,BC
+Manoush’eh,$,4.8,228,Vancouver,BC
+Sula,$$,4.3,89,Vancouver,BC
+Phnom Penh,$$,4.2,,Vancouver,BC
+Saku,$$,4.3,214,Vancouver,BC
+Blue Water Cafe,$$$$,4.4,,Vancouver,BC
+Forage,$$,4.1,698,Vancouver,BC
+Anh and Chi,$$,3.9,618,Vancouver,BC
+Botanist,$$$,4.3,370,Vancouver,BC
+Twisted Fork,$$,4.2,,Vancouver,BC
+Happy Noodle House,$$,4.6,79,Vancouver,BC
+Lupo,$$$,4.3,436,Vancouver,BC
+Kishimoto Japanese Kitchen,$$$,4.4,512,Vancouver,BC
+Tendon Kohaku,$$,4.3,91,Vancouver,BC
+Raisu,$$,4.2,435,Vancouver,BC
+Hello Nori,$$,4.5,190,Vancouver,BC
+Ask For Luigi,$$,4,487,Vancouver,BC
+Chinatown BBQ,$$,4.5,260,Vancouver,BC
+Fritz European Fry House,$,4.2,807,Vancouver,BC
+Medina Cafe,$$,4.2,,Vancouver,BC
+Kokoro Tokyo Mazesoba,$$,4.1,447,Vancouver,BC
+Salmon n’ Bannock,$$,4.5,203,Vancouver,BC
+Hawkers Delight Deli,$,3.9,351,Vancouver,BC
+España Restaurant,$$,4.2,250,Vancouver,BC
+OEB Breakfast Co. Yaletown,$$,4.3,730,Vancouver,BC
+Joe Fortes Seafood & Chop House,$$$,4,,Vancouver,BC
+Chambar,$$$,4.2,,Vancouver,BC
+Jam Cafe on Beatty,$$,4.4,,Vancouver,BC
+Tavola,$$$,4.5,363,Vancouver,BC
+Nobi Nobi,$$,4.5,38,Vancouver,BC
+Rodney’s Oyster House,$$,4,818,Vancouver,BC
+Nightingale,$$$,4.1,471,Vancouver,BC
+The Mexican Antojitos Y Cantina,$$,4.3,402,Vancouver,BC
+Linh Cafe,$$,3.9,299,Vancouver,BC
+Maenam,$$,3.9,380,Vancouver,BC
+Lunch Lady,$$,4,197,Vancouver,BC
+Jingle Bao,$$,4.1,152,Vancouver,BC
+Shiok Singapore Cuisine,$$,3.8,102,Vancouver,BC
+Cactus Club Cafe,$$,4.2,821,Vancouver,BC
+Alibi Room,$$,4.3,566,Vancouver,BC
+Zefferelli’s,$$,4.2,487,Vancouver,BC
+AnnaLena,$$$$,4.5,347,Vancouver,BC
+So Hyang Korean Cuisine,$$,4.2,320,Vancouver,BC
+Bao Bei Chinese Brasserie,$$$,3.9,415,Vancouver,BC
+Seiza,$$,3.9,79,Vancouver,BC
+Le Crocodile Restaurant,$$$$,4.3,438,Vancouver,BC
+Bali Thai,$,4.5,91,Vancouver,BC
+Suika,$$,4.1,520,Vancouver,BC
+The Mackenzie Room,$$$$,4.5,182,Vancouver,BC
+Sushi Jin,$$$,4.6,137,Vancouver,BC
+The Fish Counter,$$,4.4,350,Vancouver,BC
+Hei Hei Rice Roll,$$,4.3,83,Vancouver,BC
+Burgoo Bistros,$$,3.8,498,Vancouver,BC
+Elisa,$$$$,4.2,194,Vancouver,BC
+St Lawrence Restaurant,$$$,4.4,140,Vancouver,BC
+Laksa King,$$,3.8,207,Vancouver,BC
+Ramen Danbo,$$,4.4,580,Vancouver,BC
+Moose’s Down Under,$$,4,145,Vancouver,BC
+Holy Chow,$$,4.1,44,Vancouver,BC
+The Red Accordion,$$,4.7,72,Vancouver,BC
+Go Fish Ocean Emporium,$$,3.9,502,Vancouver,BC
+Kozak Ukraïnian Eatery,$$,4.4,30,Vancouver,BC
+Maizal RMF,$$,4.3,145,Vancouver,BC
+La Taqueria Pinche Taco Shop,$$,4.3,521,Vancouver,BC
+La Notte Restaurant,$$,3.9,55,Vancouver,BC
+Breakfast Table,$$,4.3,251,Vancouver,BC
+Maruhachi Ra-men,$$,4.4,754,Vancouver,BC
+Afghan Horsemen Restaurant,$$,3.9,244,Vancouver,BC
+The Greek By Anatoli,$$,3.8,253,Vancouver,BC
+Nuba in Gastown,$$$,4.1,743,Vancouver,BC
+Bodega On Main,$$,3.9,212,Vancouver,BC
+Cardero’s Restaurant & Marine Pub,$$$,3.9,640,Vancouver,BC
+The Poke Guy,$$,4.5,207,Vancouver,BC
+Mott 32,$$$$,3.9,176,Vancouver,BC
+Banana Leaf,$$,3.7,299,Vancouver,BC
+Fat Mao Noodles,$$,3.9,228,Vancouver,BC
+Burger Crush,$$,4.6,19,Vancouver,BC
+Kulinarya,$$,3.8,63,Vancouver,BC
+Robba da Matti,$$$,4.2,490,Vancouver,BC
+Dosanko,$$,3.8,101,Vancouver,BC
+Peaked Pies,$$,4.4,195,Vancouver,BC
+Jägerhof Restaurant,$$,4,115,Vancouver,BC
+La Belle Patate,$$,4.1,544,Vancouver,BC
+Nook,$$,3.9,163,Vancouver,BC
+Osteria Savio Volpe,$$$,4.2,421,Vancouver,BC
+Brix & Mortar,$$$,4,318,Vancouver,BC
+Les Faux Bourgeois,$$,4,452,Vancouver,BC
+Mandarin Hong Kong Cafe,$$,3.3,49,Vancouver,BC
+The Vancouver Fish Company,$$$,3.6,258,Vancouver,BC
+Sopra Sotto,$$,4,139,Vancouver,BC
+L’Abattoir,$$$,4.2,576,Vancouver,BC
+PiDGiN,$$$,4,320,Vancouver,BC
+Little Minh’s,$$,4.3,128,Vancouver,BC
+Sura Korean Cuisine,$$,4.1,428,Vancouver,BC
+Lamajoun,$,4.7,93,Vancouver,BC
+Cafe FortyOne,$$,4.5,21,Vancouver,BC
+Ash Street Bistro,$$,4.5,11,Vancouver,BC
+Micha,$$,4.4,42,Vancouver,BC
+Damso Modern Korean Cuisine,$$,3.9,202,Vancouver,BC
+The Locus,$$,3.9,265,Vancouver,BC
+Thierry,$$,4,941,Vancouver,BC
+Honey Salt,$$,3.5,266,Vancouver,BC
+Toshi Sushi,$$,4.2,440,Vancouver,BC
+Downlow Chicken Shack,$$,4.1,270,Vancouver,BC
+ARC Restaurant,$$$,4,167,Vancouver,BC
+Little Bird Dim Sum,$$,3.9,71,Vancouver,BC
+Yagoto Sushi Dining,$$,4.4,78,Vancouver,BC
+Cuchillo,$$,4.2,287,Vancouver,BC
+Tom Sushi,$$,4.7,193,Vancouver,BC
+La Mezcaleria,$$,3.8,292,Vancouver,BC
+Absinthe Bistro,$$$,4.6,137,Vancouver,BC
+Ramen Danbo,$$,4.2,413,Vancouver,BC
+Guu Original Thurlow,$$,4.1,789,Vancouver,BC
+Jamjar - Folk Lebanese Food,$$,3.8,256,Vancouver,BC
+Jules French Bistro,$$,3.9,227,Vancouver,BC
+Heritage Asian Eatery,$$,3.9,87,Vancouver,BC
+ZAC.ZAC Japanese Curry House,$,3.9,96,Vancouver,BC
+Tetsu Sushi Bar,$$$$,4.3,102,Vancouver,BC
+Ukrainian Village,$$,4.1,171,Vancouver,BC
+A.Bento,$$,4,26,Vancouver,BC
+Kaneko Hannosuke,$$,3.8,58,Vancouver,BC
+Harambe Restaurant,$$,3.8,135,Vancouver,BC
+The Roof,$$$,3.8,80,Vancouver,BC
+Katsu San,$$,4.5,106,Vancouver,BC
+Grub,$$,4.2,181,Vancouver,BC
+Kissa Tanto,$$$$,4.1,279,Vancouver,BC
+Shanghai River,$$$,3.9,788,Vancouver,BC
+Vij’s Restaurant,$$$,4,389,Vancouver,BC
+Sawasdee Thai Restaurant,$$,4,334,Vancouver,BC
+Do Chay,$$,4.4,157,Vancouver,BC
+MeeT in Gastown,$$,4.1,491,Vancouver,BC
+Sushi Bar Ajisai,$$,4.2,411,Vancouver,BC
+JOEY Burrard,$$,4.1,554,Vancouver,BC
+Hawksworth Restaurant,$$$,4.1,642,Vancouver,BC
+Five Sails Restaurant,$$$$,4.4,179,Vancouver,BC
+Gyu-Kaku Japanese BBQ,$$,4,390,Vancouver,BC
+Green Leaf Sushi,$$,4,394,Vancouver,BC
+Marché Mon Pitou,$$,4.3,36,Vancouver,BC
+Browns Crafthouse Seymour,$$,4,44,Vancouver,BC
+Black Frog Eatery,$$,3.8,214,Vancouver,BC
+Smoke and Bones,$$,3.9,152,Vancouver,BC
+Salade de Fruits Cafe,$$,4.2,175,Vancouver,BC
+Caveman Cafe,$$,4.4,271,Vancouver,BC
+City 1 Cafe,$$,3.4,96,Vancouver,BC
+Los Amigos Taqueria,$$,4,121,Vancouver,BC
+Indian Delicacy,$$,4.5,105,Vancouver,BC
+Hikari Cafe,$$,4.2,51,Vancouver,BC
+Jess’ Restaurant,$$$,3.9,35,Vancouver,BC
+Cactus Club Cafe,$$,4.1,475,Vancouver,BC
+Hachibei Japanese Restaurant,$$,3.9,74,Vancouver,BC
+Red Fish Blue Fish,$$,4.5,,Victoria,BC
+Little Jumbo,$$$,4.4,275,Victoria,BC
+Nubo Japanese Tapas,$$,4.4,392,Victoria,BC
+Finn’s Seafood Chops Cocktails,$$,4.4,165,Victoria,BC
+Fishhook,$$,4.5,309,Victoria,BC
+Ithaka Greek Restaurant,$$,4.5,144,Victoria,BC
+Il Terrazzo Ristorante,$$$,4.5,614,Victoria,BC
+Little Yunnan Restaurant,$$,4.5,130,Victoria,BC
+Bodega,$$,4.5,133,Victoria,BC
+Pagliacci’s,$$,4.1,619,Victoria,BC
+Blue Fox Cafe,$$,4.4,817,Victoria,BC
+Foo,$$,4,174,Victoria,BC
+10 Acres Bistro,$$,3.9,502,Victoria,BC
+Il Covo Trattoria,$$,4.2,163,Victoria,BC
+Bao,$$,4.1,137,Victoria,BC
+Superbaba,$$,4.5,55,Victoria,BC
+Nautical Nellies Steak & Seafood House,$$,3.9,388,Victoria,BC
+Chimac Korean Pub & Fried Chicken,$$,4.3,66,Victoria,BC
+The Cozy Place Restaurant,$$,4.4,111,Victoria,BC
+John’s Place,$$,4.4,456,Victoria,BC
+Jam Cafe,$$,4.5,652,Victoria,BC
+Nourish In The Harbour,$$,4.4,197,Victoria,BC
+Hanks A Restaurant,$$,4.5,95,Victoria,BC
+Chorizo & Co,$,4.4,82,Victoria,BC
+Frankie’s Modern Diner,$$,4.2,205,Victoria,BC
+Belleville’s Watering Hole & Diner,$$,3.8,160,Victoria,BC
+Aura Waterfront Restaurant + Patio,$$,4,119,Victoria,BC
+10 Acres Commons,$$,3.7,136,Victoria,BC
+Brasserie L’ecole,$$$,4.5,142,Victoria,BC
+The Fish Store,$$,4.2,181,Victoria,BC
+Uchida Eatery / Shokudo,$$,4.6,58,Victoria,BC
+Ferris’ Upstairs Seafood & Oyster Bar,$$,4.2,294,Victoria,BC
+Q at The Empress,$$$,3.9,106,Victoria,BC
+BeaverTails,$,4.5,61,Victoria,BC
+Fiamo,$$,3.9,133,Victoria,BC
+Virtuous Pie,$$,4.7,32,Victoria,BC
+Breakwater,$$,3.5,66,Victoria,BC
+Bear & Joey Cafe,$$,4.4,21,Victoria,BC
+Fisherman’s Wharf,$$,3.9,55,Victoria,BC
+Sushi Matsuri,$$,4.5,32,Victoria,BC
+Bar 500 Eatery,$$,4.1,18,Victoria,BC
+Blue Crab Seafood House,$$$,3.8,149,Victoria,BC
+Part and Parcel,$$,4.6,63,Victoria,BC
+Yalla Middle Eastern Cuisine,$,4.5,40,Victoria,BC
+Tacofino,$$,4.1,116,Victoria,BC
+Cactus Club Cafe,$$,4,116,Victoria,BC
+Tibetan Kitchen,$$,4.2,52,Victoria,BC
+Dumpling Drop,$,4,19,Victoria,BC
+J & J Wonton Noodle House,$$,3.7,72,Victoria,BC
+The Ruby,$$,4.2,57,Victoria,BC
+Sookjai Thai Restaurant,$$,4.1,41,Victoria,BC
+Sult Pierogi Bar,$$,4.2,99,Victoria,BC
+Bin 4 Burger Lounge,$$,3.9,155,Victoria,BC
+Cafe Brio,$$$,4.3,111,Victoria,BC
+Beijing Bistro,$$,3.9,28,Victoria,BC
+Sen Zushi,$$,4.2,46,Victoria,BC
+The Mint,$$,3.6,105,Victoria,BC
+Zambri’s,$$$,3.6,84,Victoria,BC
+Legislative Dining Room,$$,4.6,27,Victoria,BC
+Cenote Restaurant and Lounge,$$,3.9,23,Victoria,BC
+Heron Rock Bistro,$$,4.3,103,Victoria,BC
+Ayo Eat,$,4.6,47,Victoria,BC
+Lido Waterfront Bar & Bistro,$$,3.8,36,Victoria,BC
+Moxies,$$,3.9,40,Victoria,BC
+The Tapa Bar,$$,3.9,211,Victoria,BC
+Sura Korean Cuisine,$$$,3,48,Victoria,BC
+Irish Times Pub,$$,4,434,Victoria,BC
+Fuego Old Town Eatery,$$,4.4,76,Victoria,BC
+Cora’s,$$,3.8,170,Victoria,BC
+Jones Bar B Que,$$,3.9,61,Victoria,BC
+Be Love,$$,4.1,143,Victoria,BC
+Clarke&Co,$$$,4,41,Victoria,BC
+Browns Socialhouse - Victoria Falls,$$,3.3,87,Victoria,BC
+Fire & Water Fish and Chop House,$$,3.7,34,Victoria,BC
+The Drake Eatery,$$,4.1,74,Victoria,BC
+Frickin’ Delights Donuts,$$,4.5,42,Victoria,BC
+Saveur Restaurant,$$$,4.6,47,Victoria,BC
+Yates Street Taphouse,$$,3.4,47,Victoria,BC
+Perro Negro,$$$,4.7,18,Victoria,BC
+Menbow Ramen Bar,$$,3.7,66,Victoria,BC
+Bangkok Modern Thai Cuisine,$$,4,21,Victoria,BC
+Messob Ethiopian Cuisine,$,4.8,12,Victoria,BC
+Stage,$$$,4.2,59,Victoria,BC
+Gozen,$$,4.2,66,Victoria,BC
+Pizzeria Prima Strada,$$,4.2,179,Victoria,BC
+My Thai Cafe,$$,4.1,34,Victoria,BC
+Jonathan’s Restaurant,$$,3.3,7,Victoria,BC
+"Sakura Sushi, Grocery and Japanese Restaurant",$,3.5,15,Victoria,BC
+Kuma Noodles Japan,$,4.1,36,Victoria,BC
+Victoria Harbour House Restaurant,$$$,3.3,82,Victoria,BC
+Golden City Restaurant,$$,3.7,99,Victoria,BC
+Hope Key,$$,4.2,50,Victoria,BC
+The Keg Steakhouse + Bar,$$$,4.1,146,Victoria,BC
+Island Poké,$$,4.1,27,Victoria,BC
+Picnic Too,$$,4.5,11,Victoria,BC
+Steamship Grill & Taphouse,$$,3.2,150,Victoria,BC
+Milestones,$$,3.5,184,Victoria,BC
+Ramen Arashi,$$,5,3,Victoria,BC
+Earls Kitchen + Bar,$$,3.9,146,Victoria,BC
+Interactivity Board Game Cafe,$,4.3,36,Victoria,BC
+Le Petit Saigon Vietnamese Restaurant,$$,4.2,80,Victoria,BC
+Oak Bay Seafood,$$,3.9,18,Victoria,BC
+La Taquisa,$,3.6,71,Victoria,BC
+Ghost Ramen,$$,3.8,16,Victoria,BC
+Brickyard Pizza,$,3.1,36,Victoria,BC
+Varsha Indian Kitchen,$$,3.8,116,Victoria,BC
+Wah Lai Yuen,$$,3.4,60,Victoria,BC
+Fan Tan Cafe,$$,3.3,83,Victoria,BC
+Sushi Time Express,$,4.6,20,Victoria,BC
+LURE Restaurant & Bar,$$,3.5,63,Victoria,BC
+The Oaks Restaurant,$$,3.5,26,Victoria,BC
+Siam Thai Restaurant,$$,3.8,51,Victoria,BC
+Shanzee’s Biscuit Cafe,$$,4.4,77,Victoria,BC
+ReBar Modern Food,$$,4,272,Victoria,BC
+La Taqueria,$$,3.7,56,Victoria,BC
+The Old Spaghetti Factory,$$,3.2,128,Victoria,BC
+The Bent Mast,$$,3.4,45,Victoria,BC
+Omakase Izakaya & Sushi Bar,$$,3.5,35,Victoria,BC
+Finest At Sea,$$,4.4,19,Victoria,BC
+Lotus Pond Vegetarian Restaurant,$$,4.2,79,Victoria,BC
+The Flying Otter,$$,3.7,194,Victoria,BC
+Superior Pizza,$$,3.8,22,Victoria,BC
+Thai Green Elephant Restaurant,$$,4.1,31,Victoria,BC
+JBI Café Restaurant,$$,3.6,10,Victoria,BC
+Romeo’s,$$,3,34,Victoria,BC
+Topos Ristorante Italiano,$$$,4.3,3,Victoria,BC
+Darcy’s Pub Downtown,$$,3.8,91,Victoria,BC
+Crooked Goose Bistro,$$,3.7,46,Victoria,BC
+Ebizo Japanese Restaurant,$$,3.8,109,Victoria,BC
+Roast,$$,4,41,Victoria,BC
+Italian Food Imports,$,4.2,37,Victoria,BC
+Park’s Kitchen,$$,3.2,38,Victoria,BC
+QV Cafe & Bakery,$,3.9,65,Victoria,BC
+Victoria BBQ House & Bakery,$,3.3,15,Victoria,BC
+The Local,$$,3.6,150,Victoria,BC
+Frank’s Honeybun Cafe,$,4,49,Victoria,BC
+Famoso Neapolitan Pizzeria,$$,3.6,125,Victoria,BC
+Hecklers Bar & Grill,$$,3.8,28,Victoria,BC
+Sizzling Tandoor,$$,4,108,Victoria,BC
+Baan Thai Restaurant,$$,3.4,83,Victoria,BC
+Kissako Sushi,$$,4.9,12,Victoria,BC
+Cafe Mexico,$$,3.3,78,Victoria,BC
+10 Acres Kitchen,$$$,3.5,69,Victoria,BC
+CRAFT Beer Market - Victoria,$$,2.8,13,Victoria,BC
+5th Street Bar & Woodfire Grill,$$,3.5,80,Victoria,BC
+Chicken On the Run,$$,3.9,20,Victoria,BC
+Ricasalsa,$$,3.9,25,Victoria,BC
+Tre Fantastico,$$,3.1,43,Victoria,BC
+Lum’s Chinese Restaurant,$,3.8,26,Victoria,BC
+Baan Thai Restaurant,$$,3.8,30,Victoria,BC
+Rise & Grind,$$,4.1,17,Victoria,BC
+The Ruby,$$,4.3,137,Victoria,BC
+The Tartan Toque,$$,3.6,38,Victoria,BC
+The Sticky Wicket,$$,2.8,174,Victoria,BC
+La Belle Patate,$,3.9,68,Victoria,BC
+Hot and Cold Cafe,$$,4.7,24,Victoria,BC
+Vista 18,$$,3.5,96,Victoria,BC
+Japanese Village Restaurant,$$,3.2,59,Victoria,BC
+Glo Restaurant & Lounge,$$,3.3,88,Victoria,BC
+Pho Vy Vietnamese Restaurant,$$,3.6,85,Victoria,BC
+Avalon Restaurant,$$,4.1,33,Victoria,BC
+Vis-à-Vis,$$,4.1,39,Victoria,BC
+Shine Cafe,$$,4.1,68,Victoria,BC
+Loft and Ladder,$,4.7,6,Victoria,BC
+Sun Fortune Restaurant,$$,4.3,36,Winnipeg,MB
+Deer + Almond,$$,4.3,73,Winnipeg,MB
+OEB Breakfast,$$,3.4,22,Winnipeg,MB
+Fusion Grill,$$$,4.3,36,Winnipeg,MB
+Sous Sol,$$$$,4.9,16,Winnipeg,MB
+Yujiro Japanese Restaurant,$$,4.4,48,Winnipeg,MB
+Brazen Hall,$$,3.6,67,Winnipeg,MB
+Clementine,$$,4.6,141,Winnipeg,MB
+The Merchant Kitchen,$$,4,34,Winnipeg,MB
+Marion Street Eatery,$$,4.2,55,Winnipeg,MB
+Bellissimo Restaurant & Lounge,$$,4,21,Winnipeg,MB
+Vera,$$,4.8,9,Winnipeg,MB
+BMC Market,$,4.4,27,Winnipeg,MB
+Harth Mozza & Wine Bar,$$$,4,36,Winnipeg,MB
+Bonfire Bistro,$$$,3.9,20,Winnipeg,MB
+Cafe Dario,$$$,4.5,22,Winnipeg,MB
+Asian Hot Pot,$$,4.1,14,Winnipeg,MB
+Santa Ana Pizzeria & Bistro,$$,4.5,23,Winnipeg,MB
+Pho Hoang,$$,4.4,67,Winnipeg,MB
+Peasant Cookery,$$$,4,61,Winnipeg,MB
+Famena’s Famous Roti & Curry,$$,4.7,54,Winnipeg,MB
+Ye’s Buffet,$$,3.6,42,Winnipeg,MB
+Jessie’s Kitchen,$$,3.8,4,Winnipeg,MB
+Ichiban Japanese Steakhouse,$$$,3.8,20,Winnipeg,MB
+Enoteca,$$$,4.2,30,Winnipeg,MB
+The Grove Pub & Restaurant,$$,4,24,Winnipeg,MB
+Tre Visi Cafe,$$,4.5,13,Winnipeg,MB
+Cibo Waterfront Cafe,$$,3.5,46,Winnipeg,MB
+IGI BBQ and Sushi Bistro,$$,3.5,26,Winnipeg,MB
+Tipsy Cow,$$,3.5,13,Winnipeg,MB
+Jane’s,$$$,5,4,Winnipeg,MB
+Capital Grill and Bar,$$,4,30,Winnipeg,MB
+East India Company Pub & Eatery,$$,4.1,91,Winnipeg,MB
+Inferno’s Bistro,$$$,3.9,28,Winnipeg,MB
+Izakaya Edokko,$$,4.3,20,Winnipeg,MB
+JOEY Polo Park,$$,4.3,54,Winnipeg,MB
+Saperavi,$$$,4.8,16,Winnipeg,MB
+Momo,$,4.2,18,Winnipeg,MB
+The Palm Room,$$,4.1,10,Winnipeg,MB
+The Blue Marble Restaurant & Lounge,$$,4.2,22,Winnipeg,MB
+Moxies,$$$,3.3,54,Winnipeg,MB
+Fergies Fish N Chips & Seafood Market,$$,4.3,40,Winnipeg,MB
+Monticchio Ristorante Italiano,$$,3.9,14,Winnipeg,MB
+Nicolino’s,$$$,3.3,20,Winnipeg,MB
+TH Dang Restaurant,$$,4.2,30,Winnipeg,MB
+529 Wellington,$$$$,3.9,74,Winnipeg,MB
+Dancing Noodle,$,3.6,8,Winnipeg,MB
+La Fiesta Cafecito & Restaurant,$$,3.6,16,Winnipeg,MB
+Bistro Dansk,$$,4.4,14,Winnipeg,MB
+New Golden Inn Restaurant,$$,4.6,7,Winnipeg,MB
+Carbone Coal Fired Pizza,$$,4,12,Winnipeg,MB
+Tehran Market & Cafe,$$,4.4,9,Winnipeg,MB
+Montana’s,$$,3.4,20,Winnipeg,MB
+Colosseo Ristorante Italiano,$$,3.8,15,Winnipeg,MB
+Spicy Noodle House,$$,3.4,25,Winnipeg,MB
+Wood Tavern & Grill,$$,3.3,6,Winnipeg,MB
+Noodle Express,$,3.7,15,Winnipeg,MB
+Maxime’s Restaurant & Lounge,$$,3,29,Winnipeg,MB
+Kristina’s On Corydon,$$,3.6,8,Winnipeg,MB
+Tony Roma’s,$$,3.8,15,Winnipeg,MB
+Kazoku,$$,4,22,Winnipeg,MB
+Komodo Chinese Restaurant,$$,4.3,3,Winnipeg,MB
+Kimchi Sushi,$$,4.2,6,Winnipeg,MB
+The Tallest Poppy,$$,3.4,33,Winnipeg,MB
+Carnaval Brazilian BBQ,$$$$,3.3,32,Winnipeg,MB
+Wasabi Sabi,$$$,4.2,31,Winnipeg,MB
+George’s Burgers & Subs,$,4.3,8,Winnipeg,MB
+Ben & Florentine,$$,3.6,43,Winnipeg,MB
+Silver Heights Restaurant & Lounge,$$,3.8,24,Winnipeg,MB
+Elephant & Castle,$$,3.4,46,Winnipeg,MB
+Jollibee,$,3.6,25,Winnipeg,MB
+Cafe Carlo,$$$,3.5,17,Winnipeg,MB
+Big Guy’s Ranch & Saloon,$,3.8,17,Winnipeg,MB
+Smith Restaurant,$$$,3.4,28,Winnipeg,MB
+The Keg Steakhouse + Bar,$$$,4.1,40,Winnipeg,MB
+Dim Sum Garden Restaurant,$$,2.9,25,Winnipeg,MB
+The Rib Room,$$,3.3,4,Winnipeg,MB
+Hsieh Family Restaurant,$,3.6,5,Winnipeg,MB
+Red Top Drive Inn,$,4.1,35,Winnipeg,MB
+Michele’s Restaurant,$$,2.3,4,Winnipeg,MB
+Steve’s Bistro,$$,4.2,22,Winnipeg,MB
+Les Saj Restaurant,$$,4.6,48,Winnipeg,MB
+Yellow Dog Tavern,$$,3.7,30,Winnipeg,MB
+Sushi Cushi,$$,4,35,Winnipeg,MB
+White Star Diner,$,4.3,12,Winnipeg,MB
+Nick’s on Broadway,$$,3.8,10,Winnipeg,MB
+The Nook Diner,$,4.4,26,Winnipeg,MB
+Smitty’s Family Restaurant & Lounge,$$,3.5,10,Winnipeg,MB
+Sam Po,$$,4.3,8,Winnipeg,MB
+Famous Dave’s Bar-B-Que,$$,3.4,31,Winnipeg,MB
+Mona Lisa Ristorante Italiano,$$,3.3,29,Winnipeg,MB
+Mrs Mike’s,$,4.5,15,Winnipeg,MB
+Falafel Place,$$,4.4,47,Winnipeg,MB
+Tandoor House,$$,4,6,Winnipeg,MB
+Confusion Corner Drinks + Food,$$,3.8,28,Winnipeg,MB
+The Canadian Brewhouse,$$,2.5,28,Winnipeg,MB
+New China Kitchen,$$,4.2,9,Winnipeg,MB
+Chaise Cafe & Lounge,$$,3.4,24,Winnipeg,MB
+King’s Head Pub,$$,3.8,72,Winnipeg,MB
+Mitzi’s Chicken Finger Restaurant,$,4.5,8,Winnipeg,MB
+Chosabi,$$,4.3,33,Winnipeg,MB
+The Don Restaurant,$$,3.6,20,Winnipeg,MB
+Joey’s Seafood Restaurants,$$,4,1,Winnipeg,MB
+OPA! of Greece SmartCentres Kenaston,$,4.1,10,Winnipeg,MB
+Frenchway Cafe,$$,3.8,16,Winnipeg,MB
+Nuburger,$$,3.8,11,Winnipeg,MB
+King + Bannatyne,$$,3.9,35,Winnipeg,MB
+Bernstein’s,$,3.8,12,Winnipeg,MB
+Stella’s,$$,3.2,33,Winnipeg,MB
+Naru Sushi,$$,4.3,26,Winnipeg,MB
+Sabai Thai Eatery,$$,3.5,13,Winnipeg,MB
+Sukhothai,$$,4,26,Winnipeg,MB
+Shaba Thai cuisine,$$,4.3,8,Winnipeg,MB
+Idol Asian Cuisine,$$,1.8,4,Winnipeg,MB
+Kokeb Restaurant,$$,4.2,17,Winnipeg,MB
+Stella’s Plug In,$$,3.9,85,Winnipeg,MB
+Resto Gare Bistro,$$$,3.8,24,Winnipeg,MB
+Clay Oven,$$,3.4,37,Winnipeg,MB
+Bailey’s,$$,3.3,19,Winnipeg,MB
+2 Kelly’s Cafe,$,4.6,19,Winnipeg,MB
+The Oakwood,$$,3.6,30,Winnipeg,MB
+IHOP,$$,2.3,23,Winnipeg,MB
+Bimi Japanese Restaurant,$$,1.9,18,Winnipeg,MB
+Bangkok Thai Restaurant,$$,3.9,24,Winnipeg,MB
+Clay Oven East Indian Restaurants,$$,3.8,23,Winnipeg,MB
+VJ’s Drive-In,$,4.2,63,Winnipeg,MB
+Pizzeria Gusto,$$$,3.9,34,Winnipeg,MB
+Summer Palace,$$$,3,5,Winnipeg,MB
+La Belle Baguette,$,4.2,18,Winnipeg,MB
+Dwarf No Cachette Cafe & Gift,$$,4.2,30,Winnipeg,MB
+Vientiane Restaurant,$$,3.8,13,Winnipeg,MB
+Massawa,$$,4.2,13,Winnipeg,MB
+Cilantro’s Restaurant,$$,4.2,30,Winnipeg,MB
+Nuburger,$$,4.1,65,Winnipeg,MB
+Delicious Vegetarian Restaurant,$$,4.5,20,Winnipeg,MB
+Stella’s,$$,4.1,12,Winnipeg,MB
+Rae and Jerry’s Steak House,$$$,3.3,55,Winnipeg,MB
+Langside Grocery,$$,4.3,6,Winnipeg,MB
+Wako Sushi Cafe,$,4.1,11,Winnipeg,MB
+Southdale Village Family Restaurant,$$,4,6,Winnipeg,MB
+Pappas Greek Food & Steak,$$,4.2,6,Winnipeg,MB
+Hooters,$$,3.4,9,Winnipeg,MB
+Santa Lucia Pizza,$$,3.7,36,Winnipeg,MB
+Saucers Cafe,$$,3.9,16,Winnipeg,MB
+P&M’s Kouzzina,$$,4.4,47,Greater-Sudbury,ON
+Laughing Buddha,$$,3.8,74,Greater-Sudbury,ON
+Respect Is Burning Supperclub,$$,4.1,45,Greater-Sudbury,ON
+Tucos Taco Lounge,$$,4.1,44,Greater-Sudbury,ON
+Sapporo Ichibang,$$,4.4,14,Greater-Sudbury,ON
+Alexandria’s Restaurant & Lounge,$$$,4.2,6,Greater-Sudbury,ON
+Leslie’s Charbroil & Grill,$$,4.2,12,Greater-Sudbury,ON
+Oscar’s Grill,$$$,3.8,11,Greater-Sudbury,ON
+St Louis Bar and Grill,$$,3,7,Greater-Sudbury,ON
+The HourGlass Restaurant and Lounge,$$,3.6,11,Greater-Sudbury,ON
+Bella Vita Cucina,$$$,3.9,18,Greater-Sudbury,ON
+The Dog House,$$,3.5,11,Greater-Sudbury,ON
+Mr Prime Rib,$$,4,12,Greater-Sudbury,ON
+Jak’s Diner,$$,3.8,10,Greater-Sudbury,ON
+Cousin Vinny’s Restaurant & Bar,$$,3.1,9,Greater-Sudbury,ON
+The Keg Steakhouse + Bar - Sudbury,$$$,3.9,23,Greater-Sudbury,ON
+La Fromagerie,$$,4,8,Greater-Sudbury,ON
+Wacky Wings,$$,2.1,23,Greater-Sudbury,ON
+Overtime Bar and Grill,$$$,3.9,9,Greater-Sudbury,ON
+Stackhouse Pizza Sub and Poutinere,$$,5,3,Greater-Sudbury,ON
+Montana’s BBQ & Bar,$$,2.6,19,Greater-Sudbury,ON
+Hardrock 42 Gastropub,$$,2.6,18,Greater-Sudbury,ON
+Suzanne’s,$,5,4,Greater-Sudbury,ON
+Beards Coffee Bar & Bakery,$$,4.8,6,Greater-Sudbury,ON
+Red Lobster,$$,2.3,9,Greater-Sudbury,ON
+La Casa Mexicana,$$,2.5,6,Greater-Sudbury,ON
+Cortina Pizza Hanmer,$,4,1,Greater-Sudbury,ON
+Kingsway Buffet,$$,1.8,13,Greater-Sudbury,ON
+Herc’s Greek Eatery,$$,3.7,6,Greater-Sudbury,ON
+East Side Mario’s,$$,2.3,13,Greater-Sudbury,ON
+Tandoori Tastes,$$,2.8,19,Greater-Sudbury,ON
+Vespa Street Kitchen,$$,3.1,12,Greater-Sudbury,ON
+Five Guys,$$,2.6,5,Greater-Sudbury,ON
+Boston Pizza,$$,2,9,Greater-Sudbury,ON
+Trevi Tavern Restrnt,$$,3.3,3,Greater-Sudbury,ON
+Topper’s Pizza,$$,2,2,Greater-Sudbury,ON
+Sub World,$,3.4,7,Greater-Sudbury,ON
+Tutti Frutti Breakfast & Lunch,$$,3.5,33,Greater-Sudbury,ON
+Dairy Queen Grill & Chill,$,5,1,Greater-Sudbury,ON
+Swiss Chalet Rotisserie & Grill,$$,2.1,7,Greater-Sudbury,ON
+Canton Chinese Food,$,2.7,6,Greater-Sudbury,ON
+Topper’s Pizza,$,4.3,3,Greater-Sudbury,ON
+Gonga’s Grill,$$,3.6,5,Greater-Sudbury,ON
+New York Fries,$$,1,1,Greater-Sudbury,ON
+Topper’s Pizza,$$,2.9,7,Greater-Sudbury,ON
+Wendy’s,$,2.1,8,Greater-Sudbury,ON
+Little Montreal,$$$,2.4,5,Greater-Sudbury,ON
+Pita Pit,$,3.7,3,Greater-Sudbury,ON
+Pita Pit,$,3,1,Greater-Sudbury,ON
+Topper’s Pizza,$$,3,3,Greater-Sudbury,ON
+McDonald’s,$,1.6,18,Greater-Sudbury,ON
+Taco Bell,$,2,1,Greater-Sudbury,ON
+The Ship,$$,4.1,209,Hamilton,ON
+Earth To Table : Bread Bar,$$,4.2,290,Hamilton,ON
+MERK,$$,4.5,13,Hamilton,ON
+Berkeley North,$$$,4.3,42,Hamilton,ON
+Diplomat,$$$,4.1,23,Hamilton,ON
+Quatrefoil Restaurant,$$$$,4.6,59,Hamilton,ON
+The Mule,$$,3.9,176,Hamilton,ON
+Spencer’s at the Waterfront,$$$,3.8,242,Hamilton,ON
+Hambrgr,$$,4.3,204,Hamilton,ON
+The Burnt Tongue,$$,4.4,39,Hamilton,ON
+Ancaster Mill,$$$,4,70,Hamilton,ON
+Bangkok Spoon Deluxe,$$,3.8,63,Hamilton,ON
+Aberdeen Tavern,$$$,4.1,75,Hamilton,ON
+Lulu’s Shawarma,$,4.2,36,Hamilton,ON
+Spring Grill House,$$,3.9,77,Hamilton,ON
+Tally Ho,$$,3.9,25,Hamilton,ON
+Coach & Lantern,$$,3.7,23,Hamilton,ON
+The French,$$$,4.2,97,Hamilton,ON
+The Phoenix Bar & Grill,$$,3.8,18,Hamilton,ON
+Maccheroni Cucina Alfresco,$$,3.8,11,Hamilton,ON
+Detour Cafe,$$,3.9,88,Hamilton,ON
+Chicago Style Pizza,$$,4,134,Hamilton,ON
+Basilique,$$,3.7,31,Hamilton,ON
+Liu Liu Hot Pot,$$,3.4,16,Hamilton,ON
+La Spaghett,$$,4,37,Hamilton,ON
+Ajio Sushi,$$,4.2,40,Hamilton,ON
+Szechuan Noodle Bowl,$,4,10,Hamilton,ON
+Collins Brewhouse,$$,3.5,38,Hamilton,ON
+Mesa,$$,4.1,57,Hamilton,ON
+Born and Raised,$$,3.7,23,Hamilton,ON
+Thirsty Cactus Cantina & Grill,$$,3.3,49,Hamilton,ON
+Charred Chicken,$$,4.2,120,Hamilton,ON
+Real Burger,$$,4.8,24,Hamilton,ON
+The Burnt Tongue,$,4.2,87,Hamilton,ON
+Sammy’s Family Restaurant,$$,4.4,17,Hamilton,ON
+Pho Binh Minh Vietnamese Cuisine,$$,4.1,73,Hamilton,ON
+State & Main Kitchen And Bar,$$,3.6,60,Hamilton,ON
+West Plains Bistro,$$,4.4,18,Hamilton,ON
+Purple Pear,$$$,4.5,18,Hamilton,ON
+August 8,$$,3.9,122,Hamilton,ON
+Joya Sushi,$$,3.8,40,Hamilton,ON
+Delirious Burger,$,4.3,47,Hamilton,ON
+Burro Tacos,$$,4.3,55,Hamilton,ON
+Jax,$$,3.8,12,Hamilton,ON
+West End Diner,$$,3.8,61,Hamilton,ON
+Radius,$$$,3.2,91,Hamilton,ON
+Cavallo Nero,$$,3.4,14,Hamilton,ON
+Koi,$$,3.3,7,Hamilton,ON
+The Coop,$$,3.8,43,Hamilton,ON
+Copper Kettle Cafe,$$,4.3,46,Hamilton,ON
+Mr  Gao,$$,3.3,35,Hamilton,ON
+The George Hamilton,$$,3.6,20,Hamilton,ON
+The Egg and I Restaurants,$$,3.9,17,Hamilton,ON
+Thai Tamarind,$$,4.3,20,Hamilton,ON
+Bronzie’s Place,$$,4.3,27,Hamilton,ON
+Pinks,$,3.9,20,Hamilton,ON
+Caribbean Flavah,$,3,9,Hamilton,ON
+Bean Bar,$$,3.7,93,Hamilton,ON
+Rose Garden Family Restaurant,$,4,8,Hamilton,ON
+541 Eatery & Exchange,$,4.4,42,Hamilton,ON
+Alamin Charcoal Flame,$,3.3,18,Hamilton,ON
+Bliss Kitchen,$$,4.4,23,Hamilton,ON
+The Lighthouse Fish and Chips,$$,3.3,10,Hamilton,ON
+Lord Nelson,$$$$,4,22,Hamilton,ON
+Sushi On Fennell,$,3.8,25,Hamilton,ON
+India Village,$$,4.5,22,Hamilton,ON
+India Village Restaurant,$$,4.4,25,Hamilton,ON
+Burrito Bandidos,$,3.8,15,Hamilton,ON
+La Luna,$$,3.8,63,Hamilton,ON
+Tracie’s Place Restaurant & Karaoke,$$,4.2,5,Hamilton,ON
+Masala Corner,$,4.5,2,Hamilton,ON
+The Royal Coachman,$$,3.5,32,Hamilton,ON
+The Watermark Taphouse & Grille,$$$$,2.7,21,Hamilton,ON
+The Valley Charcoal,$,3.1,10,Hamilton,ON
+Toma La,$$,2.9,24,Hamilton,ON
+Pepperwood Bistro,$$,3.3,80,Hamilton,ON
+Turtle Jack’s Upper James,$$,3.1,36,Hamilton,ON
+Boston Pizza,$$,3.4,22,Hamilton,ON
+Jack Astor’s Bar and Grill,$$,3.5,16,Hamilton,ON
+Papagayo Restaurant,$$,4,10,Hamilton,ON
+Turtle Jack’s,$$,3.9,22,Hamilton,ON
+Shakespeare’s Steak and Seafood,$$$,4.2,21,Hamilton,ON
+Dimario’s Trattoria,$$,4.3,19,Hamilton,ON
+Baci Ristorante,$$,3.7,43,Hamilton,ON
+Broadway Diner,$$,4.1,28,Hamilton,ON
+The Honest Lawyer,$$,1.6,55,Hamilton,ON
+Marciano’s Pasta Cafe,$$,4.5,10,Hamilton,ON
+Saigon Asian Restaurant,$,2.7,38,Hamilton,ON
+Symposium Cafe Restaurant,$$,2.4,16,Hamilton,ON
+Sea Shanty Fish & Chips,$$,4.6,14,Hamilton,ON
+Shoeless Joe’s Sports Grill - Hamilton,$$,2.5,24,Hamilton,ON
+Emilio’s Eatery & Bakery,$,2.8,6,Hamilton,ON
+Harbour Diner,$$,3.7,58,Hamilton,ON
+XXX Burrito,$,3.5,14,Hamilton,ON
+Social Lounge 8090,$$,3.3,14,Hamilton,ON
+Earls Kitchen + Bar,$$,3.6,44,Hamilton,ON
+Culantro Peruvian Cookery,$$,3.6,23,Hamilton,ON
+Saint James Espresso Bar & Eatery,$$,4.4,57,Hamilton,ON
+Pub Fiction Gasbar & Grill,$$,2,10,Hamilton,ON
+Firth’s Celtic Pub,$$,4.3,4,Hamilton,ON
+Rawlicious,$$,4.2,5,Hamilton,ON
+Kelseys Original Roadhouse,$$,3.8,9,Hamilton,ON
+The Parm House,$,3.3,3,Hamilton,ON
+Easterbrook Hotdog Stand,$,4.1,35,Hamilton,ON
+Ellis Kitchen,$,4.2,10,Hamilton,ON
+The Keg Steakhouse + Bar,$$,4.3,10,Hamilton,ON
+The Keg Steakhouse + Bar,$$,4.3,10,Hamilton,ON
+Downtown Bistro And Grill,$$,4.3,12,Hamilton,ON
+Caribbean & Canadian Restaurant,$$,4.5,19,Hamilton,ON
+Easterbrook Hotdog Stand,$,4.1,35,Hamilton,ON
+Lone Star Texas Grill,$$,2.6,35,Hamilton,ON
+Wild Orchid,$$,2.8,17,Hamilton,ON
+The Burger’s Priest,$$,3.7,34,Hamilton,ON
+La Piazza Allegra,$$,3.4,8,Hamilton,ON
+Empress Wok,$,2.4,10,Hamilton,ON
+Motel Restaurant,$$,4.4,54,Hamilton,ON
+Akira Restaurant,$$,4.1,47,Kingston,ON
+Mike Mundell’s Surf & Turf,$,4.3,6,Kingston,ON
+Bella Bistro,$$,3.9,23,Kingston,ON
+Sapporo Kingston Japanese Restaurant,$$,4.3,15,Kingston,ON
+Tom’s Place,$$,3.6,5,Kingston,ON
+St Louis Bar And Grill,$$,3.8,10,Kingston,ON
+Limestone Kabob House,$$,4.1,14,Kingston,ON
+Saber’s Taste of India,$$,3.9,34,Kingston,ON
+Boston Pizza,$$,2.6,19,Kingston,ON
+Eggsquis,$$,3.7,42,Kingston,ON
+Smitty’s,$$,3.8,13,Kingston,ON
+Panera Bread,$,2.7,20,Kingston,ON
+The Golden Damrei Restaurant,$$,4.8,6,Kingston,ON
+Snack Shack,$$,3.8,6,Kingston,ON
+Swiss Chalet Rotisserie & Grill,$$,3.7,11,Kingston,ON
+Wing Central,$$,4,6,Kingston,ON
+Coffee Way Donut Shop,$,4.4,32,Kingston,ON
+Gabriel Pizza,$,2.5,13,Kingston,ON
+Keith’s Deli,$,4.8,4,Kingston,ON
+L’Eggspress,$$,2.9,7,Kingston,ON
+Captain George’s Fish & Chips,$,4.1,7,Kingston,ON
+The Rose & Crown,$$,3.3,11,Kingston,ON
+East Side Mario’s,$$,1.9,14,Kingston,ON
+Denny’s,$$,3.3,13,Kingston,ON
+Dingaling’s,$$,3.5,16,Kingston,ON
+Five Guys,$$,4,17,Kingston,ON
+Greek Town Grill & Takeout,$$,4.2,11,Kingston,ON
+Boston Pizza,$$,1.9,8,Kingston,ON
+A&W,$$,5,4,Kingston,ON
+Siemreap Restaurant,$$,3.3,13,Kingston,ON
+Montana’s,$$,2,15,Kingston,ON
+Jiffy Grill,$$,4.8,4,Kingston,ON
+Minos Restaurants,$$,2,6,Kingston,ON
+Pizza By Adonis,$$,4.2,9,Kingston,ON
+A&W,$,3.3,6,Kingston,ON
+Arby’s,$,4.2,5,Kingston,ON
+McDonald’s,$,3,3,Kingston,ON
+Kelseys Original Roadhouse,$$,2.7,9,Kingston,ON
+Tim Hortons,$,4,2,Kingston,ON
+A&W,$,3,3,Kingston,ON
+Popeyes Louisiana Kitchen,$,3.3,11,Kingston,ON
+Denny’s,$$$,2.7,10,Kingston,ON
+A&W,$$,2.7,3,Kingston,ON
+New Garden Restaurant,$$,2.7,6,Kingston,ON
+Quiznos,$,4,2,Kingston,ON
+Harvey’s,$,1.3,3,Kingston,ON
+East Side Village,$$,2.5,13,Kingston,ON
+Dawghouse Pub and Eatery,$$$,4.1,44,London,ON
+The Church Key Bistro-Pub,$$,4.4,124,London,ON
+Reverie Restaurant,$$$$,5,9,London,ON
+Craft Farmacy,$$$,4.5,26,London,ON
+Shiki Restaurant,$$,4.2,46,London,ON
+Hunter & Co,$$,4.4,25,London,ON
+Sweet Onion Bistro,$$,4.3,60,London,ON
+Garlic’s Of,$$,4.1,77,London,ON
+Mythic Grill,$$,4.3,35,London,ON
+The Tasting Room,$$,4.2,73,London,ON
+The Early Bird,$$,4,234,London,ON
+Abruzzi,$$$,4.2,69,London,ON
+David’s Bistro,$$,4.5,40,London,ON
+Kenzo Ramen,$$,4.1,34,London,ON
+State & Main Kitchen & Bar,$$,3.9,44,London,ON
+Southside Grill,$$,4.1,48,London,ON
+Chuck’s Roadhouse,$$,2.4,69,London,ON
+Luan’s Seafood & Grill,$$,4.4,20,London,ON
+Happy Hotpot & BBQ,$$,3.6,11,London,ON
+Thuan Thanh,$,4.6,52,London,ON
+Stoner’s Grubhouse,$$,4.6,9,London,ON
+Earls Kitchen + Bar,$$,3.7,62,London,ON
+Congee Chan,$$,3.9,80,London,ON
+The Springs Restaurant,$$$,3.9,35,London,ON
+Los Lobos,$$$,3.4,54,London,ON
+Dolcetto,$$,3.4,64,London,ON
+Casa Blanca,$,4.4,16,London,ON
+The Bungalow Neighborhood Hub,$$,3.7,105,London,ON
+Kimchi House,$$,4.1,17,London,ON
+Paramount Fine Foods,$$,3.5,32,London,ON
+Ozen Sushi,$$,3.8,58,London,ON
+King of the Pigs - Rei dos Leitões,$,3.8,24,London,ON
+Gozen Sushi,$$,3.8,25,London,ON
+Budapest Restaurant,$$,3.8,54,London,ON
+168 Sushi Asian Buffet Bar,$$,3.3,50,London,ON
+Tiger Jack’s Bar & Grill,$,4.1,18,London,ON
+So Inviting,$,4.6,14,London,ON
+El Furniture Warehouse - London,$,3.5,40,London,ON
+Pasto’s Grill,$$,4.3,28,London,ON
+The Singing Chef,$$,4.3,12,London,ON
+Mykonos Restaurant,$$,3.7,34,London,ON
+Triniman Kitchen,$,4.8,16,London,ON
+Blakes Bistro,$$,4,13,London,ON
+Crabby Joe’s,$$,3.8,17,London,ON
+Babylon Pizza & Shawarma,$,4.9,21,London,ON
+Jack Astor’s,$$,3.2,31,London,ON
+Wich is Wich,$$,4.2,36,London,ON
+Idlewyld Restaurant,$$$,3.9,19,London,ON
+Quynh Nhi Vietnamese Restaurant,$$,3.9,49,London,ON
+Armouries Grille,$$,4.1,8,London,ON
+Fionn MacCool’s,$$,3.4,26,London,ON
+Milestones,$$$,4.1,30,London,ON
+Mexicactus,$$,4,23,London,ON
+Tuscanos Pizzeria and Bistro,$$,4.1,33,London,ON
+Milo’s Beer Emporium,$$,4.3,59,London,ON
+Dem Hai Dang,$,4.3,18,London,ON
+Thuan Kieu,$$,3.8,118,London,ON
+Mai Café,$$,4.2,37,London,ON
+Wimpy’s Diner,$,3.7,27,London,ON
+Spageddy Eddy’s of London,$$,3.6,70,London,ON
+Dos Tacos,$$,3.9,15,London,ON
+La Casa Ristorante,$$$,4.3,18,London,ON
+The Morrissey House,$$,3.7,98,London,ON
+Michael’s On The Thames,$$$$,2.7,22,London,ON
+The WORKS Gourmet Burger Bistro,$$,4.1,102,London,ON
+Unique Food Attitudes,$$,4.6,21,London,ON
+Banh Mi Express,$,4.1,15,London,ON
+QDOBA Mexican Eats,$$,3.9,34,London,ON
+Angel’s,$$,3.5,42,London,ON
+The Waltzing Weasel,$$,3.7,22,London,ON
+Denny’s,$$,2.6,31,London,ON
+Kosmos Eatery,$$,4.2,34,London,ON
+Moxies,$$$,3.7,41,London,ON
+The Squire Pub & Grill,$$,3.1,12,London,ON
+Angry Goat Public House,$$,2.1,10,London,ON
+Tahinis Downtown,$,3.9,129,London,ON
+Formaggio’s Pie Shack,$$,4,37,London,ON
+Golden Lake Fish And Chips,$$,4.3,10,London,ON
+Archie’s Seafood Restaurants,$$,3.7,15,London,ON
+The Italian House Pizzeria,$,4,27,London,ON
+Fireside Grill & Bar,$$,3.6,8,London,ON
+TG’s Addis Ababa Restaurant,$$,4.5,42,London,ON
+Thaifoon Restaurant,$$,3.9,61,London,ON
+Waldo’s On King,$$$,4.3,16,London,ON
+Sakata Ramen,$$,3.4,60,London,ON
+Meesai’s Thai Kitchen + Cocktails,$$,3.5,11,London,ON
+Che Restobar,$$,4.2,33,London,ON
+Burger Burger,$$,4.1,42,London,ON
+Piping Kettle Soup Company,$,3.7,12,London,ON
+Shelly’s Tap and Grill,$$,2.6,16,London,ON
+Latino Flavours,$,4.7,7,London,ON
+Ben Thanh Restaurant,$$,3.3,68,London,ON
+Shanghai,$$,3.5,10,London,ON
+Take Sushi Japanese & Korean Restaurant,$$,3.4,32,London,ON
+Village Pantry Restaurant,$$,3.9,7,London,ON
+India House Fine Indian Cuisine,$$,3.6,23,London,ON
+Harry’s Restaurant,$$,3.4,14,London,ON
+Old South Village Pub,$$,2.4,21,London,ON
+Winks Eatery,$$,4.1,35,London,ON
+Muldoon’s Pizza,$$,3.9,14,London,ON
+Blackfriars Bistro & Catering,$$$,4.1,13,London,ON
+Pho Lee,$$,3.9,33,London,ON
+Crabby Joe’s Bar & Grill,$$,3.1,35,London,ON
+Red Lobster,$$,3.3,28,London,ON
+Lotus Garden Restaurant,$$,4,4,London,ON
+Fellini Koolini’s,$$,3.5,58,London,ON
+Edgar + Joe’s Cafe,$,4.2,50,London,ON
+Massey’s Fine Indian Cuisine,$$,3.8,44,London,ON
+Shelby’s Foods Express,$$,3.6,33,London,ON
+Szechuan Town,$$,3.8,6,London,ON
+Under the Volcano,$$,2.8,70,London,ON
+Zen Gardens,$$,4.2,54,London,ON
+Ozen Korea,$$,3.6,32,London,ON
+Great Greek Souvlaki,$,3.4,5,London,ON
+Smokin’ Joe’s BBQ,$$,2.3,15,London,ON
+Mikado Sushi and Thai,$$,3.6,22,London,ON
+Bangkok Pad Thai Restaurant,$$,3.8,32,London,ON
+Mandarin Restaurant,$$,3.7,61,London,ON
+Bourbon Street Grill,$$,3.8,9,London,ON
+Jack’s,$,2,26,London,ON
+Moxies,$$$,3.4,47,London,ON
+The Keg Steakhouse + Bar,$$$,4,22,London,ON
+King of the Pigs,$$,3.2,15,London,ON
+Burrito Boyz,$,3.8,24,London,ON
+Montana’s,$$,2.8,26,London,ON
+Beertown London,$$,3.6,65,London,ON
+Curry’s,$$,3,48,London,ON
+Pete’s Pad,$$,3.3,7,London,ON
+10Eighteen,$$,4.2,25,London,ON
+Pizza Projekt,$$,2.8,21,London,ON
+Plant Matter Kitchen,$$,4.1,70,London,ON
+Babaz,$,4.2,17,London,ON
+Olde London Fish and Chips,$$,4.1,18,London,ON
+Palasad Wonderland,$$,3.9,28,London,ON
+The Shish Shawarma & Grill,$,3.9,18,London,ON
+Flour Mill Scratch Kitchen Restaurant,$$,4.2,201,Niagara-Falls,ON
+Stacked Pancake & Breakfast House,$$,4.7,73,Niagara-Falls,ON
+The Blind Pig,$$,4.5,88,Niagara-Falls,ON
+Weinkeller,$$$,4.6,497,Niagara-Falls,ON
+Napoli Ristorante and Pizzeria,$$,4.3,443,Niagara-Falls,ON
+AG Inspired Cuisine,$$$,4.4,224,Niagara-Falls,ON
+Yanks Old Niagara Bar and Grill,$$,3.9,253,Niagara-Falls,ON
+The Mami House,$$,4.5,57,Niagara-Falls,ON
+The Griffon Gastropub,$$,4.5,,Niagara-Falls,ON
+Paris Crepes Cafe,$$$,4.4,427,Niagara-Falls,ON
+Japanese Restaurant Yukiguni,$$,4,244,Niagara-Falls,ON
+Copacabana Brazilian Steakhouse,$$$,3.6,281,Niagara-Falls,ON
+Savor,$$,4.3,251,Niagara-Falls,ON
+Mandarin Restaurant,$$,4.2,174,Niagara-Falls,ON
+Wind Japanese & Thai - Niagara Falls,$$,4.2,289,Niagara-Falls,ON
+Smoke’s Poutinerie,$$,3.9,327,Niagara-Falls,ON
+Donatello’s Restaurant,$,4.4,356,Niagara-Falls,ON
+Tide and Vine Oyster House,$$$,4.6,189,Niagara-Falls,ON
+Pho Kha,$$,4.8,31,Niagara-Falls,ON
+Taps Brewhouse,$$,4.1,239,Niagara-Falls,ON
+Pho Xyclo,$$,4.1,418,Niagara-Falls,ON
+Antica Pizzeria,$$,4,514,Niagara-Falls,ON
+Young Garden,$$,2.8,111,Niagara-Falls,ON
+The Craft Kitchen & Bar,$$,4.2,100,Niagara-Falls,ON
+Carpaccio Restaurant,$$,4.3,117,Niagara-Falls,ON
+Brasa Brazilian Steakhouse,$$$,3.5,390,Niagara-Falls,ON
+The Grand Buffet,$$,3.1,133,Niagara-Falls,ON
+East Izakaya,$$$,4.3,20,Niagara-Falls,ON
+Wine on Third,$$,4.2,303,Niagara-Falls,ON
+The Kasbah Mediterranean,$$,4.2,150,Niagara-Falls,ON
+Zaika Indian Cuisine & Bar,$$,4.1,735,Niagara-Falls,ON
+Cippy’s Place,$,4.4,93,Niagara-Falls,ON
+Chill 443,$$,3.9,46,Niagara-Falls,ON
+Skylon Tower,$$$,2.9,886,Niagara-Falls,ON
+Doc Magilligan’s Restaurant & Irish Pub,$$,4.1,158,Niagara-Falls,ON
+Power City Eatery,$$,4.5,242,Niagara-Falls,ON
+The Keg Steakhouse + Bar -Fallsview,$$$,3.5,674,Niagara-Falls,ON
+La Cucina Di Mamma,$$,4.1,73,Niagara-Falls,ON
+The Works,$$,4.2,266,Niagara-Falls,ON
+Gadawski’s Restaurant,$$,4.1,34,Niagara-Falls,ON
+Jeffro’s BBQ,$$,3.9,50,Niagara-Falls,ON
+Scoops Restaurant Breakfast & Lunch,$$,4.2,137,Niagara-Falls,ON
+Pyung Taik Restaurant,$$,3.6,100,Niagara-Falls,ON
+Noodle Bar,$$$,2.8,33,Niagara-Falls,ON
+Riverside Tavern,$$,3.8,19,Niagara-Falls,ON
+Marketside Restaurant,$,4.6,294,Niagara-Falls,ON
+Steak Stone & Sushi Niagara Falls,$$,4,159,Niagara-Falls,ON
+Chile & Agave Mexican Grill,$$,4.1,86,Niagara-Falls,ON
+21 Club,$$$$,4.2,39,Niagara-Falls,ON
+Taco N Tequila,$$,3.4,157,Niagara-Falls,ON
+773 North,$$,4.4,82,Niagara-Falls,ON
+Fallsview Buffet,$$$,2.8,94,Niagara-Falls,ON
+Frijoles! Fresh Mex Burritos,$,4.3,96,Niagara-Falls,ON
+TASTE OF NEPAL,$$,4.2,70,Niagara-Falls,ON
+TGI Fridays,$$,2,230,Niagara-Falls,ON
+Billy Bones BBQ,$$,3.7,11,Niagara-Falls,ON
+Koi,$$,3,69,Niagara-Falls,ON
+Continental Pancake House & Family Restaurant,$$,3.4,133,Niagara-Falls,ON
+Morton’s Grille Niagara Falls,$$$,3.3,121,Niagara-Falls,ON
+Meat Market Niagara,$$$$,3.7,17,Niagara-Falls,ON
+Cool Hand Luke’s,$,4.1,25,Niagara-Falls,ON
+Mama Mia’s Italian Eatery,$$,3.3,118,Niagara-Falls,ON
+Flying Saucer Restaurant,$$,3.6,345,Niagara-Falls,ON
+Betty’s Restaurant,$$,3.9,36,Niagara-Falls,ON
+Maple Leaf Place,$$,3.1,32,Niagara-Falls,ON
+The Western Door Steakhouse,$$$$,3.9,141,Niagara-Falls,ON
+Fuji Grill,$$,3.9,217,Niagara-Falls,ON
+My Cousin Vinny’s,$$,3.1,257,Niagara-Falls,ON
+Bull Market,$$,3.6,12,Niagara-Falls,ON
+Michinoku Japanese Restaurant,$$,4,25,Niagara-Falls,ON
+Ponte Vecchio,$$$,4.1,48,Niagara-Falls,ON
+Milestones,$$,3.3,142,Niagara-Falls,ON
+Kathi Roll On The Falls,$,4.1,90,Niagara-Falls,ON
+Lakeport Fish & Chips,$$,4.8,18,Niagara-Falls,ON
+la Cascata,$$,3.8,19,Niagara-Falls,ON
+Simply Soul,$$,4.4,56,Niagara-Falls,ON
+Breakfast Buffet,$,1.3,19,Niagara-Falls,ON
+Chinatown Kitchen,$,3.8,26,Niagara-Falls,ON
+Flip Burger,$$,4.2,116,Niagara-Falls,ON
+Dick & Jenny’s,$$,4.6,301,Niagara-Falls,ON
+Charms Jerk Hut,$,4.1,14,Niagara-Falls,ON
+Cheetal Indian Cuisine & Buffet,$$,3.8,172,Niagara-Falls,ON
+Pho Golden,$$,4.4,131,Niagara-Falls,ON
+Hi-Lite Restaurant,$,3.6,5,Niagara-Falls,ON
+Don Cherry’s,$$,2.3,32,Niagara-Falls,ON
+Buried Treasure Cafe,$$,4.4,12,Niagara-Falls,ON
+Anchor Bar,$$,2.7,410,Niagara-Falls,ON
+Micah by Itt’s Thai,$$,3.8,19,Niagara-Falls,ON
+Tim Hortons,$,3.4,5,Niagara-Falls,ON
+Parkway Prime Steakhouse & Lounge,$$$,3.1,77,Niagara-Falls,ON
+BeaverTails Niagara Falls,$,4.5,100,Niagara-Falls,ON
+Queen Victoria Place Restaurant,$$$,3.3,107,Niagara-Falls,ON
+Frontier BBQ & Smokehouse - Temp. CLOSED,$$$,3.2,76,Niagara-Falls,ON
+Karma Kameleon Gastropub,$$,4.5,11,Niagara-Falls,ON
+Red Chateau,$$$,4.4,52,Niagara-Falls,ON
+Queen Bean Cafe,$,4.2,49,Niagara-Falls,ON
+Elements on the Falls,$$,3.2,207,Niagara-Falls,ON
+Spicy Olive Bar and Grille,$$,3.7,50,Niagara-Falls,ON
+Michael’s Restaurant,$$,4,206,Niagara-Falls,ON
+Mario’s Pizza,$,4.1,111,Niagara-Falls,ON
+Zappi’s Pizza and Pasta,$$,3.8,213,Niagara-Falls,ON
+Triple D’s Diner,$,3.8,30,Niagara-Falls,ON
+Johnny Rocco’s,$$,3.6,63,Niagara-Falls,ON
+Massimo’s Italian Fallsview Restaurant,$$$,3.2,65,Niagara-Falls,ON
+The Secret Garden Restaurant,$$,3.4,82,Niagara-Falls,ON
+The Pho Spot,$$,4.3,96,Niagara-Falls,ON
+Kelsey’s,$$,3.2,391,Niagara-Falls,ON
+Top of the Falls Restaurant,$$,2.5,166,Niagara-Falls,ON
+The Beach House Restaurant,$$,4,53,Niagara-Falls,ON
+Rainforest Cafe,$$,2.7,360,Niagara-Falls,ON
+Bakery Restaurant & Lounge - Temp. CLOSED,$$,4.3,68,Niagara-Falls,ON
+Hard Rock Cafe,$$,2.9,373,Niagara-Falls,ON
+Casa Mia Ristorante,$$$,3.9,49,Niagara-Falls,ON
+Easy Street,$,4.8,14,Niagara-Falls,ON
+Johnny Rocco’s Italian Grill,$$,3.6,93,Niagara-Falls,ON
+Mandalay Restaurant and Bar,$$,4.2,102,Niagara-Falls,ON
+Sunset Grill,$$,4,22,Niagara-Falls,ON
+Basell’s Restaurant & Tavern,$,4.2,36,Niagara-Falls,ON
+Polish Nook,$$,4.3,46,Niagara-Falls,ON
+IL Sorriso Cafe & Pizzeria,$$,4,44,Niagara-Falls,ON
+Wagon Wheel Restaurant,$,3.7,10,Niagara-Falls,ON
+Rock Burger,$$,4.6,127,Niagara-Falls,ON
+Cat’s Kitchen + Bar,$$,3.9,14,Niagara-Falls,ON
+Chuck’s Roadhouse Bar And Grill,$$,3.4,126,Niagara-Falls,ON
+Al Mac’s Buffet,$$,1.7,350,Niagara-Falls,ON
+Mai Thai Cuisine,$$,3.7,80,Niagara-Falls,ON
+Cracker Jacks Bar + Grill,$$,4.2,10,Niagara-Falls,ON
+Monsieur Crêpe Supérieure,$,4.3,11,Niagara-Falls,ON
+The Why Coffee Shop,$,4.3,141,Niagara-Falls,ON
+Ruth’s Chris Steak House,$$$$,2.7,272,Niagara-Falls,ON
+Pho Bowl,$$,3.8,40,Niagara-Falls,ON
+Jimmy Buffett’s Margaritaville,$$,2,313,Niagara-Falls,ON
+Hong Kong Kitchen,$,2.7,38,Niagara-Falls,ON
+Taquito Lindo,$$,4.5,67,Niagara-Falls,ON
+17 Noir,$$$,3.7,7,Niagara-Falls,ON
+Three Sisters Cafe,$$,2.9,94,Niagara-Falls,ON
+Orchard Grill Lounge,$,3.8,6,Niagara-Falls,ON
+Lucky Dragon Restaurant,$$,3.5,8,Niagara-Falls,ON
+Rainforest Cafe,$$,2.6,274,Niagara-Falls,ON
+Duff’s Famous Wings,$$,3.4,268,Niagara-Falls,ON
+Frankie’s Donuts,$,3.7,100,Niagara-Falls,ON
+Legends Bar,$$,2.1,68,Niagara-Falls,ON
+Mick & Angelo’s Eatery & Bar,$$,2.9,89,Niagara-Falls,ON
+Magnolia,$$,3.4,55,Niagara-Falls,ON
+Quesada Burritos & Tacos,$,5,5,Niagara-Falls,ON
+Chu’s Dining Lounge,$$,2.5,15,Niagara-Falls,ON
+Paramount Fine Foods,$$,3.6,128,Niagara-Falls,ON
+Portage Bakery,$,4.5,37,Niagara-Falls,ON
+Aperitivo,$$,4.4,48,Ottawa,ON
+Dumpling? Dumpling!,$$,3.9,29,Ottawa,ON
+NeXT,$$$,4.1,69,Ottawa,ON
+Greenfields Gastro Public House,$$,3.9,38,Ottawa,ON
+Black Dog Bistro,$$,4.2,56,Ottawa,ON
+Pirho Grill,$$,4.7,43,Ottawa,ON
+Amuse Kitchen & Wine,$$$,4.7,23,Ottawa,ON
+Pinelopi’s Greek Kitchen,$$,3.9,32,Ottawa,ON
+The Royal Oak,$$,2.6,16,Ottawa,ON
+Royals Restaurant & Dining Lounge,$$,4,7,Ottawa,ON
+Crispy’s Resto Grill,$,4.6,24,Ottawa,ON
+The Fry,$$,3.5,16,Ottawa,ON
+The Greek Souvlaki House,$$,4.6,52,Ottawa,ON
+Big Bone BBQ & Wicked Wings,$$,4.2,37,Ottawa,ON
+Café Cristal,$$,4.3,52,Ottawa,ON
+Cabotto’s Restaurant,$$,4,25,Ottawa,ON
+Brampton Authentic Indian Food,$,4.3,44,Ottawa,ON
+Wizard’s Tower,$$$,4.2,6,Ottawa,ON
+Mandarin Restaurant,$$,3.9,93,Ottawa,ON
+The Burbs Pub & Eatery,$$,3.6,31,Ottawa,ON
+Burgers and Shakes,$$,3.4,33,Ottawa,ON
+Franks,$,4.4,39,Ottawa,ON
+Milestones,$$,3.8,47,Ottawa,ON
+Royal Oak,$$,2.1,17,Ottawa,ON
+Crazy Horse,$$,3.5,51,Ottawa,ON
+Duna Bistro,$$,4.2,16,Ottawa,ON
+Chillies Indian Restaurant,$$,3.7,27,Ottawa,ON
+Lapointe Fish,$$,4,11,Ottawa,ON
+Khao Yum Authentic Thai Cuisine,$$,4.5,10,Ottawa,ON
+Eggroll Factory,$$,4.2,21,Ottawa,ON
+Amberwood Lounge & Eatery,$$$,4.5,6,Ottawa,ON
+Jack Astor’s,$$,3.5,36,Ottawa,ON
+Barrhaven Asian Dragon,$$,3.4,20,Ottawa,ON
+Kungfu Bistro,$$,3.9,44,Ottawa,ON
+Les Grillades,$$$,4.3,32,Ottawa,ON
+The Keg Steakhouse + Bar,$$$,4.3,67,Ottawa,ON
+Fratelli Kanata,$$,3.3,32,Ottawa,ON
+Sabai Thai Cuisine,$$,3.9,29,Ottawa,ON
+Vittoria Trattoria,$$$,4.1,39,Ottawa,ON
+The Works Craft Burgers & Beer,$$,3.8,37,Ottawa,ON
+The Works Craft Burgers & Beer,$$,3.8,37,Ottawa,ON
+Mandarin Restaurant,$$,3.7,12,Ottawa,ON
+Sukhothai Restaurant,$$,4.1,38,Ottawa,ON
+Moxies,$$,3.8,45,Ottawa,ON
+Authentic Vietnamese Pho House,$$,4.6,35,Ottawa,ON
+Babbos Cuciana Italiano,$$$$,2.1,8,Ottawa,ON
+Pho Thi Fusion,$$,3.4,32,Ottawa,ON
+Moxies,$$,3.6,46,Ottawa,ON
+Lone Star Texas Grill,$$,3.6,47,Ottawa,ON
+1000 Sushi Islands,$$,2.3,45,Ottawa,ON
+The Neighbourhood Pub,$$,3,3,Ottawa,ON
+Sammy Boy,$,2,1,Ottawa,ON
+The Keg Steakhouse + Bar,$$$,3.9,17,Ottawa,ON
+Country Place Chinese Restaurant,$,3.7,7,Ottawa,ON
+Big Mort’s Little Pub,$$,4.1,18,Ottawa,ON
+Baan Thai,$$,3.9,52,Ottawa,ON
+Supreme Kabob House,$$,4,32,Ottawa,ON
+Cyranos Restaurant,$$$,3.9,11,Ottawa,ON
+Napoli’s Cafe,$$$,3.8,18,Ottawa,ON
+Via Cibo,$$,3.7,43,Ottawa,ON
+Hard Stones Grill,$$,3.7,34,Ottawa,ON
+The Works,$$,3.8,35,Ottawa,ON
+Kanata Noodle House,$$,3.9,60,Ottawa,ON
+Guava’s Shawarma,$,3.9,29,Ottawa,ON
+Hanahana,$,3.5,16,Ottawa,ON
+Tutti Frutti Breakfast & Lunch,$$,3,22,Ottawa,ON
+Scotty’s Corner Diner,$$,3.7,11,Ottawa,ON
+Bambu Restaurant,$$,3.3,49,Ottawa,ON
+New Hong Shing,$$,4.1,19,Ottawa,ON
+S&S Fries,$,4.3,6,Ottawa,ON
+Boston Pizza,$$,3.2,22,Ottawa,ON
+Big Rig Kitchen and Brewery,$$,3.5,116,Ottawa,ON
+Indian Punjabi Clay Oven,$$,4,23,Ottawa,ON
+Pesto’s Italian Delicatessen,$,4.1,18,Ottawa,ON
+Willy’s Pizza,$$$,3.5,11,Ottawa,ON
+Welcome Back,$,3.6,10,Ottawa,ON
+East India Company,$$,3.7,31,Ottawa,ON
+Golden Restaurant,$$,2,34,Ottawa,ON
+iCook Pho You,$$,4,19,Ottawa,ON
+Lil’ Negril Island Grill,$$,4,24,Ottawa,ON
+Mongolian Village Grill & Mongolian Express Kiosk,$$$,2.7,29,Ottawa,ON
+Pocopazzo,$$,3.8,17,Ottawa,ON
+Royal Oak,$$,2.6,12,Ottawa,ON
+Crispy Chips,$,4.7,9,Ottawa,ON
+Cozmos Souvlaki,$,4.4,79,Ottawa,ON
+Zolas,$$,3.5,33,Ottawa,ON
+Take Another Bite!,$,3.9,16,Ottawa,ON
+Jack Astor’s,$$,3.1,35,Ottawa,ON
+CreekSide Bar & Grill,$$,2.8,6,Ottawa,ON
+Ad Mare Seafood,$$,4.2,28,Ottawa,ON
+Kelseys Original Roadhouse,$$,3.1,27,Ottawa,ON
+Thi Fusion Lounge And Bar Restaurant,$$,3.6,43,Ottawa,ON
+Bella’s Boys Italian Kitchen,$$$,3.6,7,Ottawa,ON
+Quesada Burritos & Tacos,$,3.7,6,Ottawa,ON
+Frankie’s Deli,$,4.8,6,Ottawa,ON
+Tomaso Grilled Pizza & Panini,$$,4.1,40,Ottawa,ON
+Bâton Rouge Steakhouse & Bar,$$$,2.6,29,Ottawa,ON
+Athens Grill,$$,4.7,6,Ottawa,ON
+Perspectives Restaurant,$$$,3.5,24,Ottawa,ON
+Kal’s Place,$$,3.8,38,Ottawa,ON
+Hurley’s Grill Stittsville,$$,2.4,12,Ottawa,ON
+Barley Mow,$$,3.5,10,Ottawa,ON
+Byward Taps,$$,2.4,17,Ottawa,ON
+Lee Ga,$,3.8,14,Ottawa,ON
+Five Guys,$$,3.4,25,Ottawa,ON
+Mr Shawarma Restaurant,$$,3.9,27,Ottawa,ON
+East Side Mario’s,$$,1.7,16,Ottawa,ON
+Zak’s Diner,$$,3.4,41,Ottawa,ON
+Panera Bread,$$,3.5,47,Ottawa,ON
+Cafe Hiraeth,$$,4.5,8,Ottawa,ON
+Crispy Spring Roll,$,4,2,Ottawa,ON
+Shawarma Planet,$,4.1,10,Ottawa,ON
+Hong Kong Chinese Food Takeout,$$,2.7,10,Ottawa,ON
+Montana’s,$$,3.2,30,Ottawa,ON
+Greek On Wheels,$$,4.1,10,Ottawa,ON
+Pizza All’Antica,$,3.7,7,Ottawa,ON
+Casa Dei Panini,$,4.7,6,Ottawa,ON
+Cindy’s Restaurant,$$,4.7,9,Ottawa,ON
+Hurley’s Grill,$$,3.4,10,Ottawa,ON
+Thai Flame Restaurant,$$,4,24,Ottawa,ON
+Broadway Bar & Grill,$$,3.4,19,Ottawa,ON
+Richmond Station,$$$,4.4,896,Toronto,ON
+Holy Cow Japanese Steakhouse,$$$,4.3,156,Toronto,ON
+KINKA IZAKAYA ORIGINAL,$$,4.1,,Toronto,ON
+STACK,$$,4,331,Toronto,ON
+Megumi Mazesoba,$$,4.7,26,Toronto,ON
+Rasa,$$,4.4,326,Toronto,ON
+Pai Northern Thai Kitchen,$$,4.4,,Toronto,ON
+Mary Be Kitchen,$$,4.4,73,Toronto,ON
+Positano Restaurant,$$,4.2,64,Toronto,ON
+Mayrik,$$$,4.1,74,Toronto,ON
+Baretto Caffe,$$,4.8,351,Toronto,ON
+Mira,$$,4.3,266,Toronto,ON
+Grazie Ristorante,$$,3.9,495,Toronto,ON
+TORA,$$$,3.8,216,Toronto,ON
+Sophie’s,$$,3.8,138,Toronto,ON
+Grandma Loves You,$$,4.8,75,Toronto,ON
+Aloette,$$$,4.4,296,Toronto,ON
+Kintako Japanese Restaurant,$$,4.2,182,Toronto,ON
+Gusto 101,$$,4,,Toronto,ON
+Mexico Lindo,$$,3.9,70,Toronto,ON
+Budapest Restaurant,$$,4.3,85,Toronto,ON
+Katsuya,$$,4.3,494,Toronto,ON
+Jin Dal Lae,$$,4.4,114,Toronto,ON
+Zezafoun Syrian Cuisine,$$,4.5,115,Toronto,ON
+Papyrus,$$,4.8,50,Toronto,ON
+Union Social Eatery,$$,3.8,170,Toronto,ON
+Nodo Restaurant,$$,4.3,60,Toronto,ON
+Seven Lives Tacos y Mariscos,$,4.4,,Toronto,ON
+The Olde Yorke,$$,4.4,330,Toronto,ON
+New Orleans Seafood & Steakhouse,$$$,4.8,170,Toronto,ON
+Insomnia Restaurant & Lounge,$$,4.1,,Toronto,ON
+Tabule Restaurant,$$,3.9,287,Toronto,ON
+Byblos,$$$$,4.4,901,Toronto,ON
+Conspiracy Pizza,$$,4.3,61,Toronto,ON
+Eggstatic,$$,4.4,140,Toronto,ON
+The Belsize Public House,$$,3.7,40,Toronto,ON
+The Hole In the Wall,$$,4.3,172,Toronto,ON
+Barnsteiner’s,$$$,3.5,71,Toronto,ON
+Eataly Toronto,$$,3.6,286,Toronto,ON
+El Sazón de la Tia Flor,$,4.3,30,Toronto,ON
+The Oxley,$$,3.8,178,Toronto,ON
+Tinuno,$$,4.1,621,Toronto,ON
+Kaiseki Yu-zen Hashimoto,$$$$,4.5,33,Toronto,ON
+Stock Bar,$$$,3.1,118,Toronto,ON
+Hokkaido Ramen Santouka,$$,4.3,58,Toronto,ON
+La Vecchia Ristorante,$$,3.7,333,Toronto,ON
+Little Sister,$$,3.7,218,Toronto,ON
+LOCAL Public Eatery - Leaside,$$,3.6,149,Toronto,ON
+Mogouyan Hand-Pulled Noodles,$$,4.4,62,Toronto,ON
+Banh Mi Boys,$,4.3,122,Toronto,ON
+Bolan Thai Cuisine,$$,4.1,105,Toronto,ON
+La Bella Managua,$$,4.3,251,Toronto,ON
+Yukashi Japanese Cuisine,$$$$,4.5,48,Toronto,ON
+Thairoomgrand,$$,4.5,23,Toronto,ON
+Capocaccia Trattoria,$$,3.5,86,Toronto,ON
+Pantheon Restaurant,$$,4.2,346,Toronto,ON
+Library Bar,$$$,4.1,127,Toronto,ON
+Queen of Persia,$$$,4.4,50,Toronto,ON
+OEB Breakfast Co.,$$,4.6,123,Toronto,ON
+Sakawa Coffee & Japanese Restaurant,$$,4.2,115,Toronto,ON
+Bi Bim Bap,$$,4.1,81,Toronto,ON
+Completo,$,4.4,172,Toronto,ON
+Pii Nong Thai,$$,4,66,Toronto,ON
+Antler Kitchen & Bar,$$$,4.5,289,Toronto,ON
+Hana Don,$$,4.1,43,Toronto,ON
+Flaming Stove,$,4.3,68,Toronto,ON
+Famiglia Baldassarre,$$,4.5,74,Toronto,ON
+Daldongnae,$$$,4.4,89,Toronto,ON
+Her Father’s Cider Bar & Kitchen,$$,4.6,191,Toronto,ON
+Trattoria Nervosa,$$,3.8,400,Toronto,ON
+Jerusalem Restaurant,$$,3.8,96,Toronto,ON
+Local 1794,$$,4.1,120,Toronto,ON
+The Queen And Beaver Public House,$$,3.8,410,Toronto,ON
+Borrel,$$,3.5,20,Toronto,ON
+Black Camel,$,4.4,382,Toronto,ON
+Omai Restaurant,$$,4.2,125,Toronto,ON
+Gyubee Japanese Grill - Dundas,$$$,4.4,206,Toronto,ON
+Ramen Isshin,$$,4.4,813,Toronto,ON
+Ho Lee Chow,$$,1,18,Toronto,ON
+Khau Gully,$$,4.1,98,Toronto,ON
+Sunnyside Pavilion Cafe,$$,2.8,55,Toronto,ON
+Fieramosca,$$$,4.3,111,Toronto,ON
+Pearl Diver,$$,4.2,628,Toronto,ON
+Dirty Food Eatery,$$,4.4,139,Toronto,ON
+El Charro,$,4,88,Toronto,ON
+Playa Cabana,$$,4,473,Toronto,ON
+Okonomi House Restaurant,$,3.9,315,Toronto,ON
+The Monkey Bar,$$$,4.2,44,Toronto,ON
+Meta Dos Leitoes,$$,4.4,7,Toronto,ON
+Lucy Ethiopian Restaurant,$$,4.5,71,Toronto,ON
+Hot Pot Restaurant,$$,4.7,28,Toronto,ON
+Pho Anh Vu,$$,4.1,78,Toronto,ON
+Khmer Thai Restaurant,$$,4.1,139,Toronto,ON
+Chadwick’s,$$,4,220,Toronto,ON
+The House On Parliament,$$,4.1,316,Toronto,ON
+Gyubee Japanese Grill - Bloor,$$$,4.2,316,Toronto,ON
+Skylight Rooftop Bar,$$$$,3.8,12,Toronto,ON
+Knuckle Sandwich,$$,4.1,119,Toronto,ON
+Maiz - CLOSED,$$,3.7,80,Toronto,ON
+Eastside Social,$$,4.3,80,Toronto,ON
+Oakwood Hardware Food & Drink,$$,4.1,55,Toronto,ON
+Juicy Dumpling,$,4.2,620,Toronto,ON
+Sorrel,$$$,3.6,32,Toronto,ON
+MIA Brunch Bar,$$,4.1,33,Toronto,ON
+Fat Pasha,$$$,3.8,209,Toronto,ON
+Seoul Food Take-Out,$,4.5,34,Toronto,ON
+Marron Bistro,$$$,4.5,14,Toronto,ON
+Scaramouche Restaurant Pasta Bar & Grill,$$$$,4.5,335,Toronto,ON
+Hot Pot Cafe,$,4.8,5,Toronto,ON
+Zee Grill Seafood Restaurant & Oyster Bar,$$$,4,49,Toronto,ON
+Sea Witch Fish and Chips,$$,4,136,Toronto,ON
+Itacate,$$,4.5,57,Toronto,ON
+PLANTA Yorkville,$$,3.9,504,Toronto,ON
+Yummy Korean Food Restaurant,$$,4,273,Toronto,ON
+El Nahual Tacos,$,4.5,150,Toronto,ON
+Tokyo Kitchen,$$,4,168,Toronto,ON
+Mezes,$$,4,259,Toronto,ON
+Momo Hut & Gardens,$$,4.7,121,Toronto,ON
+Ikkousha Ramen,$$,4.4,305,Toronto,ON
+EAT BKK Thai Kitchen,$$,3.8,324,Toronto,ON
+Mogouyan Hand-Pulled Noodles,$$,4.1,86,Toronto,ON
+Burdock,$$,3.6,84,Toronto,ON
+Raku,$$,4.1,296,Toronto,ON
+Mado - Dufferin,$$,3.4,30,Toronto,ON
+The Eagle Twins Restaurant,$,4.1,16,Toronto,ON
+Lake Inez,$$$,4.4,94,Toronto,ON
+Amsterdam Barrel House,$$,3.4,65,Toronto,ON
+Joso’s,$$$,4.3,171,Toronto,ON
+Yasu,$$$$,4.5,427,Toronto,ON
+Morgan’s On the Danforth,$$,3.9,100,Toronto,ON
+The Cook’s Shop,$$,4.4,96,Windsor,ON
+Spago Trattoria E Pizzeria,$$,4.5,181,Windsor,ON
+Nico Taverna,$$$,4.6,43,Windsor,ON
+Shanghai Bistro,$,4.4,49,Windsor,ON
+The Barrel House,$$,4.6,19,Windsor,ON
+The Hungry Wolf Restaurant,$$,4.4,19,Windsor,ON
+Frenchy’s Poutinery,$,4.3,121,Windsor,ON
+Wright & Company,$$$,4.3,,Windsor,ON
+The Carvery,$,4.6,54,Windsor,ON
+Parks & Rec Gastropub & Sports Bar,$$,3.5,19,Windsor,ON
+Eddy’s Mediterranean Bistro,$,4.6,32,Windsor,ON
+The Manchester,$$,4,63,Windsor,ON
+Ukrainian Restaurant,$,4.6,46,Windsor,ON
+Mamo Burger Bar,$$,4.4,95,Windsor,ON
+The Twisted Apron,$$,3.7,122,Windsor,ON
+Tommy’s Bar-B-Q,$$,4.4,23,Windsor,ON
+Rose Garden Chinese Cuisine,$$,4.4,11,Windsor,ON
+Windsor Seoul Restaurant,$$,4,22,Windsor,ON
+Jubba Restaurant,$,4.5,25,Windsor,ON
+Selden Standard,$$,4.4,,Windsor,ON
+Koma Restaurant,$$$,4.2,13,Windsor,ON
+BARDA Detroit,$$$,4.5,144,Windsor,ON
+Smoke & Spice Southern Barbecue,$$,3.6,78,Windsor,ON
+Neros Steakhouse,$$$$,3.3,64,Windsor,ON
+Factory House,$$,3.8,17,Windsor,ON
+Bibim To Go,$$,4,23,Windsor,ON
+Paul’s Kitchen,$,4.3,55,Windsor,ON
+Standby,$$,4.4,635,Windsor,ON
+Pho Nguyen Hoang,$,4.5,72,Windsor,ON
+Take Five Bistro,$$,3.8,29,Windsor,ON
+Dime Store,$$,4.4,,Windsor,ON
+La Guardia,$$,4,32,Windsor,ON
+Craft Heads Brewing Company,$,4.7,48,Windsor,ON
+Tropical Hut Philippine Cuisine,$,4.5,33,Windsor,ON
+Hikari  Restaurant,$$,3.9,37,Windsor,ON
+Supergeil,$$,4.5,133,Windsor,ON
+John Max Sports & Wings,$$,3.9,26,Windsor,ON
+Mad Nice,$$$,4,134,Windsor,ON
+The Keg Steakhouse + Bar,$$$,4.2,16,Windsor,ON
+The Springwell Pub,$$,3.5,14,Windsor,ON
+Olin Bar & Kitchen,$$$,4.4,183,Windsor,ON
+Marrow,$$$$,4.5,314,Windsor,ON
+The Keg Steakhouse + Bar - Windsor Riverside,$$$,3.8,99,Windsor,ON
+Lumen Detroit,$$,3.9,453,Windsor,ON
+The Sushi California,$$,3.8,56,Windsor,ON
+Spago Trattoria & Pizzeria,$$,4.2,40,Windsor,ON
+The Greek Grill,$$,4,28,Windsor,ON
+Windsor Penalty Box,$$,3.5,51,Windsor,ON
+Union Assembly,$$,4.1,126,Windsor,ON
+Takoi,$$,4.3,671,Windsor,ON
+Three Legged Goat,$$,3.7,29,Windsor,ON
+Sun Hong BBQ & Seafood,$$,3.4,38,Windsor,ON
+Jose’s Bar & Grill,$$,3.6,43,Windsor,ON
+TOAST Restaurant,$$,4.1,61,Windsor,ON
+AutoCity Hamburgers & Poutine,$,4.1,32,Windsor,ON
+The Apparatus Room,$$$,3.8,722,Windsor,ON
+On a Roll Sushi & Sliders,$$,4.5,38,Windsor,ON
+Besa,$$$,4.1,215,Windsor,ON
+Joe Schmoe’s Eats N Drinks,$$,3.9,12,Windsor,ON
+Stacks,$$,4.4,37,Windsor,ON
+Ciao Pasta Bar,$$,3.9,14,Windsor,ON
+Sandy’s Riverside Grill,$$,4.4,10,Windsor,ON
+Grey Ghost Detroit,$$$,4.2,995,Windsor,ON
+The DragonFly,$$,4.5,15,Windsor,ON
+Mumma Maria’s House,$$,4.6,71,Windsor,ON
+The Clique Restaurant,$,4.3,184,Windsor,ON
+The Charlevoix,$$,4.5,113,Windsor,ON
+Fourteen,$$,3.6,32,Windsor,ON
+Bubi’s Awesome Eats,$$,3.7,85,Windsor,ON
+Prime and Proper,$$$$,3.8,568,Windsor,ON
+San Morello,$$$,3.9,563,Windsor,ON
+A Dog’s Breakfast,$$,3.9,62,Windsor,ON
+Parc,$$$,3.9,949,Windsor,ON
+Highlands,$$$$,4.2,223,Windsor,ON
+Cramdon’s Tap & Eatery,$$,3.6,18,Windsor,ON
+Acapulco Delight Restaurant,$$,3.8,17,Windsor,ON
+La Casa,$$,4.1,72,Windsor,ON
+Ming Wah Chinese Buffet,$$,2.9,27,Windsor,ON
+Vertical Detroit,$$$,4.2,422,Windsor,ON
+Mootz Pizzeria + Bar,$$,4.3,435,Windsor,ON
+Ottava Via,$$,4.1,848,Windsor,ON
+Wineology Restaurant & Bar,$$,3.3,33,Windsor,ON
+Rock Bottom Bar & Grill,$$,4,42,Windsor,ON
+Eastern Flavours,$$,3.8,28,Windsor,ON
+SavannahBlue,$$,4.1,578,Windsor,ON
+Treehouse Bar & Grill,$,3.7,22,Windsor,ON
+L.A. Town Grill,$$$,3.1,12,Windsor,ON
+Etta’s Greeklish Eatery,$,3.7,19,Windsor,ON
+Mom’s Spaghetti,$$,3.7,134,Windsor,ON
+Lone Star Texas Grill,$$,3.2,30,Windsor,ON
+Green Dot Stables,$,4.2,,Windsor,ON
+SheWolf Pastificio & Bar,$$$,4.2,451,Windsor,ON
+Bobcat Bonnie’s,$$,3.9,643,Windsor,ON
+The Bourbon Tap & Grill,$$,3.3,13,Windsor,ON
+Taka Japanese & Thai,$$,2.5,71,Windsor,ON
+Piccolo’s Pizza & Pasta House,$$,3.7,28,Windsor,ON
+Firebird Tavern,$$,4.1,216,Windsor,ON
+Alma Kitchen,$$,4.5,78,Windsor,ON
+Jacoby’s German Biergarten,$$,4,324,Windsor,ON
+Chuck’s Roadhouse,$$$,2.9,29,Windsor,ON
+The Dugout,$$,3.8,18,Windsor,ON
+Suzie’s Grill Cafe,$$,4.1,24,Windsor,ON
+Roast ‘N Toast,$,4.2,19,Windsor,ON
+Batch Brewing Company,$$,4.5,469,Windsor,ON
+Cork & Gabel,$$,4.2,171,Windsor,ON
+Quesada Burritos & Tacos,$,3.4,17,Windsor,ON
+Mezzo Ristorante & Lounge,$$$,4.3,40,Windsor,ON
+House of Pad Thai,$$,4.4,33,Windsor,ON
+Orient Restaurant,$,4.9,8,Windsor,ON
+Chartreuse,$$$,4.6,818,Windsor,ON
+Dragon’s Inn Restaurant,$$,2.7,37,Windsor,ON
+Detroit Shipping Company,$$,4.1,384,Windsor,ON
+Red Dunn Kitchen,$$,3.8,183,Windsor,ON
+The Foundry Pub,$$,3.5,30,Windsor,ON
+Vicente’s Cuban Cuisine,$$,3.9,943,Windsor,ON
+The Statler,$$$,3.8,86,Windsor,ON
+Vito’s Olde Walkerville Pizzeria,$$,3.8,73,Windsor,ON
+The Bistro at the River,$$,2.7,37,Windsor,ON
+Frita Batidos,$$,4.4,139,Windsor,ON
+PAO Detroit,$$,3.8,294,Windsor,ON
+Johnny Noodle King,$$,3.9,840,Windsor,ON
+New Kirin Eatery,$$,3.7,15,Windsor,ON
+Shin Shin Chinese Restaurant,$$,3.9,41,Windsor,ON
+Baobab Fare,$$,4.8,235,Windsor,ON
+Pho Windsor,$$,3.7,29,Windsor,ON
+Xaco Taco,$$,2.8,19,Windsor,ON
+Sundried Tomato Bistro,$$,3.9,14,Windsor,ON
+Grill 55 Restaurant,$$,2.4,17,Windsor,ON
+Detroit 75 Kitchen,$,4.3,273,Windsor,ON
+China Kitchen Eatery,$$,3.8,11,Windsor,ON
+La Contessa Ristorante,$$,3.9,15,Windsor,ON
+Koi Sushi & Japanese Cuisine,$$,2.5,26,Windsor,ON
+Tandoori Taste of India,$$,4.2,24,Windsor,ON
+UFO Factory,$,3.9,71,Windsor,ON
+Route 42 Diner & Dairy Bar,$$,3.1,55,Windsor,ON
+Hamoudi’s Shawarma,$,3.2,33,Windsor,ON
+Fasian,$,4,1,Windsor,ON
+Sunset Grill,$$,4,5,Windsor,ON
+La Rucola,$$,3.8,18,Windsor,ON
+Norma G Caribbean cuisine,$$,4.2,169,Windsor,ON
+Saffron De Twah,$$,4.7,98,Windsor,ON
+Giovanni Caboto Pizza,$$,5,3,Windsor,ON
+Mudgie’s Deli & Wine Shop,$$,4.3,967,Windsor,ON
+Gilligan’s,$$,2.3,21,Windsor,ON
+Bakersfield,$$,4.2,695,Windsor,ON
+Sweetwater Tavern,$$,3.4,648,Windsor,ON
+The Detroit Club,$$$,3.8,84,Windsor,ON
+Joe Muer Seafood,$$$$,3.8,781,Windsor,ON
+Cafe March 21,$,4.6,44,Windsor,ON
+Caesars,$$,3.5,23,Windsor,ON
+Dede Cevapi,$,4.5,2,Windsor,ON
+Coriander Kitchen & Farm,$$,3.5,75,Windsor,ON
+Central Kitchen + Bar,$$,3.7,427,Windsor,ON
+Ima Izakaya,$$,4.3,66,Windsor,ON
+Supino Pizzeria,$$,4.4,,Windsor,ON
+Windsor Palace Restaurant,$$,4.4,51,Windsor,ON
+Downtown Louie’s,$$,3.9,310,Windsor,ON
+La Lanterna,$$,4,237,Windsor,ON
+Farmer Franks,$$,4.2,93,Windsor,ON
+Armando’s Pizza Bar,$$$,3.5,26,Windsor,ON
+Armando’s Restaurant & Pizzeria,$$,2.7,27,Windsor,ON
+Riverside Pie Cafe,$$,4.7,15,Windsor,ON
+Sofos Restaurant,$$,4.4,8,Windsor,ON
+Fratelli’s Pasta Grill,$$$,3.7,18,Windsor,ON
+Carribean Island Spice,$$,4.7,19,Windsor,ON
+Ivy Kitchen + Cocktails,$$,3.2,158,Windsor,ON
+Prism,$$$,3.9,121,Windsor,ON
+271 West,$$,4.4,68,Kitchener,ON
+J & B Family Restaurant,$$,4.7,22,Kitchener,ON
+Kinkaku Izakaya,$$$,4.1,338,Kitchener,ON
+Red House,$$,4.3,87,Kitchener,ON
+Public Kitchen & Bar,$$$,4.2,52,Kitchener,ON
+Korean BBQ Restaurant,$$,4.3,22,Kitchener,ON
+Grand Trunk Saloon,$$,4.5,52,Kitchener,ON
+Graffiti Market,$$,4.2,63,Kitchener,ON
+The Bauer Kitchen,$$$,3.9,184,Kitchener,ON
+The Guanaquita Restaurant,$$,4.2,73,Kitchener,ON
+Pupuseria Latinos,$,4.6,25,Kitchener,ON
+Bao Sandwich Bar,$,4.3,282,Kitchener,ON
+Gol’s Lanzhou Noodle,$$,4.5,101,Kitchener,ON
+Borealis Grille & Bar,$$,3.8,99,Kitchener,ON
+The Bent Elbow,$$,4.1,29,Kitchener,ON
+The Crazy Canuck,$$,4.1,81,Kitchener,ON
+Korner Kitchen,$$,4.6,60,Kitchener,ON
+The Cactus,$$,4.1,26,Kitchener,ON
+Moose Winooski’s,$$,3.4,68,Kitchener,ON
+Bhima’s Warung,$$$,4.2,106,Kitchener,ON
+TWH Social,$$,3.6,29,Kitchener,ON
+Charcoal Steak House,$$$,3.7,67,Kitchener,ON
+Northern Thai,$$,4.2,74,Kitchener,ON
+Muya Restaurant,$$,4.7,40,Kitchener,ON
+Nostra Cucina,$$,4.8,16,Kitchener,ON
+White Rabbit,$$$,3.3,37,Kitchener,ON
+State & Main Kitchen & Bar,$$,3.8,12,Kitchener,ON
+Proof Kitchen and Lounge,$$$,3.7,56,Kitchener,ON
+The Famous Owl Of Minerva,$$,3.9,82,Kitchener,ON
+Golden Dynasty,$$,3.6,33,Kitchener,ON
+Home Garden Taste of Taiwan,$,4,30,Kitchener,ON
+1001 Nights Shawarma,$$,4.6,35,Kitchener,ON
+Pierogi House,$$,4.1,25,Kitchener,ON
+The Yeti,$$,4.5,49,Kitchener,ON
+Concordia Club,$$,4.1,19,Kitchener,ON
+The Poké Box,$$,4.4,82,Kitchener,ON
+Janet Lynn’s Bistro,$$$,4.3,28,Kitchener,ON
+Casa Rugantino,$$,3.9,29,Kitchener,ON
+Hong Kong Seafood Restaurant,$,4,10,Kitchener,ON
+Ken Sushi,$$,4.2,140,Kitchener,ON
+21 Fir,$$,3.5,10,Kitchener,ON
+Ennio’s Pasta House,$$,4.2,23,Kitchener,ON
+Watami Sushi & Sake Bar,$$,4,88,Kitchener,ON
+Almadina Woodstone Oven & Grill,$$,3.9,18,Kitchener,ON
+Famoso Neapolitan Pizzeria,$$,4,90,Kitchener,ON
+Levetto,$$,4.1,46,Kitchener,ON
+Moxies,$$,3.5,54,Kitchener,ON
+Mediterraneo Family Restaurant,$$,3.8,46,Kitchener,ON
+The Ridge Social Eatery,$$,3.9,11,Kitchener,ON
+Lin Hai Sushi,$$$,3.9,27,Kitchener,ON
+Lisboa Bakery & Grill,$$,3.8,25,Kitchener,ON
+Langdon Hall Dining,$$$,4.1,30,Kitchener,ON
+Pho Bistro,$,4,47,Kitchener,ON
+Arabesque Family Restaurant,$$,4.1,77,Kitchener,ON
+Rustic Slice,$$,4,37,Kitchener,ON
+Pho Dau Bo,$,4.1,74,Kitchener,ON
+ABE ERB - Uptown Waterloo,$$,3.4,74,Kitchener,ON
+TheJane Bond,$$,4.2,33,Kitchener,ON
+Crabby Joe’s,$$,2.5,22,Kitchener,ON
+Taco Farm,$$,3.4,133,Kitchener,ON
+Arabella Park Beer Bar,$$,4.3,16,Kitchener,ON
+Rock Paper Scissors,$$,3.4,8,Kitchener,ON
+The New Dundee Emporium,$$$,3.1,8,Kitchener,ON
+Jack’s Family Restaurant,$$,3.6,65,Kitchener,ON
+Fionn MacCool’s Irish Pub,$$,2.5,11,Kitchener,ON
+Vincenzo’s,$$,4.6,125,Kitchener,ON
+Edelweiss Sports Bar & Grill,$$,4.1,14,Kitchener,ON
+Ellison’s Bistro,$$,4.1,29,Kitchener,ON
+Deli Banh Mi Givral,$,4.6,39,Kitchener,ON
+The Java Garden,$,4.8,10,Kitchener,ON
+Red Lobster,$$$,3.5,36,Kitchener,ON
+Leung Yue Hot Pot,$$,2.7,32,Kitchener,ON
+The Adventurers’ Guild Cafe,$$,4.6,5,Kitchener,ON
+East African Cafe,$,4.2,22,Kitchener,ON
+Abe Erb - Downtown Kitchener,$$,3.6,18,Kitchener,ON
+King Fish and Chips,$,4.2,17,Kitchener,ON
+Fish Hut,$,4.1,15,Kitchener,ON
+Teremok Cafe,$$,4.6,13,Kitchener,ON
+Cameron Chinese Seafood Restaurant,$$,3.7,60,Kitchener,ON
+Morty’s Pub,$$,3.8,102,Kitchener,ON
+Jack Astor’s,$$,2.9,24,Kitchener,ON
+Pho Sunrise,$,3.8,16,Kitchener,ON
+Sole’ Restaurant,$$$,3.9,53,Kitchener,ON
+Darlise Cafe,$$,4.1,19,Kitchener,ON
+Bangkok Cuisine,$$,4,23,Kitchener,ON
+Bogda,$$,4.2,22,Kitchener,ON
+Bread Heads,$$,4.1,14,Kitchener,ON
+Red Ginger Modern Thai & Viet cuisine,$$,3.6,38,Kitchener,ON
+Fireside Deli & Family Restaurant,$$,3.4,42,Kitchener,ON
+Chicago Pub & Billiards,$$,2.1,13,Kitchener,ON
+Peking Gourmet,$,3.9,9,Kitchener,ON
+Sushi Star,$$,3.8,64,Kitchener,ON
+The Fiddle & Firkin,$$,4.1,14,Kitchener,ON
+Exclamation,$$,3.6,13,Kitchener,ON
+Miltons Restaurant,$$$$,2.4,36,Kitchener,ON
+South Side Marketplace,$,4,4,Kitchener,ON
+Martini’s,$$,3.6,23,Kitchener,ON
+Jumbo Dragon,$,4.3,18,Kitchener,ON
+McCabe’s Irish Pub & Grill,$$,3.3,24,Kitchener,ON
+Osmow’s,$,4.1,112,Kitchener,ON
+Empress Of India,$$,3.8,36,Kitchener,ON
+Take 5 Eats Inc,$$,2.8,4,Kitchener,ON
+Prime Bar-B-Q Restaurant,$$,3.3,6,Kitchener,ON
+Turtle Jack’s,$$,2,21,Kitchener,ON
+Country Boy Family Restaurant,$$,3.6,55,Kitchener,ON
+Ennio’s Pasta House,$$,3.7,79,Kitchener,ON
+Ben Thanh,$$,2.8,49,Kitchener,ON
+Milestones,$$,3.4,26,Kitchener,ON
+Manitou Take-Out,$$,3.8,6,Kitchener,ON
+New Delhi,$$,4.1,9,Kitchener,ON
+Three Kretans,$$,3.9,10,Kitchener,ON
+Wildcraft,$$$,3.6,87,Kitchener,ON
+Bombay Bhel,$$,3.4,19,Kitchener,ON
+The Keg Steakhouse + Bar,$$$,4.2,39,Kitchener,ON
+Riverside Fish Hut,$,4.1,16,Kitchener,ON
+Pho dau Bo,$,3.4,18,Kitchener,ON
+Hungry Ninja,$$,3.7,11,Kitchener,ON
+King Street Trio,$$$,3.8,50,Kitchener,ON
+Homestyle Diner,$$,3.9,16,Kitchener,ON
+Fresh Burrito Mexican Grill,$,3.6,9,Kitchener,ON
+Metro Restaurant,$$,2.9,27,Kitchener,ON
+Pho Tran,$$,4,14,Kitchener,ON
+Pizza Prosciutto,$$,4.1,8,Kitchener,ON
+The Works,$$,3.3,24,Kitchener,ON
+Jersey Mike’s Subs,$$,4.3,24,Kitchener,ON
+Montana’s BBQ & Bar,$$,2.8,17,Kitchener,ON
+Sam’s Chinese Kitchen,$$,3.3,34,Kitchener,ON
+Granny Bonn’s Fish N Chips,$,4.1,7,Kitchener,ON
+Del’s Italian Kitchen,$$,3.6,37,Kitchener,ON
+Dolce Vita,$$,4.3,3,Peterborough,ON
+St Veronus Cafe & Tap Bar,$$,4.5,51,Peterborough,ON
+Ashburnham Ale House,$$,4.4,51,Peterborough,ON
+Gerti’s,$$,4.3,16,Peterborough,ON
+Rare Grill House,$$$$,4.3,22,Peterborough,ON
+BrickHouse,$$,4.1,19,Peterborough,ON
+Island Cream Caribbean Cuisine,$,4.6,8,Peterborough,ON
+Saigon Boys,$,4.3,19,Peterborough,ON
+Dr J’s Bbq & Brews,$$,3.8,24,Peterborough,ON
+Kettle Drums Restaurant & Bar,$$,3.5,32,Peterborough,ON
+Riley’s Pub,$$,3.1,35,Peterborough,ON
+La Hacienda,$$,3.9,25,Peterborough,ON
+Karma’s Cafe,$$,4.2,9,Peterborough,ON
+Matsu Sushi,$$,4.1,36,Peterborough,ON
+Aji Sai Japanese Restaurant LLBO,$$,3.6,27,Peterborough,ON
+The Food Forest,$$,4.6,29,Peterborough,ON
+Apollo Grill,$$,4.5,25,Peterborough,ON
+El Camino’s,$,3.2,18,Peterborough,ON
+Ariyana,$$,3.5,10,Peterborough,ON
+Jasmine Thai Cuisine,$$,4.4,13,Peterborough,ON
+Spaghetti House Pizzeria,$$,3.8,4,Peterborough,ON
+Riverside Grill & Gazebo,$$,3.5,8,Peterborough,ON
+Soupcon,$,4.6,17,Peterborough,ON
+Berc’s Steakhouse,$$$,3.7,19,Peterborough,ON
+Fresh Dreams,$$,4.6,5,Peterborough,ON
+The Pasta Shop,$$,5,4,Peterborough,ON
+The Keg Steakhouse + Bar - Peterborough,$$$,4.2,26,Peterborough,ON
+Shafiq’s Taste of India,$$,3.9,22,Peterborough,ON
+Wee Wok Express,$$,3.7,18,Peterborough,ON
+The Night Kitchen,$$,4.2,10,Peterborough,ON
+Sam’s Place Deli,$$,4.3,15,Peterborough,ON
+Whistle Stop Cafe,$$,3.3,47,Peterborough,ON
+Jack’s Restaurant,$$,3.6,7,Peterborough,ON
+The Speak Easy Cafe,$,4.3,4,Peterborough,ON
+Curry Village,$$,3.9,12,Peterborough,ON
+The Pizza Factory,$$,3.4,20,Peterborough,ON
+Square Plates Family Restaurant,$,3.9,13,Peterborough,ON
+St Louis Bar and Grill,$$,2.1,25,Peterborough,ON
+Silver Bean Cafe,$,3.8,6,Peterborough,ON
+The Imperial Tandoor,$$$,3.3,12,Peterborough,ON
+LOON HO BUFFET,$,2.8,11,Peterborough,ON
+The Only Cafe,$$,3.8,14,Peterborough,ON
+Kelseys Original Roadhouse,$$,3.7,7,Peterborough,ON
+Real Thai Cuisine,$$,3.6,8,Peterborough,ON
+Matsu Sushi,$$,4.6,9,Peterborough,ON
+Montana’s BBQ & Bar,$$$,1.9,11,Peterborough,ON
+Jim’s PIZZERIA & PASTA,$,3.2,17,Peterborough,ON
+Madoi Sushi Restaurant,$$,3.8,16,Peterborough,ON
+Wild Wing,$$,2.4,5,Peterborough,ON
+Village of Thai,$$,2.3,13,Peterborough,ON
+Southside Pizzeria,$$$,1.7,20,Peterborough,ON
+Jeff Purvey’s,$$,3.8,14,Peterborough,ON
+Marty Moo’s,$$,3.8,11,Peterborough,ON
+East Side Mario’s - Peterborough,$$,2.6,18,Peterborough,ON
+Simply Thai,$,4,1,Peterborough,ON
+Primal Cuts,$$$$,4.5,4,Peterborough,ON
+Charlotte Pantry,$,5,1,Peterborough,ON
+Free Topping Pizza,$,2,3,Peterborough,ON
+Harvey’s,$$,1.4,5,Peterborough,ON
+Hockey Sushi,$$,3.5,22,Peterborough,ON
+Country Garden Chinese Restaurant,$,2.9,13,Peterborough,ON
+East City Coffee Shop,$,4.2,11,Peterborough,ON
+Jimmy Guaco’s,$,4,5,Peterborough,ON
+Yunshang Rice Noodle House,$$,4.3,38,Peterborough,ON
+Pita Pit,$,4.5,2,Peterborough,ON
+The Cabin,$$,1.6,8,Peterborough,ON
+Dante’s Gourmet Burrito,$,3.7,6,Peterborough,ON
+Miguel’s Mexican Restaurant,$,4,1,Peterborough,ON
+Docker’s Fish & Chips,$$,3.7,6,Peterborough,ON
+Boston Pizza,$$,2.4,12,Peterborough,ON
+South china buffet,$$,1.8,10,Peterborough,ON
+Popeyes Louisiana Kitchen,$$,2,4,Peterborough,ON
+Daisy Restaurant,$$,1.5,4,Peterborough,ON
+Pizza Hut,$$,1,2,Peterborough,ON
+Lori’s,$,2,1,Peterborough,ON
+Papa Johns Pizza,$$,2.3,4,Peterborough,ON
+DQ Grill & Chill Restaurant,$,3,1,Peterborough,ON
+McDonald’s,$,2,9,Peterborough,ON
+Tim Hortons,$,1,3,Peterborough,ON
+The Breakfast Pig,$$,4.4,70,Sault-Ste-Marie,ON
+The Wicked Sister,$$,4.4,172,Sault-Ste-Marie,ON
+Lock View Restaurant,$$,4.1,222,Sault-Ste-Marie,ON
+Low & Slow  Smoked Fusion BBQ,$$,3.9,58,Sault-Ste-Marie,ON
+View Restaurant and Bar,$$$,3.6,27,Sault-Ste-Marie,ON
+Quattro,$$$,4.2,19,Sault-Ste-Marie,ON
+Grillroom 1901,$$,4.5,24,Sault-Ste-Marie,ON
+Burger Don,$$,4.6,52,Sault-Ste-Marie,ON
+West Pier Drive-In,$,4.5,109,Sault-Ste-Marie,ON
+The Mill Steakhouse and Wine Bar,$$$,3.6,17,Sault-Ste-Marie,ON
+Fratelli’s Kitchen,$$,3.8,22,Sault-Ste-Marie,ON
+Giovanni’s Restaurant,$$,3.5,29,Sault-Ste-Marie,ON
+Tandoori Garden,$$,4.6,31,Sault-Ste-Marie,ON
+Antico Ristorante,$$,4.1,10,Sault-Ste-Marie,ON
+Aurora’s,$$,3.4,16,Sault-Ste-Marie,ON
+1668 Winery & Lockside Brewery,$$,3.8,33,Sault-Ste-Marie,ON
+West Side Cafe,$$,3.9,15,Sault-Ste-Marie,ON
+Penny’s Kitchen,$,4.2,65,Sault-Ste-Marie,ON
+Zorbas Greek American Restaurant,$$,4.1,77,Sault-Ste-Marie,ON
+Stackburger,$$,4.3,15,Sault-Ste-Marie,ON
+Lychee Thai,$$,2.7,25,Sault-Ste-Marie,ON
+The Antler’s,$$,3.6,153,Sault-Ste-Marie,ON
+Frank’s Place,$,3.9,107,Sault-Ste-Marie,ON
+Oh Crêpe and Coffee,$$,4.5,78,Sault-Ste-Marie,ON
+Moloney’s Alley,$$,3.4,92,Sault-Ste-Marie,ON
+The Palace Mexican Restaurant & Saloon,$$,3.6,128,Sault-Ste-Marie,ON
+Shogun Sushi,$$,3,23,Sault-Ste-Marie,ON
+Arturo Ristorante,$$$,4,12,Sault-Ste-Marie,ON
+Golden Dragon,$$,2.7,12,Sault-Ste-Marie,ON
+Pure Country Family Restaurant,$$,3.9,39,Sault-Ste-Marie,ON
+Indo-China Garden,$$,3.7,54,Sault-Ste-Marie,ON
+North 82,$$,2.8,27,Sault-Ste-Marie,ON
+Clyde’s Drive-In,$,4.5,62,Sault-Ste-Marie,ON
+Sandro’s Family Restaurant,$$,3.9,8,Sault-Ste-Marie,ON
+Wacky Wings,$$,3.5,13,Sault-Ste-Marie,ON
+Casey’s Bar and Grill,$$,2.3,20,Sault-Ste-Marie,ON
+China Cate,$,3.6,43,Sault-Ste-Marie,ON
+Guido’s Premium Pizza - Sault Ste. Marie,$,4.2,35,Sault-Ste-Marie,ON
+Gino’s Family Restaurant,$,3,10,Sault-Ste-Marie,ON
+Swiss Chalet,$$,2.4,12,Sault-Ste-Marie,ON
+DreamCatchers Restaurant,$,2.5,4,Sault-Ste-Marie,ON
+Applebee’s Grill + Bar,$$,3.4,36,Sault-Ste-Marie,ON
+Hong Kong Restaurant,$$,2.1,7,Sault-Ste-Marie,ON
+Hard Wok Cafe,$$,1.3,9,Sault-Ste-Marie,ON
+Buffalo Wild Wings,$,2.5,15,Sault-Ste-Marie,ON
+Uncle Gino’s Cafe,$$,3.7,3,Sault-Ste-Marie,ON
+Cup of the Day,$,3.3,32,Sault-Ste-Marie,ON
+Our Place,$,4,1,Sault-Ste-Marie,ON
+Hungry Howie’s Pizza,$,3.8,8,Sault-Ste-Marie,ON
+Sportscenter Bar and Grill,$,2.5,2,Sault-Ste-Marie,ON
+BIGGBY COFFEE,$$,3.8,12,Sault-Ste-Marie,ON
+Jimmy John’s,$,4,2,Sault-Ste-Marie,ON
+Taco Bell,$,2.3,6,Sault-Ste-Marie,ON
+Arby’s,$,1.8,6,Sault-Ste-Marie,ON
+Domino’s Pizza,$,3.5,6,Sault-Ste-Marie,ON
+McDonald’s,$,3.7,9,Sault-Ste-Marie,ON
+Subway,$,2,3,Sault-Ste-Marie,ON
+McDonald’s,$,1.6,5,Sault-Ste-Marie,ON
+Pizza Hut,$,3.5,8,Sault-Ste-Marie,ON
+Little Caesars,$,3,5,Sault-Ste-Marie,ON
+Subway,$,1.7,3,Sault-Ste-Marie,ON
+Burger King,$,1,1,Sault-Ste-Marie,ON
+Subway,$,1,2,Sault-Ste-Marie,ON
+Wendy’s,$,2.6,5,Sault-Ste-Marie,ON
+Tomlin,$$,4.5,33,Thunder-Bay,ON
+Caribou Restaurant & Wine Bar,$$$,4.5,45,Thunder-Bay,ON
+Thai Kitchen,$$,4.2,35,Thunder-Bay,ON
+Both Hands Wood Fired Pizzeria & Bakery,$$,4.9,18,Thunder-Bay,ON
+Sovereign Room,$$,4,53,Thunder-Bay,ON
+Nook Thunder Bay,$$,3.8,21,Thunder-Bay,ON
+Prospector Steak House,$$,3.4,30,Thunder-Bay,ON
+The Keg Steakhouse + Bar - Thunder Bay,$$,4.2,38,Thunder-Bay,ON
+Naxos Grill & Bar,$$,4.1,38,Thunder-Bay,ON
+Monsoon Thunder Bay,$$,4.1,15,Thunder-Bay,ON
+Madhouse,$$,4,24,Thunder-Bay,ON
+Joey’s Seafood Restaurants,$$,4,13,Thunder-Bay,ON
+Niva’s,$,4.2,18,Thunder-Bay,ON
+The Foundry,$$,3.1,31,Thunder-Bay,ON
+Bar Italia Restaurant,$$,4.1,11,Thunder-Bay,ON
+Bight Restaurant & Bar,$$$,3.5,42,Thunder-Bay,ON
+The Growing Season,$$,4.7,27,Thunder-Bay,ON
+Tina’s Breakfast & Lunch,$$,4.2,12,Thunder-Bay,ON
+5 Forks Restaurant,$$,2.5,26,Thunder-Bay,ON
+Mongos Grill,$$,3.9,7,Thunder-Bay,ON
+Mr. Chinese,$$,2.3,24,Thunder-Bay,ON
+Lot 66 Restaurant and Wine Bar,$$$,3.9,14,Thunder-Bay,ON
+Mama Alfa’s Pizzeria,$$,4.4,8,Thunder-Bay,ON
+Applebee’s Grill + Bar,$$$$,3,9,Thunder-Bay,ON
+Montana’s BBQ & Bar,$$,2.8,28,Thunder-Bay,ON
+Up In Smoke Bbq & Grill,$$,3.4,8,Thunder-Bay,ON
+Wasabi Japanese Restaurant,$$,3.5,16,Thunder-Bay,ON
+Oriental Garden,$$,3.3,16,Thunder-Bay,ON
+Masala Grille,$$,3.7,18,Thunder-Bay,ON
+Salween,$$,4.6,9,Thunder-Bay,ON
+Tokyo House,$$$,3.2,19,Thunder-Bay,ON
+Sushi Station,$$,1.9,10,Thunder-Bay,ON
+Chicago Joe’s,$$$,2.5,12,Thunder-Bay,ON
+Kangas Sauna,$$,3.6,8,Thunder-Bay,ON
+The Beacon Restaurant,$,3.7,3,Thunder-Bay,ON
+Boston Pizza,$$,3.4,5,Thunder-Bay,ON
+The Commissary,$,4.8,4,Thunder-Bay,ON
+Mandarin Chinese Restaurant,$$$,3.3,4,Thunder-Bay,ON
+Renco Foods,$,5,1,Thunder-Bay,ON
+Taco Time,$,2.2,6,Thunder-Bay,ON
+ajs trading post,$,4,1,Thunder-Bay,ON
+McKellar Confectionery,$,2,1,Thunder-Bay,ON
+Stan’s Pizzeria & Spaghetti House Tavern,$$,2,4,Thunder-Bay,ON
+Chinese Express,$$,2.8,5,Thunder-Bay,ON
+On Deck,$$,2.4,9,Thunder-Bay,ON
+Boston Pizza,$$$,3,7,Thunder-Bay,ON
+Taco Time,$,3,3,Thunder-Bay,ON
+Franki’s Pizzaria,$$,1,1,Thunder-Bay,ON
+Paulo & Suzanne,$$,4.3,103,Montreal,QC
+Kazu,$$,4.3,721,Montreal,QC
+Damas,$$$,4.7,414,Montreal,QC
+Joe Beef,$$$,4.3,743,Montreal,QC
+L’Avenue,$$,4.5,,Montreal,QC
+Bottega,$$,3.9,56,Montreal,QC
+Le Majestique,$$,4.4,199,Montreal,QC
+Ma Poule Mouillée,$$,4.5,571,Montreal,QC
+Au Pied de Cochon,$$$,4.2,,Montreal,QC
+Schwartz’s,$$,4.1,,Montreal,QC
+La Banquise,$$,4,,Montreal,QC
+Il Focolaio,$$,4.3,477,Montreal,QC
+KINTON RAMEN,$$,4.4,59,Montreal,QC
+Restaurant Yi Pin Xiang,$$,3.9,31,Montreal,QC
+Beroya Restaurant,$$,4.3,56,Montreal,QC
+Fourchette Antillaise,$$,4.3,13,Montreal,QC
+Maison Mignon,$,4.3,49,Montreal,QC
+Les Deux Gamins,$$,4.2,593,Montreal,QC
+Gyu-Kaku Japanese BBQ,$$$,4.4,195,Montreal,QC
+RUBS American BBQ,$$,4,136,Montreal,QC
+KINKA IZAKAYA MONTREAL,$$,3.9,369,Montreal,QC
+Phnom Penh,$$,4.8,17,Montreal,QC
+Pasta da Panza,$$,4.8,47,Montreal,QC
+Satay Brothers,$$,4.1,291,Montreal,QC
+Bol Orange,$$,4.3,62,Montreal,QC
+Joséphine,$$,4.4,30,Montreal,QC
+Pushap,$,4.2,160,Montreal,QC
+Rasputin,$$$,4.1,10,Montreal,QC
+La Belle et la Boeuf,$$,3.8,122,Montreal,QC
+Ave Seoul,$$,3.8,42,Montreal,QC
+L’Ambroisie,$$,3.5,8,Montreal,QC
+Bar George,$$,4.3,222,Montreal,QC
+Le Colonel Moutarde,$$,4.5,26,Montreal,QC
+Brazas Portugal,$$,3.9,25,Montreal,QC
+Les Délices de l’Île Maurice,$$,4.4,20,Montreal,QC
+La Luncheonette,$,4.4,32,Montreal,QC
+La Bêtise,$$,4,43,Montreal,QC
+Grigio,$$,4.1,15,Montreal,QC
+Auberge du Dragon Rouge,$$$,4.6,50,Montreal,QC
+Beaufort,$$,4,34,Montreal,QC
+Saint Sushi Plateau,$$,4.5,366,Montreal,QC
+Birreria Itali.co,$$,3.6,45,Montreal,QC
+Le Professeur,$$,3.9,16,Montreal,QC
+Madre,$$,3.9,7,Montreal,QC
+Bar Suzanne,$$,4.1,47,Montreal,QC
+Le Virunga,$$$,4.7,39,Montreal,QC
+El Rey del Taco,$$,4,188,Montreal,QC
+Arepera,$$,4.4,326,Montreal,QC
+Kyoto,$$,4.5,31,Montreal,QC
+Marché Méli-Mélo,$,4.3,32,Montreal,QC
+Roch le Coq,$$,4.2,46,Montreal,QC
+Restaurant Makkah,$$,4.1,21,Montreal,QC
+Sen Vang,$,4.5,51,Montreal,QC
+The Keg Steakhouse + Bar - Laval,$$$,4,71,Montreal,QC
+Restaurant L’ardoise,$$,4.5,15,Montreal,QC
+Walter Bistro,$$,4.7,11,Montreal,QC
+Grill N Go,$$,4,30,Montreal,QC
+Nouilles Zhonghua,$$,4.4,38,Montreal,QC
+Dinette Triple Crown,$$,4.4,271,Montreal,QC
+Piatti Pronti,$$,4.2,9,Montreal,QC
+Le Boating Club,$$$,3.9,15,Montreal,QC
+Le Petit Alep,$$,4.1,91,Montreal,QC
+Restaurant Ermitage,$$$,4.8,19,Montreal,QC
+Bâton Rouge Steakhouse & Bar,$$$,3.4,45,Montreal,QC
+Restaurant Makoto,$$,4,41,Montreal,QC
+Buvette Chez Simone,$$,4.3,117,Montreal,QC
+Kam Shing,$$,3.7,31,Montreal,QC
+Ten Teppanyaki & Izakaya,$$$,4,5,Montreal,QC
+Bistro Nolah,$$,4.3,77,Montreal,QC
+Toyo Japanese Steak House,$$$,3.3,15,Montreal,QC
+Maria Bonita,$$,4.2,31,Montreal,QC
+Boswell,$$,4.3,47,Montreal,QC
+Daou,$$,4,25,Montreal,QC
+Lloydie’s,$$,4.3,57,Montreal,QC
+Les Faims Finauds,$$,4.5,6,Montreal,QC
+Galo,$$,4.1,22,Montreal,QC
+Oui Mais Non,$,4.7,62,Montreal,QC
+Le Petit Italien,$$,3.6,27,Montreal,QC
+Le Chalutier,$$,4.3,14,Montreal,QC
+La Louisiane,$$,3.7,46,Montreal,QC
+Les Cavistes,$$,3.8,13,Montreal,QC
+Taco Trunp,$$,4.6,33,Montreal,QC
+Hansang,$$,4.6,43,Montreal,QC
+Boulangerie Pâtisserie Salerno,$$,4.9,7,Montreal,QC
+Sparta,$$,4.2,65,Montreal,QC
+Restaurant Lyla,$$,3.9,20,Montreal,QC
+Mile-Ex Restaurant,$$,4.4,30,Montreal,QC
+KINTON RAMEN,$$,3.9,249,Montreal,QC
+Une Nuit à Bangkok,$$$,4.5,22,Montreal,QC
+Tandoori Palace,$$,3.8,34,Montreal,QC
+Ichigo Ichie,$$,4.4,115,Montreal,QC
+Kitchen 73,$$,3.7,55,Montreal,QC
+Yokato Yokabai,$$,4.2,470,Montreal,QC
+Le Petit Flore,$$,4.2,10,Montreal,QC
+Resto la Menthe Poivrée,$$,4.5,11,Montreal,QC
+Garage Beirut,$$,4.3,176,Montreal,QC
+Restaurant Pasta Bar,$$,4.5,6,Montreal,QC
+MR PATTY,$,4.4,23,Montreal,QC
+Escondite,$$,4.1,245,Montreal,QC
+Bloomfield,$$,4.5,25,Montreal,QC
+Dunn’s,$$,3.8,28,Montreal,QC
+Elounda,$$$,4.2,39,Montreal,QC
+Acajou Br,$$,4.1,63,Montreal,QC
+Mucho Burrito Fresh Mexican Grill,$,3.7,6,Montreal,QC
+Le Steak Frites St-Paul,$$$,3.7,10,Montreal,QC
+Table 51,$$,3.3,60,Montreal,QC
+Restaurant Le Coq La-La,$,4.8,4,Montreal,QC
+L’Afghan Grillade,$$,2.7,14,Montreal,QC
+Shanghai 360,$$,3.7,6,Montreal,QC
+Christinas Cuisine,$$,4.6,46,Montreal,QC
+Casse-Croûte Sissi & Paul,$$,4.9,28,Montreal,QC
+Japote,$,4.4,33,Montreal,QC
+MR Azteca,$,3.9,33,Montreal,QC
+La Sala Rossa,$$,3.9,35,Montreal,QC
+La Habanera,$$,4,87,Montreal,QC
+Fondue Kim Long,$$,4,13,Montreal,QC
+Restaurant Calvi,$$$,4.5,10,Montreal,QC
+Boucherie et Grillades Rayan,$,4.8,4,Montreal,QC
+Isle de Garde,$$,4.3,66,Montreal,QC
+Ibéricos,$$,4.4,73,Montreal,QC
+The Dumpling Hut,$$,4.5,99,Montreal,QC
+La Rose Des Sables,$$,3.9,8,Montreal,QC
+Braseiro,$$,4.2,27,Montreal,QC
+Chez Khady,$$,4,7,Montreal,QC
+Diolo,$$$,4.1,11,Montreal,QC
+Pumpui,$$,4.3,53,Montreal,QC
+Jardin Iwaki,$$,4.5,35,Montreal,QC
+Asie Moderne,$$,4.1,18,Montreal,QC
+Biir?,$$,4.1,189,Montreal,QC
+Patate Rouge,$,4.3,9,Montreal,QC
+Le Bay Cà Phê,$$,4.5,18,Montreal,QC
+Café Bistro II Momento,$,4,1,Montreal,QC
+Nostos,$$,3.8,39,Montreal,QC
+3 Amigos,$$,3.1,10,Montreal,QC
+Le Vestiaire,$$,4.5,28,Montreal,QC
+Chez Wafi,$,4.8,13,Montreal,QC
+Siboire,$$,4.1,28,Sherbrooke,QC
+OMG Resto,$$,3.9,43,Sherbrooke,QC
+Antidote FoodLab,$$$,4.7,22,Sherbrooke,QC
+Cafe Aragon,$$,5,10,Sherbrooke,QC
+Le Snack,$$,4.2,24,Sherbrooke,QC
+Le Classyco,$$,5,5,Sherbrooke,QC
+Bâton Rouge Steakhouse & Bar,$$$,3.1,8,Sherbrooke,QC
+Restaurant Pho Loc,$$,4,11,Sherbrooke,QC
+Habaneros Grill Mexicain,$$,4.5,2,Sherbrooke,QC
+Buffet des Continents,$$,3.2,9,Sherbrooke,QC
+Sballo Il Ristorante,$$$$,4.8,4,Sherbrooke,QC
+La Mare Au Diable,$,5,1,Sherbrooke,QC
+Louis,$,4.6,14,Sherbrooke,QC
+Shogun Sushi,$$,3.4,12,Sherbrooke,QC
+Auguste,$$$,3.9,7,Sherbrooke,QC
+Mechant Steak,$$$,3.8,4,Sherbrooke,QC
+Tapageur,$$$,3.7,6,Sherbrooke,QC
+Chanchai,$$,3.7,10,Sherbrooke,QC
+Restaurant Shalimar,$$,4.5,6,Sherbrooke,QC
+Eggsquis,$,4.1,7,Sherbrooke,QC
+La Brûlerie de Café Lennox,$,4.1,8,Sherbrooke,QC
+La Friterie,$,2.5,2,Sherbrooke,QC
+Restaurant Au Pot Au Feu Pizzeria,$$,5,1,Sherbrooke,QC
+Harvey’s,$$,4.2,5,Sherbrooke,QC
+Restaurant Cafe Bla-Bla,$$,3.8,5,Sherbrooke,QC
+Bistro Kàapeh Espresso,$,4.5,4,Sherbrooke,QC
+Rôtisserie St-Hubert,$$$,2.8,5,Sherbrooke,QC
+Caffuccino,$$,4.5,2,Sherbrooke,QC
+L’Empreinte,$$$,4,2,Sherbrooke,QC
+Cantine Viet,$$,2,1,Sherbrooke,QC
+Le Tassé - Café de Quartier,$,5,5,Sherbrooke,QC
+Masala Cafe,$$,2.5,6,Sherbrooke,QC
+Osé Sushi,$$$,3,2,Sherbrooke,QC
+Restaurant Da Leonardo,$$,2,1,Sherbrooke,QC
+A&W,$,3,1,Sherbrooke,QC
+Stratos Pizzeria,$$,3,2,Sherbrooke,QC
+Domino’s Pizza,$$,2.7,3,Sherbrooke,QC
+Restaurant Jerry Pizzeria,$$,3.2,6,Sherbrooke,QC
+Le Bureau de Poste,$,4.5,14,Trois-Rivieres,QC
+Le Buck - Pub Gastronomique,$$$,4.6,20,Trois-Rivieres,QC
+Poivre Noir,$$,4.3,9,Trois-Rivieres,QC
+Le Sacristain,$$,4.8,22,Trois-Rivieres,QC
+Restaurant Cuisto,$$,4.4,5,Trois-Rivieres,QC
+Le Grec,$$,3.9,15,Trois-Rivieres,QC
+Restaurant Patachou,$$,4.5,6,Trois-Rivieres,QC
+Café Frida,$$,4.4,26,Trois-Rivieres,QC
+Archibald Micro & Resto,$$$,3.9,7,Trois-Rivieres,QC
+Buffet Des Continents,$$,2.6,5,Trois-Rivieres,QC
+Mondo,$$,3.9,10,Trois-Rivieres,QC
+Angéline,$$,3.8,21,Trois-Rivieres,QC
+Gambrinus Brasserie Artisanale,$$,4.2,5,Trois-Rivieres,QC
+Restaurant Au Four A Bois,$$$,4,1,Trois-Rivieres,QC
+Sushi Taxi - Trois-Rivières,$$,4.8,4,Trois-Rivieres,QC
+La Maison de Débauche par le Carlito,$$,3.8,10,Trois-Rivieres,QC
+Resto-Bar Faste-Fou,$$,3.8,6,Trois-Rivieres,QC
+Pizzeria le Grand Constant,$$,5,3,Trois-Rivieres,QC
+RESTAURANT BRAVO PIZZERIA,$$,3.6,8,Trois-Rivieres,QC
+Rôtisserie St-Hubert,$,3.3,3,Trois-Rivieres,QC
+Restaurant Le Grill,$$$,3,3,Trois-Rivieres,QC
+Riverin Pizzeria,$$,4,2,Trois-Rivieres,QC
+Thaizone,$$,3,3,Trois-Rivieres,QC
+Sushizo,$$$,4.8,4,Trois-Rivieres,QC
+Café Morgane,$,4.5,2,Trois-Rivieres,QC
+A&W,$,5,1,Trois-Rivieres,QC
+Casse-Croute 55,$$,5,1,Trois-Rivieres,QC
+Fromagerie Victoria,$$,3.3,6,Trois-Rivieres,QC
+Maison Griffin Décor,$$,5,1,Trois-Rivieres,QC
+Rôtisserie Scores,$,2,1,Trois-Rivieres,QC
+Le Lapin Sauté,$$$,4.3,694,Quebec,QC
+La Bûche,$$,4.2,634,Quebec,QC
+Buvette Scott,$$$,4.9,175,Quebec,QC
+Bistro St-Malo,$$,4.3,374,Quebec,QC
+Le Pape Georges,$$,4.3,90,Quebec,QC
+Le Billig,$$,4.4,575,Quebec,QC
+Le Hobbit,$$,4.1,435,Quebec,QC
+Chez Victor,$$,4.3,140,Quebec,QC
+Cochon Dingue,$$,4,643,Quebec,QC
+Légende,$$$$,4.6,141,Quebec,QC
+Le Saint-Amour,$$$$,4.6,196,Quebec,QC
+Jardin Du Bonheur,$$,4.8,4,Quebec,QC
+Chez Boulay - Bistro Boréal,$$$,4.4,388,Quebec,QC
+Bistro 1640,$$,3.8,217,Quebec,QC
+Poutineville,$$,4.3,123,Quebec,QC
+Le Café du Clocher Penché,$$,4.7,124,Quebec,QC
+L’ENTRECOTE SAINT-JEAN,$$,3.9,167,Quebec,QC
+Le Continental,$$$$,4.3,193,Quebec,QC
+L’Affaire Est Ketchup,$$$,4.6,179,Quebec,QC
+Q-de-Sac Resto-Pub,$$,4.4,96,Quebec,QC
+Ophelia,$$$,4.3,68,Quebec,QC
+Chez Jules,$$,4.2,150,Quebec,QC
+Aux Anciens Canadiens,$$$,3.9,367,Quebec,QC
+Tora-Ya Ramen,$$,4.3,50,Quebec,QC
+Chez Temporel,$$,4.5,90,Quebec,QC
+Ciccio Cafe,$$,4.7,56,Quebec,QC
+Le Croquembouche Pâtissier et traiteur,$,4.5,113,Quebec,QC
+Paillard,$$,4.2,650,Quebec,QC
+Sapristi,$$,3.9,233,Quebec,QC
+Phil Smoked Meat,$$,4.5,35,Quebec,QC
+L’Atelier,$$$,3.9,120,Quebec,QC
+Chez Muffy,$$$$,4.3,44,Quebec,QC
+Le Chic Shack,$$,4,384,Quebec,QC
+L’Échaudé,$$$,4.1,119,Quebec,QC
+Bello Ristorante,$$$,4.2,198,Quebec,QC
+Apsara,$$,3.9,122,Quebec,QC
+La Pizzaio,$$,4.8,38,Quebec,QC
+Nguyen,$$,5,2,Quebec,QC
+Chez Gaston,$,4.5,53,Quebec,QC
+Kraken Cru,$$,4.7,12,Quebec,QC
+Saveurs du Monde,$$,4.4,43,Quebec,QC
+Boulangerie du Lac,$$,5,7,Quebec,QC
+Cendrillon,$$$,4.7,24,Quebec,QC
+Un Thé au Sahara,$$,4.1,57,Quebec,QC
+La Gueule de Bois,$$$,4.9,25,Quebec,QC
+Le Buffet de l’Antiquaire,$$,4.1,157,Quebec,QC
+Champlain,$$$$,4.1,75,Quebec,QC
+Ninkasi,$,4.2,29,Quebec,QC
+Chanhda,$,4.7,15,Quebec,QC
+Bistro le Sam,$$$,3.9,131,Quebec,QC
+Restaurant Nek8arre,$$$,4,3,Quebec,QC
+Bachir,$,4.5,42,Quebec,QC
+Nina Pizza Napolitaine,$$,4.4,68,Quebec,QC
+Le Cochon Dingue,$$,4,48,Quebec,QC
+Restaurant Wong,$$,3.4,43,Quebec,QC
+Matto,$$$,4.2,112,Quebec,QC
+Bati Bassac,$$,3.9,33,Quebec,QC
+Ciel! Bistro-bar tournant,$$$,4.2,109,Quebec,QC
+Archibald,$$,4.3,6,Quebec,QC
+Patente et Machin,$$$,4.4,69,Quebec,QC
+Fanamanga,$$,4.2,15,Quebec,QC
+Archibald Microbrasserie,$$,4,21,Quebec,QC
+1608 Wine & Cheese Bar,$$$,4.3,90,Quebec,QC
+D’Orsay,$$,3.6,156,Quebec,QC
+La Boîte à Pain,$,4.3,103,Quebec,QC
+Le Croque Délice,$,3.8,4,Quebec,QC
+La Girolle,$$,4.6,11,Quebec,QC
+Laurie Raphaël,$$$$,4.5,37,Quebec,QC
+Kimono,$$,3.8,33,Quebec,QC
+Le Café du Monde,$$,3.6,92,Quebec,QC
+La Cuisine,$$,4.1,34,Quebec,QC
+Sapristi,$$,4.2,135,Quebec,QC
+Aux Deux Violons Restaurant,$$,4.6,7,Quebec,QC
+Le Mexicain,$,4.5,6,Quebec,QC
+La Galette Libanaise,$,4.3,41,Quebec,QC
+Restaurant Jardin du Vietnam,$$,4.3,4,Quebec,QC
+Bügel fabrique de bagels,$$,4.1,85,Quebec,QC
+Délicatesses Tonkinoises,$$,4.2,16,Quebec,QC
+Archibald Microbrasserie  - restaurant Duplessis,$$,3.8,27,Quebec,QC
+Le Bouchon du Pied Bleu,$$$,4.7,21,Quebec,QC
+Griendel,$$,4.2,19,Quebec,QC
+Café Roreke,$$,4,1,Quebec,QC
+Le Dijon,$$,3.8,5,Quebec,QC
+BEClub Bistro-Bar,$$,4.7,81,Quebec,QC
+La Bête,$$$,4,22,Quebec,QC
+Les Sales Gosses,$$$,4.3,14,Quebec,QC
+Le Batifol,$$,4.5,11,Quebec,QC
+Restaurant Paya Thai,$$,4,4,Quebec,QC
+Bâton Rouge Steakhouse & Bar,$$,3.8,30,Quebec,QC
+Cuisine Boulet,$,4,1,Quebec,QC
+Miyagi Bistro Thaï Et Sushi,$$,4.3,18,Quebec,QC
+Charbon Steakhouse,$$$,3.9,43,Quebec,QC
+Ô 6ième Sens,$$$,5,10,Quebec,QC
+Lanterne Rouge,$$,3.9,10,Quebec,QC
+Sésame,$$,3.6,17,Quebec,QC
+La Korrigane,$$,4.2,74,Quebec,QC
+La Planque,$$$,4.5,32,Quebec,QC
+Les Frères Toc,$$,4.2,9,Quebec,QC
+Le Bureau de Poste,$,3.9,102,Quebec,QC
+Jack Saloon,$$,3.9,11,Quebec,QC
+Poulet Portuguais,$$,4.4,14,Quebec,QC
+Portofino,$$$,3.8,157,Quebec,QC
+Thang Long Restaurant,$$,3.6,26,Quebec,QC
+La Revanche,$$,4.6,18,Quebec,QC
+Ben & Florentine,$$,4.1,8,Quebec,QC
+Bistro la Cohue,$$$,4.7,11,Quebec,QC
+Hosaka-ya,$$$,4.1,16,Quebec,QC
+Chez Victor,$$,4.4,69,Quebec,QC
+La Cage Brasserie sportive,$$,4.6,7,Quebec,QC
+Shady,$,4.1,8,Quebec,QC
+Chez Boub,$$,4.3,8,Quebec,QC
+Cafe Felin Ma Langue Aux Chats - RENOVATED,$,4.2,32,Quebec,QC
+Khemara,$$,5,1,Quebec,QC
+Sushi Samurai,$$,3.1,53,Quebec,QC
+Au Grain de Folie,$$$,5,7,Quebec,QC
+Le Varadero,$,4.4,11,Quebec,QC
+Café Les Cousins,$$,4.4,23,Quebec,QC
+Café au Temps Perdu,$$,4.1,15,Quebec,QC
+L’Oeuforie,$$,4,6,Quebec,QC
+Chez Mai,$,3.7,18,Quebec,QC
+Sushi Kumi,$$,3.3,15,Quebec,QC
+Maelstrøm Saint-Roch,$,4.1,16,Quebec,QC
+Paillard,$$,4.4,11,Quebec,QC
+Chez Greco,$$,3.7,10,Quebec,QC
+Table,$$$,3.9,29,Quebec,QC
+Allô Mon Coco,$$,4.1,43,Quebec,QC
+BeaverTails,$,4.1,7,Quebec,QC
+District Saint-Joseph,$$$,4.1,7,Quebec,QC
+Louis Hebert,$$$,4.3,49,Quebec,QC
+Les Copines Cuisinent,$$,4,2,Quebec,QC
+Le Grand Bourg,$$$,4.3,3,Quebec,QC
+Bistro Le Veravin,$$,4,28,Quebec,QC
+Au Bonnet d’Âne,$$,3.9,48,Quebec,QC
+Les Maltcommodes,$$,3.8,6,Quebec,QC
+La Grolla,$$$$,4.1,32,Quebec,QC
+La Maison Smith,$,4.2,79,Quebec,QC
+Casse-Crêpe Breton,$$,3.3,336,Quebec,QC
+Phô Tonkinoise,$,3.2,18,Quebec,QC
+La Pizz,$$,4,65,Quebec,QC
+La Queue de Veau,$$,4.4,5,Quebec,QC
+Dixie Lee Charlesbourg,$$,4.5,2,Quebec,QC
+Gab’s,$$,4.1,10,Quebec,QC
+Brûlerie Saint-Roch,$,4.1,26,Quebec,QC
+Kalimera,$$,4.4,18,Quebec,QC
+La Piazzetta,$$,4.1,25,Quebec,QC
+Restaurant Le Maizerets,$$,4.6,5,Quebec,QC
+Paris Grill,$$$,4.1,32,Quebec,QC
+Rascal,$$,4,5,Quebec,QC
+Le Manoir Sainte-Foy,$$$,4.2,21,Quebec,QC
+Baguette & Chocolat,$,4.1,76,Quebec,QC
+Cosmos,$$$,4.1,11,Quebec,QC
+La Poutinerie,$,3.7,21,Quebec,QC
+Chez le-An,$$,3.5,4,Quebec,QC
+Chez Ashton,$,3.6,77,Quebec,QC
+Soupe et Cie,$$,4,41,Quebec,QC
+La Fenouillière,$$$,4.8,12,Quebec,QC
+L’Inox,$$,3.7,29,Quebec,QC
