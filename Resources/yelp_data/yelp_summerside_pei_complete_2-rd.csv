@@ -1,0 +1,13 @@
+restaurant_name,price_range,rating,total_reviews,category,location,province,address
+The Island Stone Pub,$$,4.6 ,43,American (Traditional),summerside,PEI,"62 Broadway Street N Kensington, PE C0B 1M0 Canada"
+JMK Fish Mart,$$,4.3 ,12,Seafood,summerside,PEI,"110 Queens Wharf Summerside, PE C1N 0A6 Canada"
+Deckhouse Pub & Eatery,$$,3.3 ,27,Seafood,summerside,PEI,"150 Harbour Drive Summerside, PE C1N 5Y8 Canada"
+Brothers 2 Restaurant,$$,2.8 ,29,Canadian (New),summerside,PEI,"618 Water Street E Summerside, PE C1N 4H7 Canada"
+FiveEleven West,$$,3.3 ,7,Buffets,summerside,PEI,"Credit Union Place 511 Notre Dame St Summerside, PE C1N 1T2 Canada"
+Star Cafe,$,4.5 ,4,Cafes,summerside,PEI,"271 Water Street Summerside, PE C1N 1B5 Canada"
+The Home Place Inn & Restaurant,$$,4.0 ,6,American (Traditional),summerside,PEI,"45 Broadway St N Kensington, PE C0B 1M0 Canada"
+China Star Restaurant,$,3.0 ,6,Chinese,summerside,PEI,"265 Water Street Summerside, PE C1N 1B5 Canada"
+The Frosty Treat Dairy Bar,$,4.0 ,7,Ice Cream & Frozen Yogurt,summerside,PEI,"109 Victoria Street Kensington, PE C0B 1M0 Canada"
+Pita Pit,$$,4.3 ,4,Sandwiches,summerside,PEI,"425 Granville Street Summerside, PE C1N 5H2 Canada"
+Tim Hortons,$,4.0 ,2,Coffee & Tea,summerside,PEI,"91 Water St Summerside, PE C1N 1A6 Canada"
+Pizza Delight,$$,3.0 ,5,Pizza,summerside,PEI,"454 Granville Street Summerside, PE C1N 4K7 Canada"
