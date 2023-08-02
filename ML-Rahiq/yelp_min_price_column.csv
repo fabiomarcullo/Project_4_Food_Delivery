@@ -1,0 +1,1158 @@
+,restaurant_name,rating,total_reviews,category,location,province,address,Latitude,Longitude,Province,min_price
+0,The Flying Pig,4.0,1300,Canadian (New),vancouver,BC,"1168 Hamilton Street Unit 104 Vancouver, BC V6B 2S2 Canada",49.275039,-123.1220383,BC,25
+1,Kingyo,4.4,1100,Japanese,vancouver,BC,"871 Denman Street Vancouver, BC V6G 2L9 Canada",49.2906122,-123.1370947,BC,25
+2,Miku,4.4,2200,Japanese,vancouver,BC,"200 Granville Street Suite 70 Vancouver, BC V6C 1S4 Canada",49.2868259,-123.112583,BC,45
+3,Kosoo,4.3,88,Korean,vancouver,BC,"1128 Robson Street Vancouver, BC V6E 1B2 Canada",49.2849885,-123.1259586,BC,25
+4,Dinesty Dumpling House,3.9,928,Chinese,vancouver,BC,"1719 Robson Street Vancouver, BC V6G 1C8 Canada",49.2907799,-123.1340727,BC,25
+5,Saku,4.4,337,Japanese,vancouver,BC,"1588 Robson Street Vancouver, BC V6G 2G5 Canada",49.2892453,-123.1323169,BC,25
+6,Saku,4.4,337,Japanese,vancouver,BC,"548 W Broadway Vancouver, BC V5Z 1E9 Canada",49.26310059999999,-123.1166394,BC,25
+7,Guu with Garlic,4.3,1000,Japanese,vancouver,BC,"1698 Robson Street Vancouver, BC V6G 1C7 Canada",49.2901752,-123.1340034,BC,25
+8,Fable Kitchen,4.3,764,Canadian (New),vancouver,BC,"1944 W 4th Avenue Vancouver, BC V6J 1M5 Canada",49.2679331,-123.1490013,BC,25
+9,Fanny Bay Oyster Bar & Shellfish Market,4.4,749,Seafood,vancouver,BC,"762 Cambie St Vancouver, BC V6B 2P2 Canada",49.2786079,-123.1141059,BC,25
+10,Sula,4.3,88,Indian,vancouver,BC,"4172 Main Street Vancouver, BC V5V 3P7 Canada",49.2479632,-123.1007692,BC,25
+11,Phnom Penh,4.2,1600,Cambodian,vancouver,BC,"244 E Georgia Street Vancouver, BC V6A 1Z7 Canada",49.2783112,-123.0981943,BC,25
+12,Blue Water Cafe,4.4,1100,Seafood,vancouver,BC,"1095 Hamilton St Vancouver, BC V6B 5T4 Canada",49.2762194,-123.1211296,BC,50
+13,Anh and Chi,3.9,619,Vietnamese,vancouver,BC,"3388 Main Street Vancouver, BC V5V 3M7 Canada",49.2550532,-123.1008858,BC,25
+14,Botanist,4.3,370,Canadian (New),vancouver,BC,"1038 Canada Place Vancouver, BC V6C 0B9 Canada",49.2880551,-123.1163832,BC,45
+15,Forage,4.1,699,Canadian (New),vancouver,BC,"1300 Robson Street Vancouver, BC V6E 1C5 Canada",49.2870362,-123.1290585,BC,25
+16,Twisted Fork,4.2,1100,French,vancouver,BC,"213 Carral Street Vancouver, BC V6B 2J2 Canada",49.2831834,-123.1044482,BC,25
+17,Happy Noodle House,4.6,81,Dim Sum,vancouver,BC,"630 Davie Street Vancouver, BC V6B 2G5 Canada",49.2766734,-123.1257782,BC,25
+18,Lupo,4.3,436,Italian,vancouver,BC,"869 Hamilton Street Vancouver, BC V6B 2R7 Canada",49.27819640000001,-123.1173391,BC,45
+19,Kishimoto Japanese Kitchen,4.4,512,Japanese,vancouver,BC,"2054 Commercial Drive Vancouver, BC V5N 4A9 Canada",49.2667364,-123.0694112,BC,45
+20,Tendon Kohaku,4.3,91,Japanese,vancouver,BC,"840 Howe Street Suite 190 Vancouver, BC V6Z 2S9 Canada",49.2810442,-123.1217745,BC,25
+21,Raisu,4.2,437,Japanese,vancouver,BC,"2340 W 4th Avenue Vancouver, BC V6K 1P1 Canada",49.2680595,-123.1583241,BC,25
+22,Hello Nori,4.5,190,Japanese,vancouver,BC,"1165 Robson Street Vancouver, BC V6E 1B5 Canada",49.2856022,-123.1261075,BC,25
+23,Ask For Luigi,4.0,487,Italian,vancouver,BC,"305 Alexander Street Vancouver, BC V6A 1C4 Canada",49.2842,-123.0977177,BC,25
+24,Medina Cafe,4.2,2600,Breakfast & Brunch,vancouver,BC,"780 Richards Street Vancouver, BC V6B 3A4 Canada",49.28040660000001,-123.1168632,BC,25
+25,So Hyang Korean Cuisine,4.2,320,Korean,vancouver,BC,"6345 Fraser Street Vancouver, BC V5W 3A3 Canada",49.2269997,-123.0909271,BC,25
+26,Kokoro Tokyo Mazesoba,4.1,447,Japanese,vancouver,BC,"551 Seymour Street Vancouver, BC V6B 3H6 Canada",49.2834164,-123.1150628,BC,25
+27,OEB Breakfast Co. Yaletown,4.3,732,Breakfast & Brunch,vancouver,BC,"1137 Marinaside Crescent Vancouver, BC V6Z 2Y3 Canada",49.2734565,-123.119265,BC,25
+28,Saku,4.3,216,Japanese,vancouver,BC,"1588 Robson Street Vancouver, BC V6G 2G5 Canada",49.2892453,-123.1323169,BC,25
+29,Saku,4.3,216,Japanese,vancouver,BC,"548 W Broadway Vancouver, BC V5Z 1E9 Canada",49.26310059999999,-123.1166394,BC,25
+30,Jam Cafe on Beatty,4.4,1400,Breakfast & Brunch,vancouver,BC,"556 Beatty Street Vancouver, BC V6B 2L3 Canada",49.28025179999999,-123.1096515,BC,25
+31,Tavola,4.5,363,Italian,vancouver,BC,"1829 Robson Street Vancouver, BC V6G 3E4 Canada",49.2919265,-123.135706,BC,45
+32,España Restaurant,4.2,250,Spanish,vancouver,BC,"1118 Denman Street Vancouver, BC V6G 2M8 Canada",49.2880552,-123.1404114,BC,25
+33,Chambar,4.2,1500,Belgian,vancouver,BC,"568 Beatty Street Vancouver, BC V6B 2L3 Canada",49.2801544,-123.109903,BC,45
+34,Joe Fortes Seafood & Chop House,4.0,1200,Seafood,vancouver,BC,"777 Thurlow Street Vancouver, BC V6E 3V5 Canada",49.284937,-123.124763,BC,45
+35,Nobi Nobi,4.5,38,Japanese,vancouver,BC,"11320 Steveston Hwy Unit 110 Richmond, BC V7A 5J5 Canada",49.1330708,-123.0980046,BC,25
+36,Nightingale,4.1,472,Live/Raw Food,vancouver,BC,"1017 West Hastings Street Vancouver, BC V6E 0C4 Canada",49.28738120000001,-123.1174873,BC,45
+37,Maenam,3.9,380,Thai,vancouver,BC,"1938 W 4th Avenue Vancouver, BC V6J 1M5 Canada",49.2678675,-123.148895,BC,25
+38,Lunch Lady,4.0,197,Vietnamese,vancouver,BC,"1046 Commercial Drive Vancouver, BC V5L 3W9 Canada",49.274972,-123.0693501,BC,25
+39,Jingle Bao,4.1,152,Asian Fusion,vancouver,BC,"774 Denman Street Vancouver, BC V6G 1C9 Canada",49.2916234,-123.1348781,BC,25
+40,Bao Bei Chinese Brasserie,3.9,415,Chinese,vancouver,BC,"163 Keefer Street Vancouver, BC V6A 1X3 Canada",49.2796534,-123.1006157,BC,45
+41,Cactus Club Cafe,4.2,822,Canadian (New),vancouver,BC,"1085 Canada Place Vancouver, BC V6C 3E1 Canada",49.2894022,-123.1180433,BC,25
+42,Cactus Club Cafe,4.2,822,Canadian (New),vancouver,BC,"1125 Douglas Street Victoria, BC V8W 3L7 Canada",48.424893,-123.364927,BC,25
+43,Alibi Room,4.3,566,Pubs,vancouver,BC,"157 Alexander Street Vancouver, BC V6A 1B8 Canada",49.28424070000001,-123.1002791,BC,25
+44,Tom Sushi,4.7,194,Sushi Bars,vancouver,BC,"1175 Davie St Vancouver, BC V6E 1N2 Canada",49.2816505,-123.1326617,BC,25
+45,AnnaLena,4.5,347,Canadian (New),vancouver,BC,"1809 W 1st Avenue Vancouver, BC V6J 5B8 Canada",49.2708117,-123.1468222,BC,50
+46,Chinatown BBQ,4.5,261,Chinese,vancouver,BC,"130 E Pender Street Vancouver, BC V6A 1T3 Canada",49.2801868,-123.1014854,BC,25
+47,Seiza,3.9,79,Japanese,vancouver,BC,"3068 Main Street Vancouver, BC V5T 3G5 Canada",49.2578688,-123.1008956,BC,25
+48,Le Crocodile Restaurant,4.3,438,French,vancouver,BC,"909 Burrard Street Vancouver, BC V6Z 2N2 Canada",49.2825393,-123.1252052,BC,50
+49,Linh Cafe,3.9,299,Vietnamese,vancouver,BC,"1428 Granville Street Vancouver, BC V6Z 1N2 Canada",49.2746224,-123.129706,BC,25
+50,The Fish Counter,4.4,350,Fish & Chips,vancouver,BC,"3825 Main Street Vancouver, BC V5V 3P2 Canada",49.2507837,-123.1012792,BC,25
+51,Suika,4.1,520,Japanese,vancouver,BC,"1626 W Broadway Vancouver, BC V6J 1X6 Canada",49.2634105,-123.1416899,BC,25
+52,Hei Hei Rice Roll,4.3,83,Chinese,vancouver,BC,"2430-8260 Westminster Highway Richmond, BC V6X 1A7 Canada",49.1697285,-123.1330757,BC,25
+53,The Mackenzie Room,4.5,182,Canadian (New),vancouver,BC,"415 Powell Street Vancouver, BC V6A 1G7 Canada",49.2833009,-123.0949246,BC,50
+54,La Belle Patate,4.1,544,Fast Food,vancouver,BC,"1215 Davie Street Vancouver, BC V6E 1N4 Canada",49.2820333,-123.1335487,BC,25
+55,La Belle Patate,4.1,544,Fast Food,vancouver,BC,"1215 Esquimalt Road Victoria, BC V9A 3P1 Canada",48.4300048,-123.4132095,BC,25
+56,Burgoo Bistros,3.8,497,Comfort Food,vancouver,BC,"3096 Main Street Vancouver, BC V5T 3G5 Canada",49.2576435,-123.100815,BC,25
+57,Elisa,4.2,194,Steakhouses,vancouver,BC,"1109 Hamilton Street Vancouver, BC V6B 5P6 Canada",49.27595849999999,-123.1214078,BC,50
+58,St Lawrence Restaurant,4.4,140,French,vancouver,BC,"269 Powell Street Vancouver, BC V6A 1G3 Canada",49.2833058,-123.0979713,BC,45
+59,Laksa King,3.8,207,Burmese,vancouver,BC,"2546 E Hastings Street Vancouver, BC V5K 1Z3 Canada",49.28102519999999,-123.0533381,BC,25
+60,Ramen Danbo,4.4,580,Ramen,vancouver,BC,"1333 Robson Street Vancouver, BC V6E 2B1 Canada",49.2875039,-123.1289419,BC,25
+61,Ramen Danbo,4.4,580,Ramen,vancouver,BC,"1833 W 4th Avenue Vancouver, BC V6J 1M4 Canada",49.2682648,-123.1464325,BC,25
+62,Holy Chow,4.1,44,Asian Fusion,vancouver,BC,"433 W Pender Street Vancouver, BC V6B 1B2 Canada",49.2831841,-123.1123852,BC,25
+63,Fritz European Fry House,4.2,807,Fast Food,vancouver,BC,"718 Davie Street Vancouver, BC V6Z 1B6 Canada",49.2773082,-123.1266682,BC,10
+64,Go Fish Ocean Emporium,3.9,502,Seafood,vancouver,BC,"1505 W 1st Avenue Vancouver, BC V6J 1E8 Canada",49.2715703,-123.1399695,BC,25
+65,The Red Accordion,4.7,72,Cocktail Bars,vancouver,BC,"1616 Alberni Street Vancouver, BC V6G 1A6 Canada",49.29023129999999,-123.131818,BC,25
+66,La Taqueria Pinche Taco Shop,4.3,521,Mexican,vancouver,BC,"322 W Hastings Street Vancouver, BC V8B 1K6 Canada",49.2829621,-123.1105621,BC,25
+67,La Notte Restaurant,3.9,55,Italian,vancouver,BC,"3307 Dunbar St Vancouver, BC V6S 2B9 Canada",49.2572246,-123.1853607,BC,25
+68,Shiok Singapore Cuisine,3.8,102,Singaporean,vancouver,BC,"1716 Kingsway Vancouver, BC V5N 2S4 Canada",49.2470228,-123.0695689,BC,25
+69,Breakfast Table,4.3,251,Breakfast & Brunch,vancouver,BC,"3014 Granville Street Vancouver, BC V6H 1H6 Canada",49.258568,-123.1385172,BC,25
+70,Hawkers Delight Deli,3.9,351,Delis,vancouver,BC,"4127 Main Street Vancouver, BC V5V 3P6 Canada",49.2483626,-123.101467,BC,10
+71,Afghan Horsemen Restaurant,3.9,244,Middle Eastern,vancouver,BC,"1833 Anderson Street Suite 202 Vancouver, BC V6H 4E5 Canada",49.2693903,-123.1389283,BC,25
+72,Maruhachi Ra-men,4.4,755,Ramen,vancouver,BC,"780 Bidwell Street Vancouver, BC V6G 2J6 Canada",49.2905702,-123.1333439,BC,25
+73,The Greek By Anatoli,3.8,253,Greek,vancouver,BC,"1043 Mainland Street Vancouver, BC V6B Canada",49.2762132,-123.1198874,BC,25
+74,Nuba in Gastown,4.1,743,Mediterranean,vancouver,BC,"207 W Hastings Street Vancouver, BC V6B 1K6 Canada",49.2829632,-123.1096299,BC,45
+75,Bodega On Main,3.9,212,Spanish,vancouver,BC,"1014 Main Street Vancouver, BC V6A 2W1 Canada",49.2754689,-123.0994804,BC,25
+76,The Mexican Antojitos Y Cantina,4.3,402,Mexican,vancouver,BC,"1049 Granville Street Vancouver, BC V6Z 1L4 Canada",49.2787855,-123.1240318,BC,25
+77,Mott 32,3.9,176,Chinese,vancouver,BC,"1161 W Georgia Street Vancouver, BC V6E 0C6 Canada",49.2867693,-123.124256,BC,50
+78,Banana Leaf,3.7,299,Malaysian,vancouver,BC,"820 W Broadway Vancouver, BC V5Z 1J8 Canada",49.2631202,-123.1224844,BC,25
+79,Burger Crush,4.6,19,Burgers,vancouver,BC,"755 Nelson Street Vancouver, BC V6Z 1V3 Canada",49.2797631,-123.1234938,BC,25
+80,Micha,4.4,42,Chinese,vancouver,BC,"120-4751 Garden City Road Richmond, BC V6X 3M7 Canada",49.1778683,-123.1255409,BC,25
+81,Osteria Savio Volpe,4.2,421,Italian,vancouver,BC,"615 Kingsway Vancouver, BC V5T 3K5 Canada",49.2574425,-123.0909434,BC,45
+82,Nook,3.9,163,Italian,vancouver,BC,"1525 Yew Street Vancouver, BC V6K 3E4 Canada",49.2722315,-123.155229,BC,25
+83,Brix & Mortar,4.0,318,Wine Bars,vancouver,BC,"1137 Hamilton Street Vancouver, BC V6B 5P6 Canada",49.2756123,-123.1219105,BC,45
+84,Les Faux Bourgeois,4.0,452,French,vancouver,BC,"663 E 15th Avenue Vancouver, BC V5T 2R6 Canada",49.2573233,-123.0896351,BC,25
+85,Mandarin Hong Kong Cafe,3.3,49,Asian Fusion,vancouver,BC,"904 W King Edward Avenue Vancouver, BC V5Z 2E2 Canada",49.248413,-123.1251604,BC,25
+86,Sopra Sotto,4.0,139,Pizza,vancouver,BC,"1510 Commercial Drive Vancouver, BC V5L 2Y7 Canada",49.2711706,-123.0693309,BC,25
+87,Kissa Tanto,4.1,279,Japanese,vancouver,BC,"263 E Pender Street Vancouver, BC V6A 1T8 Canada",49.2806222,-123.09812,BC,50
+88,PiDGiN,4.0,320,Japanese,vancouver,BC,"350 Carrall Street Vancouver, BC V6B 2J3 Canada",49.28188100000001,-123.104145,BC,45
+89,Sura Korean Cuisine,4.1,428,Korean,vancouver,BC,"1518 Robson Street Vancouver, BC V6G 1C3 Canada",49.2888512,-123.1316371,BC,25
+90,Sura Korean Cuisine,4.1,428,Korean,vancouver,BC,"1696 Douglas Street Victoria, BC V8W 2G6 Canada",48.4292923,-123.3647259,BC,25
+91,Bali Thai,4.5,91,Indonesian,vancouver,BC,"88 W Pender Street Vancouver, BC V6B 1R3 Canada",49.2804064,-123.1069714,BC,10
+92,Damso Modern Korean Cuisine,3.9,203,Korean,vancouver,BC,"867 Denman Street Vancouver, BC V6G 2L9 Canada",49.29066359999999,-123.1370287,BC,25
+93,The Locus,3.9,266,Lounges,vancouver,BC,"4121 Main Street Vancouver, BC V5V 3P6 Canada",49.2485106,-123.1014125,BC,25
+94,Thierry,4.0,942,Patisserie/Cake Shop,vancouver,BC,"1059 Alberni Street Vancouver, BC V6E 1A1 Canada",49.2848256,-123.1226896,BC,25
+95,Honey Salt,3.5,266,Canadian (New),vancouver,BC,"39 Smithe Street Vancouver, BC V6B 0R3 Canada",49.27559,-123.11327,BC,25
+96,Little Bird Dim Sum,3.9,71,Dim Sum,vancouver,BC,"2958 W 4th Avenue Vancouver, BC V6K 1R4 Canada",49.2683086,-123.1715733,BC,25
+97,ARC Restaurant,4.0,167,Canadian (New),vancouver,BC,"900 Canada Place Way Vancouver, BC V6C 3L5 Canada",49.2871683,-123.113853,BC,45
+98,Cafe FortyOne,4.5,21,Mediterranean,vancouver,BC,"5750 Oak Street Vancouver, BC V6M 2V9 Canada",49.2337184,-123.1277463,BC,25
+99,Cuchillo,4.2,287,Latin American,vancouver,BC,"261 Powell Street Vancouver, BC V6A 2Z1 Canada",49.2834276,-123.0981059,BC,25
+100,Jamjar - Folk Lebanese Food,3.8,257,Lebanese,vancouver,BC,"2280 Commercial Drive Vancouver, BC V5N 4B6 Canada",49.2643801,-123.0693684,BC,25
+101,Robba da Matti,4.2,491,Italian,vancouver,BC,"1127 Mainland Street Vancouver, BC V6B 5P2 Canada",49.2754667,-123.1213319,BC,45
+102,La Mezcaleria,3.8,292,Mexican,vancouver,BC,"1622 Commercial Drive Vancouver, BC V5L 3Y4 Canada",49.2700977,-123.0692773,BC,25
+103,Absinthe Bistro,4.6,137,French,vancouver,BC,"952 Commercial Drive Vancouver, BC V5L 3W7 Canada",49.2759796,-123.0693281,BC,45
+104,Ramen Danbo,4.2,413,Ramen,vancouver,BC,"1333 Robson Street Vancouver, BC V6E 2B1 Canada",49.2875039,-123.1289419,BC,25
+105,Ramen Danbo,4.2,413,Ramen,vancouver,BC,"1833 W 4th Avenue Vancouver, BC V6J 1M4 Canada",49.2682648,-123.1464325,BC,25
+106,Guu Original Thurlow,4.1,789,Japanese,vancouver,BC,"838 Thurlow Street Vancouver, BC V6E 1W2 Canada",49.2840086,-123.1254349,BC,25
+107,Jules French Bistro,3.9,227,French,vancouver,BC,"216 Abbott Street Vancouver, BC V6B 2K8 Canada",49.28344269999999,-123.1064141,BC,25
+108,Joong Won,3.9,75,Korean,vancouver,BC,"1329 Robson Street Vancouver, BC V6E 1C6 Canada",49.2874243,-123.1288342,BC,25
+109,A.Bento,4.0,26,Taiwanese,vancouver,BC,"656W Broadway Vancouver, BC V5Z 1G1 Canada",49.2632553,-123.1177614,BC,25
+110,Lamajoun,4.7,93,Mediterranean,vancouver,BC,"128-11782 River Road Richmond, BC V6X 1Z7 Canada",49.1961824,-123.0951555,BC,10
+111,Harambe Restaurant,3.8,135,Ethiopian,vancouver,BC,"2149 Commercial Drive Vancouver, BC V5N 4B3 Canada",49.26556679999999,-123.0699715,BC,25
+112,The Roof,3.8,80,Seafood,vancouver,BC,"1032 Alberni Street Vancouver, BC V6Z 1X6 Canada",49.2844811,-123.1230538,BC,45
+113,Tetsu Sushi Bar,4.3,102,Japanese,vancouver,BC,"775 Denman Street Vancouver, BC V6G 2L6 Canada",49.2918512,-123.1352333,BC,50
+114,Maizal RMF,4.3,145,Mexican,vancouver,BC,"2815 Main Street Vancouver, BC V5T 3G1 Canada",49.259987,-123.1013715,BC,25
+115,Sawasdee Thai Restaurant,4.0,334,Thai,vancouver,BC,"4250 Main Street Vancouver, BC V5V 3P9 Canada",49.2470563,-123.1008276,BC,25
+116,Do Chay,4.4,157,Vietnamese,vancouver,BC,"1392 Kingsway Vancouver, BC V5V 3E4 Canada",49.2500606,-123.0765209,BC,25
+117,MeeT in Gastown,4.1,491,Comfort Food,vancouver,BC,"12 Water Street Vancouver, BC V6B 1A5 Canada",49.28349859999999,-123.1048174,BC,25
+118,The Vancouver Fish Company,3.6,258,Seafood,vancouver,BC,"1517 Anderson St Vancouver, BC V6H Canada",49.2705997,-123.1365764,BC,45
+119,JOEY Burrard,4.1,554,Canadian (New),vancouver,BC,"820 Burrard St Vancouver, BC V6Z 1X9 Canada",49.282606,-123.1231879,BC,25
+120,Marché Mon Pitou,4.3,36,Cafes,vancouver,BC,"1387 W 7th Avenue Vancouver, BC V6H 1B8 Canada",49.2654363,-123.135785,BC,25
+121,Ash Street Bistro,4.5,11,Bistros,vancouver,BC,"Legacy Senior Living 611 W 41st Avenue Vancouver, BC V5Z Canada",49.23379060000001,-123.1182802,BC,25
+122,Hawksworth Restaurant,4.1,642,Canadian (New),vancouver,BC,"801 W Georgia Street Vancouver, BC V6C 1P7 Canada",49.2834361,-123.1192058,BC,45
+123,Five Sails Restaurant,4.4,179,French,vancouver,BC,"401-999 Canada Place Vancouver, BC V6C 3E1 Canada",49.2877204,-123.113231,BC,50
+124,Gyu-Kaku Japanese BBQ,4.0,390,Japanese,vancouver,BC,"G3-888 Nelson Street Vancouver, BC V6Z 2H1 Canada",49.2800583,-123.1252306,BC,25
+125,Black Frog Eatery,3.8,214,Pubs,vancouver,BC,"108 Cambie Street Vancouver, BC V6B 2M8 Canada",49.2845497,-123.1085711,BC,25
+126,Browns Crafthouse Seymour,4.0,44,Beer Bar,vancouver,BC,"580 West Pender Downtown Vancouver, BC V6B 1W7 Canada",49.2837737,-123.113725,BC,25
+127,Fat Mao Noodles,3.9,228,Asian Fusion,vancouver,BC,"938 Helmcken Street Vancouver, BC V6Z 2S5 Canada",49.2799016,-123.1272458,BC,25
+128,Fat Mao Noodles,3.9,228,Asian Fusion,vancouver,BC,"217 E Georgia Street Vancouver, BC V6A 1Z6 Canada",49.2787559,-123.0989242,BC,25
+129,Kin Kao Thai Kitchen,4.0,161,Thai,vancouver,BC,"903 Commercial Drive Vancouver, BC V5L Canada",49.2763842,-123.0698044,BC,25
+130,Caveman Cafe,4.4,271,Organic Stores,vancouver,BC,"88 W Pender Street Unit 1005 Vancouver, BC V6B 6N8 Canada",49.2804064,-123.1069714,BC,25
+131,Los Amigos Taqueria,4.0,121,Mexican,vancouver,BC,"1118 Davie Street Vancouver, BC V6E 1N1 Canada",49.2805803,-123.1319161,BC,25
+132,Salade de Fruits Cafe,4.2,175,French,vancouver,BC,"1551 West 7th Avenue Vancouver, BC V6J 1S1 Canada",49.2655967,-123.1400538,BC,25
+133,Green Leaf Sushi,4.0,394,Sushi Bars,vancouver,BC,"3416 W Broadway Vancouver, BC V6R 2B3 Canada",49.2641219,-123.180152,BC,25
+134,Grub,4.2,181,Italian,vancouver,BC,"4328 Main Street Vancouver, BC V5V 3P9 Canada",49.2464485,-123.1010277,BC,25
+135,Kozak Ukraïnian Eatery,4.4,30,Ukrainian,vancouver,BC,"1 W Cordova Street Vancouver, BC V6C 3N8 Canada",49.2827218,-123.1046125,BC,25
+136,Indian Delicacy,4.5,105,Indian,vancouver,BC,"1130 West pender st Vancouver, BC V6E 4A4 Canada",49.2874837,-123.1216012,BC,25
+137,Cactus Club Cafe,4.1,475,Canadian (New),vancouver,BC,"1085 Canada Place Vancouver, BC V6C 3E1 Canada",49.2894022,-123.1180433,BC,25
+138,Cactus Club Cafe,4.1,475,Canadian (New),vancouver,BC,"1125 Douglas Street Victoria, BC V8W 3L7 Canada",48.424893,-123.364927,BC,25
+139,Peaked Pies,4.4,196,Australian,vancouver,BC,"975 Denman Street Vancouver, BC V6G Canada",49.2897,-123.1384318,BC,25
+140,La Taqueria Pinche Taco Shop,4.2,681,Mexican,vancouver,BC,"322 W Hastings Street Vancouver, BC V8B 1K6 Canada",49.2829621,-123.1105621,BC,25
+141,Little Jumbo,4.4,275,Canadian (New),victoria,BC,"506 Fort Street Suite 102 Victoria, BC V8W 1E6 Canada",48.42527,-123.36928,BC,45
+142,Red Fish Blue Fish,4.5,1300,Fish & Chips,victoria,BC,"1006 Wharf Street Victoria, BC V8W 1T4 Canada",48.4243421,-123.3705879,BC,25
+143,Nubo Japanese Tapas,4.4,395,Sushi Bars,victoria,BC,"739 Pandora Avenue Victoria, BC V8W 1N9 Canada",48.42769149999999,-123.3634927,BC,25
+144,Il Terrazzo Ristorante,4.5,614,Italian,victoria,BC,"555 Johnson Street Victoria, BC V8W 1M2 Canada",48.4274056,-123.36944,BC,45
+145,Ithaka Greek Restaurant,4.5,144,Greek,victoria,BC,"716 Burdett Avenue Victoria, BC V8W 3G2 Canada",48.4223019,-123.3648329,BC,25
+146,Bodega,4.5,133,Tapas/Small Plates,victoria,BC,"1210 Broad Street Victoria, BC V8W 2A4 Canada",48.4259598,-123.3667139,BC,25
+147,Fishhook,4.5,309,Seafood,victoria,BC,"805 Fort Street Victoria, BC V8W 1H6 Canada",48.4241523,-123.3621483,BC,25
+148,Blue Fox Cafe,4.4,817,Breakfast & Brunch,victoria,BC,"919 Fort Street Suite 101 Victoria, BC V8V 3K3 Canada",48.42364999999999,-123.35877,BC,25
+149,Foo,4.0,174,Asian Fusion,victoria,BC,"769 Yates Street Victoria, BC V8W 1L6 Canada",48.4256723,-123.3625316,BC,25
+150,Little Yunnan Restaurant,4.5,130,Asian Fusion,victoria,BC,"546 Fisgard St Victoria, BC V8W 1R4 Canada",48.4294829,-123.3678964,BC,25
+151,10 Acres Bistro,3.9,502,Brasseries,victoria,BC,"611 Courtney Street Victoria, BC V8W 1B7 Canada",48.423293,-123.367614,BC,25
+152,Nautical Nellies Steak & Seafood House,3.9,389,Seafood,victoria,BC,"1001 Wharf Street Victoria, BC V8W 1T6 Canada",48.4245047,-123.3693897,BC,25
+153,Chimac Korean Pub & Fried Chicken,4.3,66,Korean,victoria,BC,"512 Yates Street Victoria, BC V8W 2Z6 Canada",48.4270939,-123.3698779,BC,25
+154,Nourish In The Harbour,4.4,197,Breakfast & Brunch,victoria,BC,"225 Quebec Street Victoria, BC V8V 1W2 Canada",48.4216723,-123.3768092,BC,25
+155,Bao,4.1,137,Asian Fusion,victoria,BC,"626 Fisgard Street Victoria, BC V8W 1R6 Canada",48.42950039999999,-123.365947,BC,25
+156,Hanks A Restaurant,4.5,95,Canadian (New),victoria,BC,"1001 Douglas Street Unit G2A Victoria, BC V8W 2C5 Canada",48.42391929999999,-123.3653111,BC,25
+157,Jam Cafe,4.5,652,Breakfast & Brunch,victoria,BC,"542 Herald Street Victoria, BC V8W 1S5 Canada",48.4303785,-123.3677163,BC,25
+158,Superbaba,4.5,55,Middle Eastern,victoria,BC,"1325 Blanshard Street Victoria, BC V8W 0B5 Canada",48.4266911,-123.3615715,BC,25
+159,Chorizo & Co,4.4,82,Spanish,victoria,BC,"807 Fort Street Victoria, BC V8W 1H6 Canada",48.4241398,-123.3620667,BC,10
+160,Aura Waterfront Restaurant + Patio,4.0,119,Seafood,victoria,BC,"680 Montreal Street Victoria, BC V8V 1Z8 Canada",48.42353019999999,-123.3766889,BC,25
+161,10 Acres Commons,3.7,136,Seafood,victoria,BC,"620 Humboldt Street Victoria, BC V8W 1A4 Canada",48.4228855,-123.3678035,BC,25
+162,The Fish Store,4.2,181,Seafood Markets,victoria,BC,"1 Dallas Road Victoria, BC V8V 0B2 Canada",48.42299999999999,-123.38349,BC,25
+163,The Cozy Place Restaurant,4.4,111,Chinese,victoria,BC,"1692 Douglas Street Victoria, BC V8W 2G6 Canada",48.4292309,-123.364691,BC,25
+164,Uchida Eatery / Shokudo,4.6,58,Japanese,victoria,BC,"633 Courtney Street Suite 22 Victoria, BC V8W 1B9 Canada",48.42284,-123.36645,BC,25
+165,Q at The Empress,3.9,107,Seafood,victoria,BC,"721 Government St Victoria, BC V8W 1W5 Canada",48.4222401,-123.3680585,BC,45
+166,BeaverTails,4.5,61,Desserts,victoria,BC,"602 Broughton Street Victoria, BC V8W 1C7 Canada",48.42433339999999,-123.367646,BC,10
+167,Fiamo,3.9,133,Italian,victoria,BC,"515 Yates Street Victoria, BC V8W 1K7 Canada",48.4266982,-123.3697847,BC,25
+168,Virtuous Pie,4.7,32,Pizza,victoria,BC,"530 Pandora Avenue Victoria, BC V8W 1N6 Canada",48.4286181,-123.3684944,BC,25
+169,Breakwater,3.5,66,Cafes,victoria,BC,"199 Dallas Road Victoria, BC V8V 1A2 Canada",48.4154371,-123.3846996,BC,25
+170,Bear & Joey Cafe,4.4,21,Cafes,victoria,BC,"1025 Cook St Victoria, BC V8V 3Z7 Canada",48.4230104,-123.3539516,BC,25
+171,Blue Crab Seafood House,3.8,149,Seafood,victoria,BC,"146 Kingston Street Victoria, BC V8V 1V4 Canada",48.422146,-123.3795799,BC,45
+172,Bar 500 Eatery,4.1,18,Tapas/Small Plates,victoria,BC,"500 Oswego Street Victoria, BC V8V 5C1 Canada",48.4207314,-123.3759507,BC,25
+173,Sookjai Thai Restaurant,4.1,41,Thai,victoria,BC,"893 Fort Street Victoria, BC V8W 1H7 Canada",48.4239609,-123.360217,BC,25
+174,Sushi Matsuri,4.5,32,Sushi Bars,victoria,BC,"239 Menzies Street Victoria, BC V8V 2G6 Canada",48.4163231,-123.3730101,BC,25
+175,Tacofino,4.1,116,Mexican,victoria,BC,"760 Pandora Avenue Victoria, BC V8W 1N9 Canada",48.4280293,-123.3628808,BC,25
+176,Cactus Club Cafe,4.0,116,Canadian (New),victoria,BC,"1085 Canada Place Vancouver, BC V6C 3E1 Canada",49.2894022,-123.1180433,BC,25
+177,Cactus Club Cafe,4.0,116,Canadian (New),victoria,BC,"1125 Douglas Street Victoria, BC V8W 3L7 Canada",48.424893,-123.364927,BC,25
+178,Yalla Middle Eastern Cuisine,4.5,40,Food Stands,victoria,BC,"1011 Blanshard Street Victoria, BC V8W 2X9 Canada",48.4238548,-123.3622815,BC,10
+179,The Ruby,4.2,57,Breakfast & Brunch,victoria,BC,"642 Johnson St Victoria, BC V8W 1M6 Canada",48.4275172,-123.3656961,BC,25
+180,The Ruby,4.2,57,Breakfast & Brunch,victoria,BC,"3110 Douglas Street Victoria, BC V8Z 3K4 Canada",48.4460473,-123.3717578,BC,25
+181,Dumpling Drop,4.0,19,Dumplings,victoria,BC,"556a Pandora Ave Pandora St. Victoria, BC V8W 1N7 Canada",48.4287317,-123.3675159,BC,10
+182,Part and Parcel,4.6,63,Canadian (New),victoria,BC,"2656 Quadra Street Victoria, BC V8T 4E4 Canada",48.4390886,-123.3593378,BC,25
+183,Cafe Brio,4.3,111,Italian,victoria,BC,"944 Fort Street Victoria, BC V8V 3K2 Canada",48.42405,-123.3576042,BC,45
+184,Beijing Bistro,3.9,28,Chinese,victoria,BC,"769 Fort Street Victoria, BC V8W 1G9 Canada",48.424312,-123.3634765,BC,25
+185,Bin 4 Burger Lounge,3.9,155,Burgers,victoria,BC,"911 Yates Street Suite 180 Victoria, BC V8V 4X3 Canada",48.42504,-123.35766,BC,25
+186,The Mint,3.6,105,Asian Fusion,victoria,BC,"1414 Douglas Street Victoria, BC V8W 2G1 Canada",48.4275599,-123.364849,BC,25
+187,Legislative Dining Room,4.6,27,Breakfast & Brunch,victoria,BC,"614 Government Street Victoria, BC V8V 2H4 Canada",48.4190854,-123.3692445,BC,25
+188,Perro Negro,4.7,18,Tapas/Small Plates,victoria,BC,"536 Yates Street Victoria, BC V8W 1K8 Canada",48.4270046,-123.3690454,BC,45
+189,Cenote Restaurant and Lounge,3.9,23,Lounges,victoria,BC,"768 Yates Street Victoria, BC V8W 3Z1 Canada",48.4263364,-123.362825,BC,25
+190,Ayo Eat,4.6,47,Indonesian,victoria,BC,"Market Square 140-156 Johnson Street Victoria, BC V8W 3C6 Canada",48.4279327,-123.368928,BC,10
+191,Tibetan Kitchen,4.2,52,Himalayan/Nepalese,victoria,BC,"680 Broughton Street Victoria, BC V8W 1C9 Canada",48.4242226,-123.3660772,BC,25
+192,Lido Waterfront Bar & Bistro,3.8,36,Seafood,victoria,BC,"1234 S Wharf Street Victoria, BC V8W 3H9 Canada",48.4265941,-123.3709204,BC,25
+193,Sult Pierogi Bar,4.2,99,Polish,victoria,BC,"609 Yates St Victoria, BC V8W 1L1 Canada",48.42642619999999,-123.3669085,BC,25
+194,The Tapa Bar,3.9,211,Tapas Bars,victoria,BC,"620 Trounce Alley Victoria, BC V8W 1K3 Canada",48.42600900000001,-123.366604,BC,25
+195,Fuego Old Town Eatery,4.4,76,Breakfast & Brunch,victoria,BC,"Market Square 1435 Store Street Victoria, BC V8W 3C6 Canada",48.428156,-123.369395,BC,25
+196,Irish Times Pub,4.0,436,Irish Pub,victoria,BC,"1200 Government Street Victoria, BC V8W 1Y3 Canada",48.42585649999999,-123.3679504,BC,25
+197,Moxies,3.9,40,Canadian (New),victoria,BC,"1010 Yates Street Suite 1 Victoria, BC V8V 3M6 Canada",48.4255311,-123.3559586,BC,25
+198,Heron Rock Bistro,4.3,104,Breakfast & Brunch,victoria,BC,"435 Simcoe Street Victoria, BC V8V 4T4 Canada",48.4156474,-123.3753358,BC,25
+199,Jones Bar B Que,3.9,61,Barbeque,victoria,BC,"1725 Cook Street Victoria, BC V8T 3P4 Canada",48.4291674,-123.3525717,BC,25
+200,Be Love,4.1,143,Vegan,victoria,BC,"1019 Blanshard Street Victoria, BC V8W 2H4 Canada",48.4240131,-123.362368,BC,25
+201,Clarke&Co,4.0,41,Cocktail Bars,victoria,BC,"1002 Blanshard Street Victoria, BC V8W 1E1 Canada",48.423651,-123.3629409,BC,45
+202,J & J Wonton Noodle House,3.7,72,Chinese,victoria,BC,"1012 Fort Street Victoria, BC V8V 3K4 Canada",48.4238736,-123.3561296,BC,25
+203,Browns Socialhouse - Victoria Falls,3.3,87,Pubs,victoria,BC,"809 Douglas Street Victoria, BC V8W 2B9 Canada",48.4223422,-123.365555,BC,25
+204,Fire & Water Fish and Chop House,3.7,34,Canadian (New),victoria,BC,"728 Humboldt Street Victoria, BC V8W 3Z5 Canada",48.42149209999999,-123.3646247,BC,25
+205,The Drake Eatery,4.1,74,Tapas/Small Plates,victoria,BC,"517 Pandora Street Victoria, BC V8W 3C6 Canada",48.4283464,-123.3690416,BC,25
+206,Saveur Restaurant,4.6,47,French,victoria,BC,"658 Herald Street Victoria, BC V8W 1S7 Canada",48.4304579,-123.3654207,BC,45
+207,Gozen,4.2,66,Japanese,victoria,BC,"1005 Langley Street Victoria, BC V8W 1V7 Canada",48.42446169999999,-123.3685469,BC,25
+208,Ghost Ramen,3.8,16,Ramen,victoria,BC,"1609 Store St Victoria, BC V8W 3K3 Canada",48.4287356,-123.3694214,BC,25
+209,Yates Street Taphouse,3.4,47,Pubs,victoria,BC,"759 Yates Street Victoria, BC V8W 1L6 Canada",48.4259008,-123.3626286,BC,25
+210,Pizzeria Prima Strada,4.2,179,Pizza,victoria,BC,"230 Cook Street Victoria, BC V8V 3X3 Canada",48.4140981,-123.3571555,BC,25
+211,Messob Ethiopian Cuisine,4.8,12,Ethiopian,victoria,BC,"1109 McKenzie Avenue Victoria, BC V8V 2W1 Canada",48.4146606,-123.3556713,BC,10
+212,Stage,4.2,59,Wine Bars,victoria,BC,"1307 Gladstone Avenue Victoria, BC V8R 1R9 Canada",48.4303865,-123.3449193,BC,45
+213,My Thai Cafe,4.1,34,Thai,victoria,BC,"1020 Cook Street Victoria, BC V8V 3Z5 Canada",48.4226833,-123.3545167,BC,25
+214,"Sakura Sushi, Grocery and Japanese Restaurant",3.5,15,Japanese,victoria,BC,"1213 Quadra Street Victoria, BC V8W 2K6 Canada",48.42516390000001,-123.3591699,BC,10
+215,Golden City Restaurant,3.7,99,Chinese,victoria,BC,"721 Fisgard Street Victoria, BC V8W 1R8 Canada",48.4293234,-123.3632914,BC,25
+216,Sura Korean Cuisine,3.0,48,Korean,victoria,BC,"1518 Robson Street Vancouver, BC V6G 1C3 Canada",49.2888512,-123.1316371,BC,45
+217,Sura Korean Cuisine,3.0,48,Korean,victoria,BC,"1696 Douglas Street Victoria, BC V8W 2G6 Canada",48.4292923,-123.3647259,BC,45
+218,Sen Zushi,4.2,46,Japanese,victoria,BC,"940 Fort Street Victoria, BC V8V 3K2 Canada",48.4240859,-123.357857,BC,25
+219,The Keg Steakhouse + Bar,4.1,146,Seafood,victoria,BC,"500 Fort Street Victoria, BC V8W 1E5 Canada",48.425239,-123.3695954,BC,45
+220,Picnic Too,4.5,11,Coffee & Tea,victoria,BC,"1019 Fort Street Victoria, BC V8V 3K5 Canada",48.4234258,-123.3560499,BC,25
+221,Kuma Noodles Japan,4.1,36,Ramen,victoria,BC,"1551 Cedar Hill Cross Road Suite 215 Victoria, BC V8P 2P2 Canada",48.4614663,-123.3347743,BC,10
+222,Milestones,3.5,184,Canadian (New),victoria,BC,"812 Wharf St Victoria, BC V8W 1T3 Canada",48.4228659,-123.3689381,BC,25
+223,Steamship Grill & Taphouse,3.2,150,Seafood,victoria,BC,"470 Belleville Street Victoria, BC V8V 1W9 Canada",48.421105,-123.3713739,BC,25
+224,Interactivity Board Game Cafe,4.3,36,Tabletop Games,victoria,BC,"723 Yates Street Victoria, BC V8W 1L6 Canada",48.4260256,-123.3638628,BC,10
+225,Ramen Arashi,5.0,3,Ramen,victoria,BC,"2950 Douglas Street Unit 222 Victoria, BC V8T 4N4 Canada",48.4427341,-123.370132,BC,25
+226,Oak Bay Seafood,3.9,18,Seafood Markets,victoria,BC,"2024 Oak Bay Avenue Victoria, BC V8R 1E4 Canada",48.4267401,-123.3215821,BC,25
+227,Le Petit Saigon Vietnamese Restaurant,4.2,80,Vietnamese,victoria,BC,"1010 Langley Street Victoria, BC V8W 1V8 Canada",48.4246551,-123.3690014,BC,25
+228,Earls Kitchen + Bar,3.9,147,Canadian (New),victoria,BC,"1199 Government Street #100 - Bay Center Victoria Victoria, BC V8W 3M9 Canada",48.4252022,-123.3665039,BC,25
+229,Varsha Indian Kitchen,3.8,116,Gluten-Free,victoria,BC,"1600 Government Street Suite 101 Victoria, BC V8W 1Z3 Canada",48.42878,-123.36736,BC,25
+230,Bangkok Modern Thai Cuisine,4.0,21,Thai,victoria,BC,"1813 Douglas Street Victoria, BC V8T 4K5 Canada",48.4307075,-123.3641706,BC,25
+231,Brickyard Pizza,3.1,36,Pizza,victoria,BC,"784 Yates Street Victoria, BC V8W 1L4 Canada",48.42630579999999,-123.3625037,BC,10
+232,Sushi Time Express,4.6,21,Japanese,victoria,BC,"120 - 735 Yates Street Victoria, BC V8W 1L6 Canada",48.4258434,-123.3636376,BC,10
+233,Menbow Ramen Bar,3.7,66,Ramen,victoria,BC,"1018 Blanshard Street Victoria, BC V8W 2H5 Canada",48.423894,-123.362935,BC,25
+234,LURE Restaurant & Bar,3.5,64,Seafood,victoria,BC,"100 Harbour Road Victoria, BC V9A 0G1 Canada",48.4268102,-123.3752044,BC,25
+235,Victoria Harbour House Restaurant,3.3,82,Steakhouses,victoria,BC,"607 Oswego St Victoria, BC V8V 4W9 Canada",48.4211323,-123.3744302,BC,45
+236,La Taqueria,3.7,56,Mexican,victoria,BC,"766 Fort Street Victoria, BC V8W 1H2 Canada",48.42454439999999,-123.3632873,BC,25
+237,The Old Spaghetti Factory,3.2,128,Italian,victoria,BC,"703 Douglas Street Victoria, BC V8W 2B4 Canada",48.4203731,-123.3661269,BC,25
+238,The Bent Mast,3.4,45,Pubs,victoria,BC,"512 Simcoe Street Victoria, BC V8V 1L8 Canada",48.4152902,-123.3734114,BC,25
+239,The Oaks Restaurant,3.5,26,Breakfast & Brunch,victoria,BC,"206-2250 Oak Bay Avenue Victoria, BC V8R 1G5 Canada",48.4266646,-123.3146396,BC,25
+240,Omakase Izakaya & Sushi Bar,3.5,35,Japanese,victoria,BC,"990 Blanshard Street Victoria, BC V8W 2H3 Canada",48.4234351,-123.3629505,BC,25
+241,Island Poké,4.1,27,Poke,victoria,BC,"1674 Douglas Street Victoria, BC V8W 2G6 Canada",48.4290536,-123.3648556,BC,25
+242,Hope Key,4.2,50,Chinese,victoria,BC,"1313 Douglas Street Victoria, BC V8W 2E9 Canada",48.4267034,-123.3645897,BC,25
+243,The Flying Otter,3.7,195,Seafood,victoria,BC,"950 Wharf Street Victoria, BC V8W 1C6 Canada",48.4237828,-123.3712407,BC,25
+244,Topos Ristorante Italiano,4.3,3,Italian,victoria,BC,"1218 Wharf St Victoria, BC V8W 1T8 Canada",48.426445,-123.370475,BC,45
+245,Roast,4.0,41,Sandwiches,victoria,BC,"1701 Douglas Street Unit 6 Victoria, BC V8W 0C1 Canada",48.4298795,-123.3640647,BC,25
+246,Crooked Goose Bistro,3.7,46,Canadian (New),victoria,BC,"4136 Wilkinson Road Victoria, BC V8Z 5A7 Canada",48.4787427,-123.4113383,BC,25
+247,Italian Food Imports,4.2,37,Delis,victoria,BC,"1114 Blanshard Street Victoria, BC V8W 2H6 Canada",48.4247916,-123.3625978,BC,10
+248,La Taquisa,3.6,71,Mexican,victoria,BC,"1017 Blanshard Street Victoria, BC V8W 2H4 Canada",48.4239623,-123.3623852,BC,10
+249,The Local,3.6,150,Burgers,victoria,BC,"1205 Wharf Street Victoria, BC V8W 3H9 Canada",48.42606199999999,-123.369869,BC,25
+250,Thai Green Elephant Restaurant,4.1,31,Thai,victoria,BC,"809 Craigflower Road Victoria, BC V9A 2W8 Canada",48.4393771,-123.3933097,BC,25
+251,Hecklers Bar & Grill,3.8,28,Comedy Clubs,victoria,BC,"123 Gorge Road E Victoria, BC V9A 1L1 Canada",48.4427029,-123.3861166,BC,25
+252,QV Cafe & Bakery,3.9,65,Bakeries,victoria,BC,"1701 Government Street Victoria, BC V8W 1Z4 Canada",48.4295811,-123.3666938,BC,10
+253,CRAFT Beer Market - Victoria,2.8,13,"Beer, Wine & Spirits",victoria,BC,"450 Swift Street Victoria, BC V8W 1S3 Canada",48.42964620000001,-123.3713537,BC,25
+254,ReBar Modern Food,4.0,272,Vegan,victoria,BC,"50 Bastion Square Victoria, BC V8W 1J2 Canada",48.4258871,-123.3680068,BC,25
+255,Siam Thai Restaurant,3.8,51,Thai,victoria,BC,"512 Fort Street Victoria, BC V8W 1E6 Canada",48.4251114,-123.3690001,BC,25
+256,Fan Tan Cafe,3.4,84,Chinese,victoria,BC,"549 Fisgard Street Victoria, BC V8W 1R5 Canada",48.429243,-123.3678711,BC,25
+257,5th Street Bar & Woodfire Grill,3.5,80,American (Traditional),victoria,BC,"1028 Hillside Avenue Victoria, BC V8T 2A3 Canada",48.4397884,-123.3582633,BC,25
+258,Tre Fantastico,3.1,43,Cafes,victoria,BC,"810 Humboldt Street Victoria, BC V8T 5B1 Canada",48.420397,-123.3630542,BC,25
+259,Chicken On the Run,3.9,20,Chicken Wings,victoria,BC,"405 Craigflower Road Victoria, BC V9A 2V7 Canada",48.4363061,-123.3874257,BC,25
+260,10 Acres Kitchen,3.5,69,Bars,victoria,BC,"614 Humboldt Street Victoria, BC V8W 1A4 Canada",48.4229949,-123.3679192,BC,45
+261,Rise & Grind,4.1,17,Coffee & Tea,victoria,BC,"1294 Broad Street Victoria, BC V8W 2A5 Canada",48.426279,-123.366511,BC,25
+262,The Ruby,4.3,138,Breakfast & Brunch,victoria,BC,"642 Johnson St Victoria, BC V8W 1M6 Canada",48.4275172,-123.3656961,BC,25
+263,The Ruby,4.3,138,Breakfast & Brunch,victoria,BC,"3110 Douglas Street Victoria, BC V8Z 3K4 Canada",48.4460473,-123.3717578,BC,25
+264,Wah Lai Yuen,3.4,60,Chinese,victoria,BC,"560 Fisgard Street Victoria, BC V8W 1R4 Canada",48.42950339999999,-123.3675693,BC,25
+265,JBI Café Restaurant,3.6,10,Cafes,victoria,BC,"270 Government Street Victoria, BC V8V 2L2 Canada",48.4153947,-123.3694605,BC,25
+266,The Sticky Wicket,2.8,174,British,victoria,BC,"The Strathcona Hotel 919 Douglas Street Victoria, BC V8W 2C2 Canada",48.42346819999999,-123.3654445,BC,25
+267,La Belle Patate,3.9,68,Fast Food,victoria,BC,"1215 Davie Street Vancouver, BC V6E 1N4 Canada",49.2820333,-123.1335487,BC,10
+268,La Belle Patate,3.9,68,Fast Food,victoria,BC,"1215 Esquimalt Road Victoria, BC V9A 3P1 Canada",48.4300048,-123.4132095,BC,10
+269,Superior Pizza,3.8,22,Pizza,victoria,BC,"455 Simcoe Street Victoria, BC V8V 4T3 Canada",48.4155363,-123.3748544,BC,25
+270,Vista 18,3.5,96,Wine Bars,victoria,BC,"740 Burdett Avenue 18th Floor Victoria, BC V8W 1B2 Canada",48.4221151,-123.3646121,BC,25
+271,Avalon Restaurant,4.1,33,Breakfast & Brunch,victoria,BC,"1075 Fort Street Victoria, BC V8V 3K5 Canada",48.4233708,-123.3548685,BC,25
+272,The Tartan Toque,3.6,38,Canadian (New),victoria,BC,"1507 Pandora Avenue Victoria, BC V8R 6P9 Canada",48.42598,-123.339,BC,25
+273,Vis-à-Vis,4.1,39,Wine Bars,victoria,BC,"2232 Oak Bay Avenue Victoria, BC V8R 1G5 Canada",48.4266254,-123.3149281,BC,25
+274,Ebizo Japanese Restaurant,3.8,109,Japanese,victoria,BC,"604 Broughton Street Victoria, BC V8W 1C7 Canada",48.4242474,-123.3675773,BC,25
+275,Hot and Cold Cafe,4.7,24,Soup,victoria,BC,"313 Cook Street Victoria, BC V8V Canada",48.4144169,-123.3561763,BC,25
+276,Baan Thai Restaurant,3.8,30,Thai,victoria,BC,"1117 Blanshard St Victoria, BC V8W 2H7 Canada",48.4247323,-123.3621701,BC,25
+277,Baan Thai Restaurant,3.8,30,Thai,victoria,BC,"2000 Cadboro Bay Road Unit 104 Oak Bay, BC V8R 5G5 Canada",48.4325966,-123.3215758,BC,25
+278,Sizzling Tandoor,4.0,108,Indian,victoria,BC,"637 Johnson Street Victoria, BC V8W 1M7 Canada",48.427039,-123.3656218,BC,25
+279,Cafe Mexico,3.3,78,Mexican,victoria,BC,"1425 Store Street Victoria, BC V8W 3C6 Canada",48.4280603,-123.3688021,BC,25
+280,Water Prince Corner Shop,4.2,211,Seafood,charlottetown,PEI,"141 Water Street Charlottetown, PE C1A 1A8 Canada",46.2339164,-63.12222449999999,PE,25
+281,Claddagh Oyster House,4.4,71,Seafood,charlottetown,PEI,"131 Sydney Street Charlottetown, PE C1A 1G5 Canada",46.233763,-63.12606499999999,PE,45
+282,Hopyard,4.4,50,Beer Bar,charlottetown,PEI,"151 Kent Street Charlottetown, PE C1A 1N5 Canada",46.2365678,-63.1276157,PE,25
+283,The Gahan House,4.0,190,Breweries,charlottetown,PEI,"126 Sydney Street Charlottetown, PE C1A 1G4 Canada",46.2334763,-63.12592710000001,PE,25
+284,The Brickhouse Kitchen & Bar,3.9,78,Seafood,charlottetown,PEI,"125 Sydney Street Charlottetown, PE C1A 4K4 Canada",46.2336031,-63.1262273,PE,25
+285,The Pilot House,4.1,46,Seafood,charlottetown,PEI,"70 Grafton St Charlottetown, PE C1A 1K7 Canada",46.23378150000001,-63.1285997,PE,25
+286,Himalayan Indian Cuisine,4.5,23,Himalayan/Nepalese,charlottetown,PEI,"39 Eden Street Unit 5 Charlottetown, PE C1A 4N4 Canada",46.2439112,-63.13526340000001,PE,25
+287,Himalayan Indian Cuisine,4.5,23,Himalayan/Nepalese,charlottetown,PEI,"138 Great George Street Charlottetown, PE C1A 4K6 Canada",46.2359417,-63.1268425,PE,25
+288,Sims Corner Steakhouse & Oyster Bar,4.2,85,Steakhouses,charlottetown,PEI,"86 Queen Street Charlottetown, PE C1A 4A7 Canada",46.233264,-63.12622,PE,45
+289,Brakish,4.1,39,Seafood,charlottetown,PEI,"2 Lower Water Street Charlottetown, PE C1A 4A2 Canada",46.23211,-63.1234,PE,25
+290,John Brown Richmond Street Grille,4.1,56,American (Traditional),charlottetown,PEI,"132 Richmond Street Charlottetown, PE C1A 1H9 Canada",46.23389,-63.12656699999999,PE,25
+291,The Chip Shack,4.2,62,Seafood,charlottetown,PEI,"2 Great George Street Charlottetown, PE C1A 4K6 Canada",46.2325652,-63.1226719,PE,25
+292,Row House Lobster,3.8,49,Seafood,charlottetown,PEI,"146 Richmond Street Charlottetown, PE C1A Canada",46.23406869999999,-63.1261798,PE,25
+293,Famous Peppers,4.3,30,Pizza,charlottetown,PEI,"7 St Peters Road Charlottetown, PE C1A 5N1 Canada",46.2466838,-63.12365740000001,PE,25
+294,Piatto Pizzeria + Enoteca,4.6,33,Pizza,charlottetown,PEI,"45 Queen Street Charlottetown, PE C1A 4A4 Canada",46.2322303,-63.12564820000001,PE,25
+295,Churchill Arms,4.2,43,British,charlottetown,PEI,"75 Queen Street Charlottetown, PE C1A 4A8 Canada",46.2329042,-63.1264838,PE,25
+296,Splendid Essence,4.5,35,Vegetarian,charlottetown,PEI,"186 Prince Street Charlottetown, PE C1A 1P1 Canada",46.23761640000001,-63.126296,PE,25
+297,The Old Triangle,4.1,33,Irish,charlottetown,PEI,"189 Great George Street Charlottetown, PE C1A 4L1 Canada",46.2367858,-63.12878519999999,PE,25
+298,Seoul Food,3.7,7,Korean,charlottetown,PEI,"330 University Avenue Charlottetown, PE C1A 4M4 Canada",46.2422178,-63.13206729999999,PE,25
+299,Merchantman,3.6,62,Seafood,charlottetown,PEI,"23 Queen Street Charlottetown, PE C1A 4A2 Canada",46.231719,-63.12484299999999,PE,25
+300,Receiver Coffee,4.4,83,Cafes,charlottetown,PEI,"128 Richmond Street Charlottetown, PE C1A 1H7 Canada",46.233818,-63.12667399999999,PE,25
+301,Receiver Coffee,4.4,83,Cafes,charlottetown,PEI,"178 Water Street Charlottetown, PE C1A 8W1 Canada",46.23421279999999,-63.1206954,PE,25
+302,Silver Streams Restaurant,3.7,7,Chinese,charlottetown,PEI,"7 St. Peters Road Charlottetown, PE C1A 5N3 Canada",46.2466838,-63.12365740000001,PE,25
+303,The Kettleblack,4.1,21,Breakfast & Brunch,charlottetown,PEI,"45 Queen Street Charlottetown, PE C1A 4A4 Canada",46.2322303,-63.12564820000001,PE,10
+304,The Noodle House,3.5,13,Chinese,charlottetown,PEI,"188 Great George Street Charlottetown, PE C1A 2P7 Canada",46.23749129999999,-63.12902189999999,PE,25
+305,Brits Fish and Chips,4.2,45,Fish & Chips,charlottetown,PEI,"141 Great George Street Charllottetown, PE C1B 4K7 Canada",46.2356807,-63.12746549999999,PE,25
+306,Olde Dublin Pub,3.9,49,Seafood,charlottetown,PEI,"131 Sydney Street Charlottetown, PE C1A 1G5 Canada",46.233763,-63.12606499999999,PE,25
+307,Taco Boyz,3.4,10,Mexican,charlottetown,PEI,"393  University Ave Charlottetown, PE C1A 4N4 Canada",46.24473829999999,-63.1348772,PE,10
+308,Taco Boyz,3.4,10,Mexican,charlottetown,PEI,"201 Buchanan Dr Charlottetown, PE C1E 2E4 Canada",46.2648907,-63.1491318,PE,10
+309,Lobster On The Wharf,2.6,71,Seafood,charlottetown,PEI,"2 Prince Street Charlottetown, PE C1A 8C1 Canada",46.2326716,-63.12023249999999,PE,45
+310,The Factory Downtown,3.4,7,Bars,charlottetown,PEI,"189 Kent St. Charlottetown, PE C1A 1P1 Canada",46.23752529999999,-63.12599789999999,PE,25
+311,China King Buffet Restaurant,2.9,8,Chinese,charlottetown,PEI,"660 University Avenue Charlottetown, PE C1E 1E5 Canada",46.26392329999999,-63.14601109999999,PE,25
+312,Swiss Chalet Rotisserie & Grill,3.3,3,American (Traditional),charlottetown,PEI,"359 University Avenue Charlottetown, PE C1A 4M9 Canada",46.2431486,-63.1338387,PE,25
+313,Redwater Rustic Grille,3.4,14,Canadian (New),charlottetown,PEI,"123 Grafton Street Charlottetown, PE C1A 4K6 Canada",46.2351606,-63.1274806,PE,25
+314,Fishbones,3.0,35,Seafood,charlottetown,PEI,"136 Richmond Street Charlottetown, PE C1A 1H9 Canada",46.234003,-63.12635,PE,25
+315,Casa Mia Cafe,3.4,52,Cafes,charlottetown,PEI,"131 Queen Street Charlottetown, PE C1A 4B3 Canada",46.234036,-63.12782199999999,PE,25
+316,Ta Ke Sushi,3.7,28,Sushi Bars,charlottetown,PEI,"92 Queen St Charlottetown, PE C1A 4B1 Canada",46.2334801,-63.1263985,PE,25
+317,Water Street Fish & Chips,3.8,26,Fish & Chips,charlottetown,PEI,"73 Water Street Charlottetown, PE C1A 4J7 Canada",46.232349,-63.12475010000001,PE,25
+318,Selkirk Dining Room,5.0,1,Canadian (New),charlottetown,PEI,"18 Queen Street Charlottetown, PE C1A 4A1 Canada",46.2320126,-63.1239944,PE,45
+319,Pho Vietnam Restaurant,2.0,17,Vietnamese,charlottetown,PEI,"123 Queen Street Charlottetown, PE C1A 4B3 Canada",46.2337911,-63.1276849,PE,25
+320,Canton Cafe,3.3,12,Chinese,charlottetown,PEI,"73 Queen Street Charlottetown, PE C1A 4A8 Canada",46.2328331,-63.1263619,PE,25
+321,DQ Grill & Chill Restaurant,2.6,5,Fast Food,charlottetown,PEI,"365 University Ave Charlottetown, PE C1A 4N2 Canada",46.2436888,-63.1340666,PE,25
+322,Boom Burger,3.7,36,Burgers,charlottetown,PEI,"403 Capital Drive Charlottetown, PE C1E 1Z3 Canada",46.2582683,-63.1810195,PE,25
+323,China Garden,1.9,19,Chinese,charlottetown,PEI,"96 Queen Street Charlottetown, PE C1A 4B1 Canada",46.233524,-63.12658299999999,PE,25
+324,Boston Pizza,2.5,14,Pizza,charlottetown,PEI,"700 University Ave Charlottetown, PE C1E 1E3 Canada",46.2662792,-63.147374,PE,25
+325,Kiwanis Dairy Bar,5.0,1,Ice Cream & Frozen Yogurt,charlottetown,PEI,"50 Park Roadway Charlottetown, PE C1A 1V1 Canada",46.2277825,-63.1389472,PE,10
+326,Bamboo Garden Restaurant,2.0,2,Chinese,charlottetown,PEI,"25 Hopeton Road Stratford, PE C1B 1T6 Canada",46.2308878,-63.0990787,PE,25
+327,Subway,3.5,4,Sandwiches,charlottetown,PEI,"685 University Avenue Charlottetown, PE C1E 1E5 Canada",46.2656196,-63.14839329999999,PE,10
+328,Subway,3.5,4,Sandwiches,charlottetown,PEI,"101 Grafton Street Unit C Charlottetown, PE C1A 1K9 Canada",46.2347323,-63.128151,PE,10
+329,A&W,2.7,3,Fast Food,charlottetown,PEI,"650 University Avenue Charlottetown, PE C1A 1E3 Canada",46.2635915,-63.145733,PE,25
+330,RGE RD,4.4,172,Canadian (New),edmonton,AB,"10643 - 123 Street Edmonton, AB T5M 1Z1 Canada",53.5506791,-113.5338299,AB,45
+331,Woodwork,4.2,172,Canadian (New),edmonton,AB,"10132-100 Street Edmonton, AB T5J 0N8 Canada",53.542023,-113.490727,AB,25
+332,BaoBao,4.3,40,Noodles,edmonton,AB,"10544 Jasper Avenue Edmonton, AB T5J 1Z7 Canada",53.54136099999999,-113.502144,AB,25
+333,Baijiu,4.4,52,Cocktail Bars,edmonton,AB,"103-10359 104 Street NW Edmonton, AB T5J 1B9 Canada",53.5459109,-113.4986901,AB,25
+334,Otto Food and Drink,4.5,75,Gastropubs,edmonton,AB,"11405 95 Street NW Edmonton, AB T5G 1L3 Canada",53.5645034,-113.4869837,AB,25
+335,Bundok,4.5,53,Canadian (New),edmonton,AB,"10228 104 Street NW Edmonton, AB T5J 1B8 Canada",53.5437016,-113.4994695,AB,50
+336,Meat,4.1,475,Barbeque,edmonton,AB,"8216 104 Street Edmonton, AB T6E 4E6 Canada",53.5186535,-113.4978516,AB,25
+337,Pip,4.3,172,Wine Bars,edmonton,AB,"10335 83 Avenue NW Edmonton, AB T6E 2C6 Canada",53.5189742,-113.4971528,AB,25
+338,Blowers & Grafton,4.1,127,Canadian (New),edmonton,AB,"10550 82 Ave NW Edmonton, AB T6E 2A4 Canada",53.5183647,-113.5028093,AB,25
+339,Cafe Amore Bistro,4.3,143,Cafes,edmonton,AB,"10807 106 Avenue NW Edmonton, AB T5H 4A7 Canada",53.5496651,-113.5069385,AB,25
+340,Bodega Highlands,4.6,55,Tapas Bars,edmonton,AB,"6509 112th Avenue NW Edmonton, AB T5W 0P1 Canada",53.5646317,-113.4381206,AB,25
+341,The Lunchbox Diner,4.5,17,Diners,edmonton,AB,"14413 115 Avenue NW Edmonton, AB T5M 3B8 Canada",53.5649987,-113.5701334,AB,25
+342,El Mero Mero Taqueria,4.0,30,Mexican,edmonton,AB,"12223 156 Street NW Edmonton, AB T5V 1E6 Canada",53.57559,-113.58976,AB,25
+343,Biera,3.9,79,Beer Bar,edmonton,AB,"9570 - 76th Avenue Edmonton, AB T6C 0K2 Canada",53.51262999999999,-113.476381,AB,25
+344,Black Pearl Seafood Bar-Downtown,4.2,99,Seafood,edmonton,AB,"10132 104 Street Edmonton, AB T5J 1A7 Canada",53.54173979999999,-113.4995021,AB,45
+345,Refinery Grill,3.8,60,Delis,edmonton,AB,"10406 Mayfield Road Edmonton, AB T5P 4P4 Canada",53.5467017,-113.6139123,AB,25
+346,The Common,3.8,167,Lounges,edmonton,AB,"9910 109th Street Edmonton, AB T5K 1H5 Canada",53.5375828,-113.5087145,AB,25
+347,Nongbu Korean Eatery,4.3,53,Korean,edmonton,AB,"8115-104 Street NW Edmonton, AB T6E 4E4 Canada",53.5174639,-113.497275,AB,25
+348,OEB Breakfast,4.4,237,Breakfast & Brunch,edmonton,AB,"10174 100A Street Edmonton, AB T5J 0H3 Canada",53.5426187,-113.4925759,AB,25
+349,Uccellino,4.4,82,Italian,edmonton,AB,"10349 Jasper Avenue Edmonton, AB T5J 1Y7 Canada",53.54074749999999,-113.4987987,AB,45
+350,SugarBowl,4.0,486,Breakfast & Brunch,edmonton,AB,"10922 88 Avenue NW Edmonton, AB T6G 0Z1 Canada",53.5240099,-113.5131099,AB,25
+351,The Butternut Tree,4.2,41,Canadian (New),edmonton,AB,"9707 110 St NW Edmonton, AB T5K 2L9 Canada",53.5343181,-113.509691,AB,50
+352,Sabor,4.2,167,Portuguese,edmonton,AB,"10220 103 Street Edmonton, AB T5J 4A1 Canada",53.5435145,-113.4976116,AB,45
+353,The Bedouins,4.8,50,Middle Eastern,edmonton,AB,"12832 137 Avenue NW Edmonton, AB T5L 4Y8 Canada",53.60056540000001,-113.5428032,AB,25
+354,Tokiwa Ramen,4.2,120,Ramen,edmonton,AB,"11978 104 Avenue Edmonton, AB T5K 0T3 Canada",53.5474099,-113.5279006,AB,25
+355,Izakaya Tomo,4.4,169,Japanese,edmonton,AB,"3739 99 Street Edmonton, AB T6E 6J7 Canada",53.4713345,-113.4854612,AB,25
+356,JOEY Bell Tower,3.9,81,Canadian (New),edmonton,AB,"10310-101 Street NW Edmonton, AB T5J 4X1 Canada",53.54510879999999,-113.4941745,AB,25
+357,Dadeo,4.0,263,Southern,edmonton,AB,"10548A 82 Avenue NW Edmonton, AB T6E 2A4 Canada",53.5184085,-113.5026666,AB,25
+358,Share,3.8,10,Steakhouses,edmonton,AB,"10135 100 Street NW The Westin Edmonton Edmonton, AB T5J 0N7 Canada",53.542016,-113.4898746,AB,45
+359,CRAFT Beer Market,3.5,258,Canadian (New),edmonton,AB,"10013 101A Avenue Edmonton, AB T5J 0C3 Canada",53.5418144,-113.4912764,AB,25
+360,Dorinku Tokyo,4.2,191,Sushi Bars,edmonton,AB,"10205 82 Avenue NW Edmonton, AB T6E 3X8 Canada",53.51791249999999,-113.4940739,AB,25
+361,Little Brick,3.9,100,Cafes,edmonton,AB,"10004  90th Street Edmonton, AB T5H 4P4 Canada",53.5421264,-113.4696368,AB,25
+362,La Patrona,4.4,108,Mexican,edmonton,AB,"2 Athabascan Avenue Unit 8 Sherwood Park, AB T8A 4E3 Canada",53.53685790000001,-113.3209739,AB,25
+363,XO Bistro & Bar,4.6,81,Vietnamese,edmonton,AB,"10236 103 Street Edmonton, AB T5J 0Y8 Canada",53.5439222,-113.4976511,AB,25
+364,Glass Monkey,3.8,68,Gastropubs,edmonton,AB,"5842 111 Street NW Edmonton, AB T6H 3G1 Canada",53.4955998,-113.5178769,AB,25
+365,Northern Chicken,4.1,165,Chicken Shop,edmonton,AB,"10704 124 Street Edmonton, AB T5M 0H1 Canada",53.551142,-113.5363825,AB,25
+366,Asian Express Hot Pot,4.5,52,Asian Fusion,edmonton,AB,"10586 100 Street NW Edmonton, AB T5H 2R6 Canada",53.5496,-113.492116,AB,25
+367,Dagu Rice Noodle,4.3,15,Noodles,edmonton,AB,"10408 Jasper Avenue Edmonton, AB T5J 1Z3 Canada",53.5412149,-113.4995711,AB,25
+368,Kiwado Japanese Cuisine,4.2,20,Sushi Bars,edmonton,AB,"10923-101 Street NW Edmonton, AB T5H 2S7 Canada",53.5551733,-113.4932074,AB,25
+369,Bottega 104,3.5,43,Bars,edmonton,AB,"10181 104 Street NW Edmonton, AB T5J 0Z9 Canada",53.5427007,-113.4987812,AB,45
+370,Golden Dumpling Restaurant,3.7,7,Chinese,edmonton,AB,"10939-101 Street Edmonton, AB T5H 2S7 Canada",53.5557124,-113.493526,AB,10
+371,LOFT Thai Eatery,4.3,38,Thai,edmonton,AB,"5324 75 Street NW Edmonton, AB T6E 6S4 Canada",53.4914092,-113.4432741,AB,25
+372,May,4.4,5,Salad,edmonton,AB,"10522 124 St Edmonton, AB T5N 1R9 Canada",53.548471,-113.5361068,AB,45
+373,OEB Breakfast,4.2,89,Breakfast & Brunch,edmonton,AB,"10174 100A Street Edmonton, AB T5J 0H3 Canada",53.5426187,-113.4925759,AB,25
+374,Vaticano Cucina,4.2,89,Italian,edmonton,AB,"10310 45 Ave NW Edmonton, AB T6H 5K3 Canada",53.4833721,-113.4926956,AB,25
+375,Y-Not Indian,4.7,21,Fast Food,edmonton,AB,"10060 Jasper Avenue NW Edmonton, AB T5J 1V9 Canada",53.5413977,-113.4925398,AB,10
+376,Community Taps + Pizza,4.3,8,Pizza,edmonton,AB,"8232 Gateway Boulevard NW Edmonton, AB T6E 4B2 Canada",53.5188411,-113.4955137,AB,25
+377,Misoya,3.8,29,Ramen,edmonton,AB,"10146 104 Street NW Edmonton, AB T5J 1A7 Canada",53.542068,-113.499477,AB,25
+378,Harvest Room,4.1,62,Breakfast & Brunch,edmonton,AB,"10065 - 100th Street Edmonton, AB T5J 0N6 Canada",53.5402604,-113.4894944,AB,45
+379,Bistro Praha,4.1,72,Modern European,edmonton,AB,"10117 101 Street NW Edmonton, AB T5J 0T4 Canada",53.5413289,-113.4934524,AB,25
+380,Calle Mexico,4.5,111,Mexican,edmonton,AB,"11127 107th Avenue Edmonton, AB T5H 0X9 Canada",53.551208,-113.513401,AB,25
+381,Thanh Thanh Oriental Noodle House,4.2,89,Vietnamese,edmonton,AB,"10718 101 Street NW Edmonton, AB T5H 2S3 Canada",53.5518687,-113.4940376,AB,25
+382,The Cajun House,4.1,64,Cajun/Creole,edmonton,AB,"7 Saint Anne Street St. Albert, AB T8N 2X4 Canada",53.6354601,-113.6257158,AB,25
+383,Padmanadi Vegetarian Restaurant,4.5,322,Vegetarian,edmonton,AB,"10740 101 Street Edmonton, AB T5H 2S3 Canada",53.5524101,-113.4941242,AB,25
+384,Barbecue King City,4.5,6,Barbeque,edmonton,AB,"10606 - 97 Street Edmonton, AB T5H 2L6 Canada",53.55047459999999,-113.4890612,AB,10
+385,The Next Act,4.2,291,Pubs,edmonton,AB,"8224 104 Street NW Edmonton, AB T6E 4E6 Canada",53.5188418,-113.4979408,AB,25
+386,Haus Falkenstein,4.1,25,German,edmonton,AB,"15215 111 Ave NW Edmonton, AB T5M 2R1 Canada",53.5585189,-113.583155,AB,25
+387,New Tan Tan,3.8,23,Dim Sum,edmonton,AB,"10133 97 Street NW Edmonton, AB T5J 0L2 Canada",53.5428694,-113.4853161,AB,25
+388,Seoul Fried Chicken,4.0,225,Korean,edmonton,AB,"7904B - 104 Street Edmonton, AB T6J 4C8 Canada",53.5154406,-113.4980223,AB,25
+389,Seoul Fried Chicken,4.0,225,Korean,edmonton,AB,"10145 104 Street NW Edmonton, AB T5J 0Z9 Canada",53.54203039999999,-113.4988514,AB,25
+390,Lee House,4.1,31,Korean,edmonton,AB,"10704 97 Street NW Edmonton, AB T5H 2L9 Canada",53.5519194,-113.4896818,AB,25
+391,Yo Baba Ukrainian Foods,4.8,4,Ukrainian,edmonton,AB,"8103 127 Avenue NW Suite 9 Edmonton, AB T5C 1R9 Canada",53.5840249,-113.4658033,AB,25
+392,Shanghai 456,3.9,66,Dim Sum,edmonton,AB,"14456 - 118 Avenue NW Edmonton, AB T5L 2M5 Canada",53.570724,-113.570551,AB,25
+393,Native Delights,4.0,9,Burgers,edmonton,AB,"12011 111 Avenue NW Edmonton, AB T5G 0E7 Canada",53.5581559,-113.5299967,AB,10
+394,Bodega Tapas and Wine Bar,4.1,38,Tapas Bars,edmonton,AB,"10220 103 Street Suite 109 Edmonton, AB T5J 0Y8 Canada",53.54348,-113.4977745,AB,45
+395,Belgravia Hub,4.0,33,Canadian (New),edmonton,AB,"7609 115 Street  NW Edmonton, AB T6G 0M2 Canada",53.5125477,-113.5284198,AB,25
+396,Sofra Restaurant,4.2,79,Turkish,edmonton,AB,"10345 106 Street NW Suite 108 Edmonton, AB T5J 1H8 Canada",53.54571,-113.5026,AB,45
+397,Pho Tau Bay,4.4,86,Vietnamese,edmonton,AB,"10660 98 St NW Edmonton, AB T5H 2N7 Canada",53.5513246,-113.4908927,AB,10
+398,Avila Arepa,3.9,66,Venezuelan,edmonton,AB,"10760 82 Avenue Edmonton, AB T6E 2A8 Canada",53.5182797,-113.5086505,AB,25
+399,Nuovo Bistro,4.4,52,Italian,edmonton,AB,"10721 124 Street Edmonton, AB T5M 0H2 Canada",53.5517304,-113.5357229,AB,25
+400,La Ronde Revolving Restaurant,3.8,91,Steakhouses,edmonton,AB,"10111 Bellamy Hill NW Edmonton, AB T5J 1N7 Canada",53.5389837,-113.4939471,AB,45
+401,The Marc,4.2,143,French,edmonton,AB,"9940 106 Street NW Suite 100 Edmonton, AB T5K 2N2 Canada",53.5384766,-113.5034582,AB,45
+402,Bar Bricco,4.6,57,Italian,edmonton,AB,"10347 Jasper Avenue Edmonton, AB T5J 1Y7 Canada",53.5407484,-113.4987221,AB,45
+403,Sai Woo Garden Restaurant,3.9,52,Chinese,edmonton,AB,"10571 97 St NW Edmonton, AB T5H 2L4 Canada",53.5499707,-113.4883918,AB,25
+404,Rocky Mountain Icehouse,3.5,74,Southern,edmonton,AB,"10516 Jasper Avenue Edmonton, AB T5K 1X4 Canada",53.5411855,-113.5016248,AB,25
+405,Double Greeting Wonton House,4.1,59,Chinese,edmonton,AB,"10212 96 Street NW Edmonton, AB T5H 2G7 Canada",53.5448882,-113.4830567,AB,25
+406,Graze,2.8,4,Buffets,edmonton,AB,"11834 Kingsway Avenue Edmonton, AB T5G 3J5 Canada",53.56882359999999,-113.5239083,AB,25
+407,Allegro Italian Kitchen,4.4,16,Italian,edmonton,AB,"9650 142 Street NW Edmonton, AB T5N 4B2 Canada",53.5341684,-113.5669478,AB,45
+408,Gravy- Burgers And Fries,4.0,83,Breakfast & Brunch,edmonton,AB,"10933 - 120 Street Edmonton, AB T5H 3R3 Canada",53.5560467,-113.5285429,AB,25
+409,Nara Chicken & Tonkatsu,4.0,25,Japanese,edmonton,AB,"8712 150 Street NW Edmonton, AB T5R 5Y2 Canada",53.5199982,-113.5803252,AB,25
+410,The Wokkery Restaurant,3.4,16,Chinese,edmonton,AB,"10969 98 St NW Edmonton, AB T5H 2P7 Canada",53.5575959,-113.4927525,AB,25
+411,Frida Urban Taqueria,4.1,15,Mexican,edmonton,AB,"12411 Stony Plain Road Edmonton, AB T5N 3N3 Canada",53.5468881,-113.5367091,AB,25
+412,Blue Truck Barbecue,3.9,21,Barbeque,edmonton,AB,"16336 – 111 Avenue NW Edmonton, AB T5M 4G3 Canada",53.559892,-113.6049795,AB,25
+413,Boualouang Laos & Thai Cuisine,4.2,77,Thai,edmonton,AB,"10569 97th Street NW Edmonton, AB T5H 2L7 Canada",53.5499637,-113.4883928,AB,25
+414,Die Pie,4.3,74,Pizza,edmonton,AB,"11817 105 Avenue NW Edmonton, AB T5J 0L9 Canada",53.547993,-113.5263499,AB,25
+415,Pals Sandwiches,4.6,11,Sandwiches,edmonton,AB,"10335 83 Avenue NW Edmonton, AB T6E 2C6 Canada",53.5189742,-113.4971528,AB,25
+416,El Fogón Latino,4.5,21,Venezuelan,edmonton,AB,"8026 118 Avenue Edmonton, AB T5B 0R8 Canada",53.57063789999999,-113.4649005,AB,25
+417,Shumka Ukrainian Foods,3.5,21,Ukrainian,edmonton,AB,"21F Kingsway Garden Mall NW Edmonton, AB T5G 3A6 Canada",53.5553602,-113.4957388,AB,25
+418,Malt & Mortar,3.4,116,Gastropubs,edmonton,AB,"10416 82 Avenue Edmonton, AB T6E 2A2 Canada",53.5183937,-113.4981998,AB,25
+419,The Underground Tap & Grill,3.6,107,Pubs,edmonton,AB,"10004 Jasper Avenue NW Edmonton, AB T5J 1R3 Canada",53.5414626,-113.4906844,AB,25
+420,Noodle Feast,4.3,80,Chinese,edmonton,AB,"3440 99 Street NW Edmonton, AB T6E 5X5 Canada",53.4686084,-113.4879089,AB,25
+421,Hanjan,4.3,115,Korean,edmonton,AB,"3735 99 Street NW Edmonton, AB T6E 6J7 Canada",53.4712472,-113.485216,AB,25
+422,Kazoku Ramen,3.7,103,Ramen,edmonton,AB,"16518 100 Avenue NW Edmonton, AB T5P 4Y2 Canada",53.539669,-113.607027,AB,25
+423,Commodore Restaurant,4.0,66,Diners,edmonton,AB,"10712 Jasper Avenue NW Edmonton, AB T5J 2A7 Canada",53.5410997,-113.5052761,AB,10
+424,El Mariachi,3.8,38,International Grocery,edmonton,AB,"10991A 124 Street Edmonton, AB T5M 0H9 Canada",53.5570031,-113.5356246,AB,25
+425,Italian Centre Shop,4.6,142,Bakeries,edmonton,AB,"10878 95 Street NW Edmonton, AB T5H 2E4 Canada",53.5562651,-113.485181,AB,25
+426,Memphis Blues Barbeque House,3.1,61,Barbeque,edmonton,AB,"16907 127 Street NW Edmonton, AB T6V 0T1 Canada",53.6307499,-113.5392564,AB,25
+427,Nhatrang Vietnamese Restaurant,3.8,24,Vietnamese,edmonton,AB,"10120 111 Avenue NW Edmonton, AB T5G 0B3 Canada",53.5593375,-113.4948162,AB,25
+428,Japonais Bistro,4.1,158,Japanese,edmonton,AB,"11806 Jasper Avenue Edmonton, AB T5K 0C1 Canada",53.5412379,-113.5254655,AB,25
+429,Hansik,3.7,25,Korean,edmonton,AB,"13727 127St NW Edmonton, AB T6V 1A8 Canada",53.6004184,-113.5404203,AB,25
+430,Swiss 2 Go,4.3,73,Sandwiches,edmonton,AB,"4306-118 Avenue Edmonton, AB T5W 1B2 Canada",53.5706674,-113.407994,AB,25
+431,97 Hot Pot,4.2,65,Hot Pot,edmonton,AB,"10602 97 Street NW Edmonton, AB T5H 2L6 Canada",53.5503797,-113.489141,AB,25
+432,All Happy Family Restaurant,3.4,109,Chinese,edmonton,AB,"10011 106 Avenue NW Edmonton, AB T5H 0N8 Canada",53.549722,-113.492411,AB,25
+433,The Lingnan,3.8,125,Chinese,edmonton,AB,"10582 104 Street NW Edmonton, AB T5H 2W1 Canada",53.549507,-113.499488,AB,25
+434,East75 Restaurant & Lounge,3.3,4,American (Traditional),edmonton,AB,"7230 Argyll Road Edmonton, AB T6C 4A6 Canada",53.50984,-113.4412297,AB,25
+435,Coco Deep Fried Chicken,4.0,40,Chicken Shop,edmonton,AB,"12620E - 132 Avenue Edmonton, AB T5L 3P9 Canada",53.5922175,-113.5374592,AB,25
+436,Little Bee BBQ HK Cafe,3.7,15,Hong Kong Style Cafe,edmonton,AB,"13823 127th Street NW Edmonton, AB T6V 1A8 Canada",53.6011408,-113.5399718,AB,25
+437,Rebel Food & Drink,3.2,58,Wine Bars,edmonton,AB,"9112 142 Street NW Edmonton, AB T5R 0M7 Canada",53.5260523,-113.5660494,AB,45
+438,Coliseum Pizza & Steak,3.8,77,Steakhouses,edmonton,AB,"8015 118 Avenue NW Edmonton, AB T5B 0R7 Canada",53.5702483,-113.4649581,AB,25
+439,540 Kitchen & Bar,4.4,28,Gastropubs,fredericton,NB,"540 Queen St Fredericton, NB E3B 1B9 Canada",45.9615809,-66.6401594,NB,25
+440,Snooty Fox,4.0,91,Canadian (New),fredericton,NB,"66 Regent Street Fredericton, NB E3B 3W4 Canada",45.9607871,-66.63883659999999,NB,25
+441,The Palate,4.4,27,Canadian (New),fredericton,NB,"462 Queen Street Fredericton, NB E3B 1B6 Canada",45.9623621,-66.6419071,NB,25
+442,Moco Downtown,4.2,18,Italian,fredericton,NB,"100 Regent Street Fredericton, NB E3B 1G1 Canada",45.9602278,-66.6392425,NB,45
+443,11th Mile,5.0,7,Tapas/Small Plates,fredericton,NB,"79 York Street Fredericton, NB E3B 3N4 Canada",45.9626888,-66.6437676,NB,25
+444,The Cabin Restaurant,4.3,23,Canadian (New),fredericton,NB,"723 Woodstock Road Fredericton, NB E3B 5N8 Canada",45.96393620000001,-66.6777925,NB,25
+445,Diplomat Restaurant,2.8,44,Chinese,fredericton,NB,"253 Woodstock Road Fredericton, NB E3B 2H8 Canada",45.9641476,-66.6640774,NB,25
+446,Brewbakers,3.8,26,Steakhouses,fredericton,NB,"546 King Street Fredericton, NB E3B 1E6 Canada",45.9604678,-66.64111410000001,NB,45
+447,The Hilltop Maritime Tavern,3.2,19,Pubs,fredericton,NB,"1034 Prospect Street Fredericton, NB E3B 3C1 Canada",45.94115799999999,-66.668737,NB,25
+448,Number One Noodle,4.1,32,Vietnamese,fredericton,NB,"1012 Prospect Street Fredericton, NB E3B Canada",45.9416413,-66.6693417,NB,25
+449,Lunar Rogue Pub,3.7,41,Whiskey Bars,fredericton,NB,"625 King St Fredericton, NB E3B 1E9 Canada",45.96002,-66.63882,NB,25
+450,The Schnitzel Parlour,4.5,15,German,fredericton,NB,"304 Union Street Fredericton, NB E3A 3L9 Canada",45.9737612,-66.6416912,NB,25
+451,Red Lantern Pub & Steak House,4.4,8,Pubs,fredericton,NB,"182 Main Street Fredericton, NB E3A 1C8 Canada",45.977085,-66.65260119999999,NB,25
+452,777 Chinese Restaurant & Buffet,2.7,10,Chinese,fredericton,NB,"86-88 Main Street Fredericton, NB E3A 1C2 Canada",45.9802657,-66.6590094,NB,25
+453,Naru Sushi,3.9,17,Japanese,fredericton,NB,"536 Queen Street Fredericton, NB E3B 1B9 Canada",45.9616019,-66.64022779999999,NB,25
+454,MidSea Eatery,4.6,7,Middle Eastern,fredericton,NB,"99 Regent Street Fredericton, NB E3B 1G1 Canada",45.9603528,-66.6395933,NB,25
+455,Oriental Pearl Restaurant,3.1,7,Chinese,fredericton,NB,"440 Kimble Drive Fredericton, NB E3B 0K5 Canada",45.930055,-66.629274,NB,25
+456,The Dip Pool Bar & Grill,3.5,8,Wine Bars,fredericton,NB,"335 Woodstock Road Fredericton, NB E3B 2J2 Canada",45.963051,-66.66773599999999,NB,25
+457,Yassou Souvlaki & Donair,5.0,7,Greek,fredericton,NB,"1111 Regent Street Fredericton, NB E3B 3Z2 Canada",45.9408834,-66.6572637,NB,25
+458,Koto,3.7,11,Japanese,fredericton,NB,"90 Main Street Fredericton, NB E3A 1C5 Canada",45.9801946,-66.65860719999999,NB,25
+459,Thai Manao,3.1,17,Thai,fredericton,NB,"10 trinity drive Fredericton, NB E3C 0B8 Canada",45.9318552,-66.6630632,NB,25
+460,Boston Pizza,3.3,10,Pizza,fredericton,NB,"1230 Prospect Street Fredericton, NB E3B 3C2 Canada",45.93809,-66.6599643,NB,25
+461,Jonnie Java Roasters,4.9,10,Coffee & Tea,fredericton,NB,"95 York Street Fredericton, NB E3B 3N4 Canada",45.9623044,-66.6439769,NB,10
+462,Luna Pizza,3.5,16,Pizza,fredericton,NB,"91 York Street Fredericton, NB E3B 3N4 Canada",45.9625122,-66.6440406,NB,25
+463,Cinnamon Cafe,4.0,11,Coffee & Tea,fredericton,NB,"469 Rue King Street Fredericton, NB E3B 1E5 Canada",45.9616999,-66.64209509999999,NB,10
+464,Unplugged,3.3,3,Cafes,fredericton,NB,"418 Queen Street Fredericton, NB E3B 1B6 Canada",45.9627952,-66.6428711,NB,25
+465,Sweet Belgian Desire Cafe,4.7,15,Cafes,fredericton,NB,"23 Ashton Court Fredericton, NB E3C 0H8 Canada",45.9438678,-66.69587179999999,NB,50
+466,Sunshine Diner,3.1,14,Breakfast & Brunch,fredericton,NB,"7 Brookmount Street Fredericton, NB E3B 2J4 Canada",45.96374050000001,-66.6624716,NB,25
+467,The Coffee Mill,3.8,24,Breakfast & Brunch,fredericton,NB,"1187 Smythe Fredericton, NB E3B 3H4 Canada",45.9430778,-66.669696,NB,25
+468,Hana Ethiopian Cafe & Take-Out,5.0,6,Ethiopian,fredericton,NB,"154 Main Street Fredericton, NB E3A 1C8 Canada",45.9782495,-66.6540335,NB,10
+469,Bulgogi,2.8,6,Japanese,fredericton,NB,"459 King Street Fredericton, NB E3B 1E5 Canada",45.96163139999999,-66.6426017,NB,25
+470,Greco Pizza,4.0,3,Pizza,fredericton,NB,"529 Dundonald Street Fredericton, NB E3B 1X5 Canada",45.95417459999999,-66.6474382,NB,25
+471,Chess Piece Patisserie & Cafe,4.1,31,Desserts,fredericton,NB,"361 Queen st Fredericton, NB E3B 1B1 Canada",45.9635147,-66.6438663,NB,25
+472,Zensation,5.0,4,Vegetarian,fredericton,NB,"Northside Market 311 Saint Marys Street Fredericton, NB E3A 2S4 Canada",45.9778898,-66.6355282,NB,10
+473,Thai Spice,2.5,2,Thai,fredericton,NB,"277 Main Street Fredericton, NB E3A 1E1 Canada",45.9763201,-66.6472946,NB,25
+474,Thai Express,4.5,8,Thai,fredericton,NB,"1381 Regent Street Fredericton, NB E3C 1A2 Canada",45.93436759999999,-66.6638761,NB,10
+475,Rôtisserie St-Hubert,2.7,7,Chicken Shop,fredericton,NB,"22 Trinity Avenue Fredericton, NB E3C 0B8 Canada",45.9299566,-66.6646002,NB,10
+476,New England Pizza,3.3,12,Pizza,fredericton,NB,"612 Union St Fredericton, NB E3A 3N2 Canada",45.9676799,-66.6298218,NB,25
+477,Pizza Hut,4.0,4,Pizza,fredericton,NB,"230 Main Street Fredericton, NB E3A 1C9 Canada",45.9764603,-66.6502766,NB,25
+478,Pizza Hut,4.0,4,Pizza,fredericton,NB,"1180 Smythe Street Fredericton, NB E3B 3H5 Canada",45.9429964,-66.6688273,NB,25
+479,Subway,3.0,1,Sandwiches,fredericton,NB,"1055 Prospect Street Fredericton, NB E3B 3B9 Canada",45.9418221,-66.66654079999999,NB,10
+480,Subway,3.0,1,Sandwiches,fredericton,NB,"349 King Street Fredericton, NB E3B 1E4 Canada",45.9629077,-66.6447819,NB,10
+481,Subway,3.0,1,Sandwiches,fredericton,NB,"1111 Regent Street Unit 4 Fredericton, NB E3B 3Z2 Canada",45.9409085,-66.65754969999999,NB,10
+482,Subway,3.0,1,Sandwiches,fredericton,NB,"245 Bishop Drive Fredericton, NB E3C 1B1 Canada",45.9463371,-66.6846901,NB,10
+483,Pine Tree Pub,4.0,2,Breakfast & Brunch,fredericton,NB,"185 Gabriel Drive Fredericton, NB E3A 5R8 Canada",45.9862163,-66.62140839999999,NB,10
+484,A&W,2.5,6,Fast Food,fredericton,NB,"235 Main Street Main Street Plaza Fredericton, NB E3A 1E1 Canada",45.9765813,-66.648805,NB,25
+485,A&W,2.5,6,Fast Food,fredericton,NB,"1018 Prospect Street Prospect Plaza Fredericton, NB E3B 3C1 Canada",45.94151490000001,-66.6689384,NB,25
+486,A&W,2.5,6,Fast Food,fredericton,NB,"1381 Regent Street Regent Mall (Food Court) Fredericton, NB E3C 1A2 Canada",45.935194,-66.6647802,NB,25
+487,Tim Hortons,2.0,7,Coffee & Tea,fredericton,NB,"1189 Prospect St Fredericton, NB E3B 3B9 Canada",45.9395792,-66.66097719999999,NB,10
+488,KFC,1.0,3,Chicken Wings,fredericton,NB,"1165 Prospect Street Fredericton, NB E3B 3B9 Canada",45.9399527,-66.66186019999999,NB,25
+489,KFC,1.0,3,Chicken Wings,fredericton,NB,"283 Main Street Fredericton, NB E3A 1E3 Canada",45.9759018,-66.6468804,NB,25
+490,KFC,1.0,3,Chicken Wings,fredericton,NB,"154-1381 Regent Street Fredericton, NB E3C 1A2 Canada",45.93566570000001,-66.6654214,NB,25
+491,Pizza Delight,2.4,8,Pizza,fredericton,NB,"243 St Mary's Street Fredericton, NB E3A 2S5 Canada",45.9720485,-66.6309804,NB,25
+492,Pizza Delight,2.4,8,Pizza,fredericton,NB,"989 Prospect Street Fredericton, NB E3B 2T7 Canada",45.94310429999999,-66.6700326,NB,25
+493,Greco Pizza,1.0,2,Pizza,fredericton,NB,"102 Main Street Fredericton, NB E3A 9N6 Canada",45.9784419,-66.6580199,NB,25
+494,Tim Hortons,3.0,2,Coffee & Tea,fredericton,NB,"1713 Woodstock Rd Fredericton, NB E3C 1L4 Canada",45.9672197,-66.71550239999999,NB,10
+495,The Bicycle Thief,4.4,695,Italian,halifax,NS,"1475 Lower Water Street Halifax, NS B3J 3Z2 Canada",44.6431546,-63.5689192,NS,45
+496,Mic Mac Bar & Grill,4.4,92,Bars,halifax,NS,"217 Waverly Road Dartmouth, NS B2X 2C3 Canada",44.6943699,-63.5475765,NS,25
+497,EDNA Restaurant,4.5,139,Canadian (New),halifax,NS,"2053 Gottingen Street Halifax, NS B3K 3B3 Canada",44.6514645,-63.5823011,NS,25
+498,The Canteen,4.4,62,Sandwiches,halifax,NS,"22 Portland Street Dartmouth, NS B2Y 1G9 Canada",44.6646068,-63.5675286,NS,25
+499,2 Doors Down,4.2,316,Canadian (New),halifax,NS,"1533 Barrington Street Halifax, NS B3J 1Z4 Canada",44.6449225,-63.5725814,NS,25
+500,2 Doors Down,4.2,316,Canadian (New),halifax,NS,"149 Hector Gate Dartmouth, NS B3B 0E5 Canada",44.7052262,-63.5626061,NS,25
+501,Modern Orchid,3.8,55,Asian Fusion,halifax,NS,"171 Hector Gate Dartmouth, NS B3B 0E5 Canada",44.7057297,-63.5622905,NS,25
+502,Battery Park Beer Bar & Eatery,4.3,53,Gastropubs,halifax,NS,"62 Ochterloney Street Dartmouth, NS B2Y 1C2 Canada",44.6668743,-63.56785189999999,NS,25
+503,The Wooden Monkey,3.9,278,Bars,halifax,NS,"1707 Grafton Street Halifax, NS B3J 2C6 Canada",44.6470352,-63.575259,NS,25
+504,The Wooden Monkey,3.9,278,Bars,halifax,NS,"40 Alderney Drive Alderney Landing Dartmouth, NS B2Y 4W1 Canada",44.6650787,-63.5698954,NS,25
+505,The Five Fishermen Restaurant,3.8,237,Seafood,halifax,NS,"1740 Argyle Street Halifax, NS B3J 2B6 Canada",44.6477635,-63.5753053,NS,45
+506,The Foggy Goggle,4.0,216,Pubs,halifax,NS,"2057 Gottingen Halifax, NS B3K 3B2 Canada",44.6515478,-63.5823164,NS,25
+507,The Dill Pickle,4.4,16,Soup,halifax,NS,"250 Baker Drive Dartmouth, NS B2W 6L4 Canada",44.6574399,-63.530846,NS,10
+508,Vines Pasta Grill,3.8,63,Italian,halifax,NS,"4 Panavista Drive Dartmouth, NS B2W 3M8 Canada",44.6945862,-63.49631239999999,NS,25
+509,The Wooden Monkey,3.7,49,Gluten-Free,halifax,NS,"1707 Grafton Street Halifax, NS B3J 2C6 Canada",44.6470352,-63.575259,NS,25
+510,The Wooden Monkey,3.7,49,Gluten-Free,halifax,NS,"40 Alderney Drive Alderney Landing Dartmouth, NS B2Y 4W1 Canada",44.6650787,-63.5698954,NS,25
+511,True North Diner,3.8,48,American (Traditional),halifax,NS,"Bedford Place Mall 1658 Bedford Hwy Bedford, NS B4A 2X9 Canada",44.7354407,-63.6569181,NS,25
+512,Lot Six,4.2,101,Cocktail Bars,halifax,NS,"1685 Argyle Street Halifax, NS B3J Canada",44.6468944,-63.57453630000001,NS,45
+513,Edible Matters,4.1,77,Cafes,halifax,NS,"1345 Hammonds Plains Road Hammonds Plains, NS B4B 1P6 Canada",44.72730989999999,-63.74445289999999,NS,25
+514,Brooklyn Warehouse,4.0,116,Canadian (New),halifax,NS,"2795 Windsor Street Halifax, NS B3K Canada",44.65439809999999,-63.602259,NS,25
+515,Ela! Greek Taverna,4.0,50,Mediterranean,halifax,NS,"150 Hector Gate Dartmouth, NS B3B 0E6 Canada",44.7048688,-63.5614803,NS,25
+516,Cha Baa Thai,4.7,71,Thai,halifax,NS,"100 Ilsley Avenue Dartmouth, NS B3B 1L3 Canada",44.69952139999999,-63.5871876,NS,25
+517,Cha Baa Thai,4.7,71,Thai,halifax,NS,"1546 Queen St Halifax, NS B3J 2H8 Canada",44.6440209,-63.577071,NS,25
+518,The Turtleback Tap & Grill,4.3,26,American (Traditional),halifax,NS,"3187 Highway 2 Halifax, NS B2T 1J5 Canada",44.81357070000001,-63.60999679999999,NS,25
+519,Pleasant St Diner,4.5,37,American (Traditional),halifax,NS,"205 Pleasant Street Unit 101 Dartmouth, NS B2Y 3RS Canada",44.6608884,-63.5514945,NS,25
+520,Il Mercato,4.4,59,Italian,halifax,NS,"1595 Bedford Highway Halifax, NS B4A 1E8 Canada",44.7327089,-63.65484859999999,NS,45
+521,Usta Turkish & Mediterranean Restaurant,4.5,13,Mediterranean,halifax,NS,"635 Portland Hills Drive Dartmouth, NS B2W 0J7 Canada",44.6692834,-63.5072594,NS,25
+522,Ristorante a Mano,4.1,179,Italian,halifax,NS,"1477 Lower Water Street Halifax, NS B3J 3Z4 Canada",44.6443371,-63.56855229999999,NS,25
+523,Gio Restaurant,4.4,67,Canadian (New),halifax,NS,"1725 Market St Halifax, NS B3J 3N9 Canada",44.6473304,-63.57610870000001,NS,45
+524,Buta Ramen,4.5,69,Ramen,halifax,NS,"5190 Morris St Halifax, NS B3J 1B3 Canada",44.6417609,-63.5709603,NS,25
+525,Palladium Family Restaurant,3.9,48,Greek,halifax,NS,"942 Cole Harbour Road Dartmouth, NS B2V 1E6 Canada",44.6709796,-63.4963541,NS,25
+526,Byblos Lebanese Cuisine,4.5,15,Lebanese,halifax,NS,"644 Portland Street Dartmouth, NS B2W 6C4 Canada",44.6707786,-63.5261709,NS,25
+527,Wasabi Asian Cuisine,4.1,52,Japanese,halifax,NS,"556 Sackville Drive Lower Sackville, NS B4C 2S2 Canada",44.7670571,-63.68448749999999,NS,25
+528,Studio East Food+Drink,4.4,66,Gastropubs,halifax,NS,"6021 Cunard Street Halifax, NS B3K 1E5 Canada",44.6508145,-63.5931283,NS,25
+529,Shuck Seafood and Raw Bar,3.9,78,Seafood,halifax,NS,"5120 Salter Street Halifax, NS B3J 0A1 Canada",44.645094,-63.5708364,NS,25
+530,The Millstone Public House,3.5,35,American (Traditional),halifax,NS,"250 Baker Drive Dartmouth, NS B2W 6L4 Canada",44.6574399,-63.530846,NS,25
+531,The Millstone Public House,3.5,35,American (Traditional),halifax,NS,"67 King’s Wharf Place Suite 102 Dartmouth, NS B2Y 0C6 Canada",44.6633969,-63.5640524,NS,25
+532,The Millstone Public House,3.5,35,American (Traditional),halifax,NS,"50 Gary Martin Drive Bedford, NS B4B 1H3 Canada",44.7253286,-63.70281860000001,NS,25
+533,Brass Rail Restaurant,4.1,20,Seafood,halifax,NS,"978 Cole Harbour Road Dartmouth, NS B2V 1E7 Canada",44.6711725,-63.4932132,NS,25
+534,New Wing Wah,4.0,16,Chinese,halifax,NS,"347 Herring Cove Road Halifax, NS B3R 1V5 Canada",44.61408309999999,-63.6167783,NS,25
+535,The Old Triangle Irish Alehouse,3.9,171,Pubs,halifax,NS,"5136 Prince Street Halifax, NS B3J 1L4 Canada",44.6474885,-63.5724053,NS,25
+536,Busan Korean BBQ,4.2,52,Korean,halifax,NS,"6311 Quinpool Road Halifax, NS B3L 1A4 Canada",44.6451534,-63.599015,NS,25
+537,Harbour City Bar & Grill,3.8,32,Bars,halifax,NS,"1990 Barrington Street Halifax, NS B3J 1P2 Canada",44.6507037,-63.57781720000001,NS,45
+538,Moxies,3.3,63,Canadian (New),halifax,NS,"9 Countryview Dr Dartmouth, NS B3B 0G4 Canada",44.7008476,-63.56560709999999,NS,25
+539,Station1 Lebanese Kitchen,4.1,26,Syrian,halifax,NS,"50 Tacoma Drive Dartmouth, NS B2W 3E6 Canada",44.6796256,-63.5396031,NS,25
+540,The Barrington Steakhouse and Oyster Bar,3.9,57,Steakhouses,halifax,NS,"1662 Barrington Street Halifax, NS B3J 2A2 Canada",44.6466528,-63.5739216,NS,45
+541,Mappatura Bistro,4.3,19,Italian,halifax,NS,"5883 Spring Garden Road Halifax, NS B3H 4S4 Canada",44.6414997,-63.5839327,NS,45
+542,Backoos Korean ToGo Food,4.2,38,Korean,halifax,NS,"1358 Birmingham Street Halifax, NS B3J 2J2 Canada",44.6416592,-63.5764034,NS,10
+543,Parkside Pub & Grill,3.5,36,Pubs,halifax,NS,"14 Highfield Park Dr Dartmouth, NS B3A 4S8 Canada",44.6907814,-63.5855706,NS,25
+544,Boondocks Restaurant,3.1,41,Canadian (New),halifax,NS,"200 Government Wharf Rd Building 6 Halifax, NS B3G 1M7 Canada",44.6107011,-63.4957907,NS,25
+545,Aladdin,3.8,24,Mediterranean,halifax,NS,"746 Bedford Highway Halifax, NS B3M 2L9 Canada",44.7067907,-63.66492390000001,NS,25
+546,Pur & Simple,3.6,14,Breakfast & Brunch,halifax,NS,"535 Portland Street Unit 100 Dartmouth, NS L6H 6Z9 Canada",44.6705489,-63.5360417,NS,25
+547,The Press Gang Restaurant & Oyster Bar,4.1,142,Bars,halifax,NS,"5218 Prince Street Halifax, NS B3J 0B1 Canada",44.6470186,-63.5744128,NS,45
+548,A Taste of the East,4.4,19,Chinese,halifax,NS,"1589 Dresden Row Halifax, NS B3J 2K4 Canada",44.64460810000001,-63.57864309999999,NS,25
+549,Trendz Café and Wine Bar,4.3,14,Wine Bars,halifax,NS,"15 Spectacle Lake Drive Dartmouth, NS B3B 1X7 Canada",44.7001792,-63.5823395,NS,25
+550,The Stubborn Goat Gastropub,3.7,206,Gastropubs,halifax,NS,"1579 Grafton Street Halifax, NS B3J 2C3 Canada",44.6454428,-63.5743938,NS,25
+551,Lakeside Bar & Grill,4.0,6,Canadian (New),halifax,NS,"250 St Margarets Bay Road Halifax, NS B3N 1J4 Canada",44.6397451,-63.62415719999999,NS,25
+552,Ratinaud French Cuisine,4.0,7,French,halifax,NS,"2157 Gottingen Street Halifax, NS B3K 3B3 Canada",44.65269989999999,-63.58400100000001,NS,50
+553,La Cucina Cafe,2.6,52,Italian,halifax,NS,"151 Hector Gate Dartmouth, NS B3B 0E5 Canada",44.705313,-63.56264319999999,NS,25
+554,Mizu All You Can Eat,3.5,86,Japanese,halifax,NS,"644 Portland Street Dartmouth, NS B2W 6C4 Canada",44.6707786,-63.5261709,NS,25
+555,The Orient Chinese Cuisine,4.3,27,Chinese,halifax,NS,"227 Bedford HIghway Halifax, NS B3M 2J9 Canada",44.6763391,-63.64793479999999,NS,25
+556,Mirchi Tandoor,4.3,44,Indian,halifax,NS,"5232 Blowers Street Halifax, NS B3J 1J7 Canada",44.6449791,-63.57390470000001,NS,25
+557,Field Guide,4.1,38,Canadian (New),halifax,NS,"2076 Gottingen Street Halifax, NS B3K 3B4 Canada",44.6514864,-63.58280360000001,NS,25
+558,Highwayman,4.2,32,Cocktail Bars,halifax,NS,"1673 Barrington Street Halifax, NS B3J 1Z9 Canada",44.6469956,-63.57369629999999,NS,45
+559,Pho Hoang Minh Vietnamese Restaurant,3.9,83,Vietnamese,halifax,NS,"172 Wyse Road Dartmouth, NS B3A 1M6 Canada",44.67189279999999,-63.57961330000001,NS,10
+560,Stone Pizza,4.3,21,Pizza,halifax,NS,"79 Alderney Drive Dartmouth, NS B2Y 2N7 Canada",44.6645555,-63.5682578,NS,10
+561,Tako Sushi & Ramen,4.3,97,Sushi Bars,halifax,NS,"480 Parkland Drive Halifax, NS B3S 1P9 Canada",44.6709982,-63.6765449,NS,25
+562,Happy Veal Hot Pot,3.9,23,Chinese,halifax,NS,"1333 S Park Street Halifax, NS B3J 2K9 Canada",44.6405701,-63.57821449999999,NS,45
+563,Happy Veal Hot Pot,3.9,23,Chinese,halifax,NS,"1333 S Park Street Halifax, NS B3J 2K9 Canada",44.6405701,-63.57821449999999,NS,45
+564,Happy Veal Hot Pot,3.9,23,Chinese,halifax,NS,"1333 S Park Street Halifax, NS B3J 2K9 Canada",44.6405701,-63.57821449999999,NS,45
+565,Happy Veal Hot Pot,3.9,23,Chinese,halifax,NS,"1333 S Park Street Halifax, NS B3J 2K9 Canada",44.6405701,-63.57821449999999,NS,45
+566,Happy Veal Hot Pot,3.9,23,Chinese,halifax,NS,"1333 S Park Street Halifax, NS B3J 2K9 Canada",44.6405701,-63.57821449999999,NS,45
+567,Happy Veal Hot Pot,3.9,23,Chinese,halifax,NS,"1333 S Park Street Halifax, NS B3J 2K9 Canada",44.6405701,-63.57821449999999,NS,45
+568,Happy Veal Hot Pot,3.9,23,Chinese,halifax,NS,"1333 S Park Street Halifax, NS B3J 2K9 Canada",44.6405701,-63.57821449999999,NS,45
+569,Happy Veal Hot Pot,3.9,23,Chinese,halifax,NS,"1333 S Park Street Halifax, NS B3J 2K9 Canada",44.6405701,-63.57821449999999,NS,45
+570,Happy Veal Hot Pot,3.9,23,Chinese,halifax,NS,"1333 S Park Street Halifax, NS B3J 2K9 Canada",44.6405701,-63.57821449999999,NS,45
+571,Happy Veal Hot Pot,3.9,23,Chinese,halifax,NS,"1333 S Park Street Halifax, NS B3J 2K9 Canada",44.6405701,-63.57821449999999,NS,45
+572,Happy Veal Hot Pot,3.9,23,Chinese,halifax,NS,"1333 S Park Street Halifax, NS B3J 2K9 Canada",44.6405701,-63.57821449999999,NS,45
+573,Happy Veal Hot Pot,3.9,23,Chinese,halifax,NS,"1333 S Park Street Halifax, NS B3J 2K9 Canada",44.6405701,-63.57821449999999,NS,45
+574,Happy Veal Hot Pot,3.9,23,Chinese,halifax,NS,"1333 S Park Street Halifax, NS B3J 2K9 Canada",44.6405701,-63.57821449999999,NS,45
+575,Happy Veal Hot Pot,3.9,23,Chinese,halifax,NS,"1333 S Park Street Halifax, NS B3J 2K9 Canada",44.6405701,-63.57821449999999,NS,45
+576,Happy Veal Hot Pot,3.9,23,Chinese,halifax,NS,"1333 S Park Street Halifax, NS B3J 2K9 Canada",44.6405701,-63.57821449999999,NS,45
+577,Happy Veal Hot Pot,3.9,23,Chinese,halifax,NS,"1333 S Park Street Halifax, NS B3J 2K9 Canada",44.6405701,-63.57821449999999,NS,45
+578,Happy Veal Hot Pot,3.9,23,Chinese,halifax,NS,"1333 S Park Street Halifax, NS B3J 2K9 Canada",44.6405701,-63.57821449999999,NS,45
+579,Happy Veal Hot Pot,3.9,23,Chinese,halifax,NS,"1333 S Park Street Halifax, NS B3J 2K9 Canada",44.6405701,-63.57821449999999,NS,45
+580,Happy Veal Hot Pot,3.9,23,Chinese,halifax,NS,"1333 S Park Street Halifax, NS B3J 2K9 Canada",44.6405701,-63.57821449999999,NS,45
+581,Happy Veal Hot Pot,3.9,23,Chinese,halifax,NS,"1333 S Park Street Halifax, NS B3J 2K9 Canada",44.6405701,-63.57821449999999,NS,45
+582,Happy Veal Hot Pot,3.9,23,Chinese,halifax,NS,"1333 S Park Street Halifax, NS B3J 2K9 Canada",44.6405701,-63.57821449999999,NS,45
+583,Happy Veal Hot Pot,3.9,23,Chinese,halifax,NS,"1333 S Park Street Halifax, NS B3J 2K9 Canada",44.6405701,-63.57821449999999,NS,45
+584,Happy Veal Hot Pot,3.9,23,Chinese,halifax,NS,"1333 S Park Street Halifax, NS B3J 2K9 Canada",44.6405701,-63.57821449999999,NS,45
+585,Happy Veal Hot Pot,3.9,23,Chinese,halifax,NS,"1333 S Park Street Halifax, NS B3J 2K9 Canada",44.6405701,-63.57821449999999,NS,45
+586,Le Bistro By Liz,3.8,97,French,halifax,NS,"1333 S Park Street Halifax, NS B3J 2K9 Canada",44.6405701,-63.57821449999999,NS,25
+587,Heng Fung Restaurant,3.9,24,Chinese,halifax,NS,"179 Wyse Road Dartmouth, NS B3A Canada",44.6725401,-63.5824532,NS,25
+588,East of Grafton Tavern,4.0,31,Bars,halifax,NS,"1580 Argyle Street Halifax, NS B3J 1H5 Canada",44.6454803,-63.57412489999999,NS,45
+589,Cha Baa Thai,4.2,140,Thai,halifax,NS,"100 Ilsley Avenue Dartmouth, NS B3B 1L3 Canada",44.69952139999999,-63.5871876,NS,25
+590,Cha Baa Thai,4.2,140,Thai,halifax,NS,"1546 Queen St Halifax, NS B3J 2H8 Canada",44.6440209,-63.577071,NS,25
+591,Gordies on the Wharf,1.8,4,Diners,halifax,NS,"Fisherman's Cove 1 Government Wharf RD Eastern Passage, NS B3G Canada",44.6102432,-63.4932053,NS,10
+592,Dhaba,3.8,89,Indian,halifax,NS,"8 Oland Crescent Halifax, NS B3S 1C6 Canada",44.6470008,-63.6756622,NS,25
+593,Blue Elephant,4.5,21,Thai,halifax,NS,"81 Peakview Way Unit 100 Bedford, NS B3M 0G2 Canada",44.6983757,-63.68507459999999,NS,25
+594,Boneheads BBQ,3.8,146,Southern,halifax,NS,"1014 Barrington St Halifax, NS B3H 2P9 Canada",44.6363998,-63.56969479999999,NS,25
+595,Gangnam Korean BBQ,4.0,29,Korean,halifax,NS,"1261 Barrington Street Halifax, NS B3J 1Y2 Canada",44.6412953,-63.5707432,NS,25
+596,I Love Pho,3.1,43,Vietnamese,halifax,NS,"746 Bedford Highway Halifax, NS B3M 2L9 Canada",44.7067907,-63.66492390000001,NS,25
+597,Bluenose II Restaurant,3.4,135,Seafood,halifax,NS,"1824 Hollis Street Halifax, NS B3J 1W4 Canada",44.649309,-63.573854,NS,25
+598,Sushi Nami Royale,3.5,43,Sushi Bars,halifax,NS,"149 Hector Gate Dartmouth, NS B3B 0E5 Canada",44.7052262,-63.5626061,NS,25
+599,Sushi Nami Royale,3.5,43,Sushi Bars,halifax,NS,"1458 Queen Street Suite 102 Halifax, NS B3J 2H7 Canada",44.64231270000001,-63.5760024,NS,25
+600,St Louis Bar and Grill,2.4,43,Chicken Wings,halifax,NS,"547 Portland Street Unit 1 & 2 Dartmouth, NS B2Y 4B1 Canada",44.6714211,-63.53857749999999,NS,25
+601,Portland Street Creperie,4.4,40,Creperies,halifax,NS,"55 Portland Street Dartmouth, NS B2Y 1H1 Canada",44.6653186,-63.5671397,NS,10
+602,Agricola Street Brasserie,3.7,73,Brasseries,halifax,NS,"2540 Agricola Street Halifax, NS B3K 4C5 Canada",44.65459,-63.5928014,NS,45
+603,La Frasca Cibi & Vini,3.9,66,Italian,halifax,NS,"5650 Spring Garden Road Halifax, NS B3J 1H1 Canada",44.6425726,-63.5783842,NS,45
+604,7 Peppers Grill,4.4,25,Syrian,halifax,NS,"6169 Quinpool Road Halifax, NS B3L 4P6 Canada",44.646211,-63.5953121,NS,10
+605,Qiu Brothers Dumplings,4.0,43,Chinese,halifax,NS,"1335 Barrington Street Halifax, NS B3J 1Y9 Canada",44.6425069,-63.5714102,NS,25
+606,Acadian Fish & Chips,3.5,6,Fish & Chips,halifax,NS,"16 Dentith Road Spryfield Mall Spryfield, NS B3R 2H9 Canada",44.6120465,-63.61846869999999,NS,25
+607,Waterfront Warehouse,2.8,116,Seafood,halifax,NS,"1549 Lower Water Street Halifax, NS B3J 1S2 Canada",44.6458045,-63.5702282,NS,25
+608,Verano Food Purveyors,4.8,16,Latin American,halifax,NS,"1871 Hollis Street Halifax, NS B3J 3M8 Canada",44.6497815,-63.57360560000001,NS,25
+609,Sobeys,3.4,8,Grocery,halifax,NS,"60 Tacoma Drive Dartmouth, NS B2W 3E5 Canada",44.679145,-63.5379835,NS,25
+610,Eliot & Vine,4.3,24,Modern European,halifax,NS,"2305 Clifton Street Halifax, NS B3K 4T9 Canada",44.6508658,-63.5933572,NS,45
+611,The Armview Restaurant & Lounge,4.1,115,Diners,halifax,NS,"7156 Chebucto Road Halifax, NS B3L 1N4 Canada",44.642305,-63.619647,NS,25
+612,King Street Fish & Chips,3.8,12,Food Stands,halifax,NS,"59 King St Dartmouth, NS B2Y 1H2 Canada",44.6658869,-63.5675104,NS,10
+613,Bai Wei Grill Bar,3.4,7,Asian Fusion,halifax,NS,"1075 Queen Street South End, NS B3H 1M5 Canada",44.6367714,-63.5728046,NS,25
+614,Caribbean Bliss,4.1,25,Caribbean,halifax,NS,"3619 Novalea Drive Halifax, NS B3K 3G1 Canada",44.6694185,-63.6086023,NS,25
+615,New Panda Buffet,2.6,100,Buffets,halifax,NS,"100 Main St Dartmouth, NS B2X 1R5 Canada",44.6805517,-63.54176649999999,NS,25
+616,Big Leagues,2.7,19,Pubs,halifax,NS,"920 Cole Harbour Road Dartmouth, NS B2V 2J5 Canada",44.6703465,-63.4979887,NS,25
+617,Old Port Pub & Grill,3.5,20,Pubs,halifax,NS,"900 Windmill Road Halifax, NS B3B 1P7 Canada",44.70429,-63.61187029999999,NS,25
+618,Morris East,4.0,43,Canadian (New),halifax,NS,"620 Nine Mile Drive Unit 1-9 Bedford, NS B4A 0H4 Canada",44.7010826,-63.68572820000001,NS,25
+619,Talay Thai,4.1,30,Thai,halifax,NS,"984 Cole Harbour Road Dartmouth, NS B2V 1E7 Canada",44.6711675,-63.49241540000001,NS,25
+620,Patrons Bar & Grill,4.2,9,Venues & Event Spaces,halifax,NS,"27 Dellridge Lane Unit 105 Bedford, NS B4A 0H1 Canada",44.701953,-63.68785099999999,NS,25
+621,Station Six,3.7,29,Bars,halifax,NS,"247 Herring Cove Road Halifax, NS B3P 1L6 Canada",44.6201818,-63.6171113,NS,25
+622,Pavia Gallery - Espresso Bar & Cafe,4.3,25,Art Galleries,halifax,NS,"995 Herring Cove Road Pavia Gallery Herring Cove, NS B3V 1H6 Canada",44.570223,-63.56852999999999,NS,25
+623,Man Bean,4.4,16,Vietnamese,halifax,NS,"1284 Barrington Street Halifax, NS B3J 1Y5 Canada",44.6415635,-63.5714426,NS,25
+624,Ko-Doraku,4.4,56,Sushi Bars,halifax,NS,"5640 Spring Garden Road Halifax, NS B3J 3M7 Canada",44.6425498,-63.5780228,NS,10
+625,Lemon Dogs Burgers & Lemonade,4.6,9,Burgers,halifax,NS,"54 Locks Road Dartmouth, NS B2X 2W7 Canada",44.7020193,-63.55351160000001,NS,10
+626,Stories Fine Dining,4.6,19,Canadian (New),halifax,NS,"5184 Morris St Halifax, NS B3J 1B3 Canada",44.6417735,-63.57085470000001,NS,50
+627,Harbourstone Pour House,3.3,25,Bars,halifax,NS,"1919 Upper Water Street Halifax, NS B3J 3J5 Canada",44.6511335,-63.57374240000001,NS,25
+628,Chkn Chop,3.5,36,Chicken Shop,halifax,NS,"6041 North Street Halifax, NS B3K 1P1 Canada",44.6541973,-63.596022,NS,25
+629,Arirang Korean & Japanese Restaurant,4.0,47,Japanese,halifax,NS,"30 Farnham Gate Road Halifax, NS B3M 3W8 Canada",44.6722348,-63.6647742,NS,25
+630,The Carleton,3.9,50,Bars,halifax,NS,"1685 Argyle Street Halifax, NS B3J 2B5 Canada",44.6468944,-63.57453630000001,NS,25
+631,Hungry Hut,3.8,19,Pizza,halifax,NS,"135 Ochterloney Street Dartmouth, NS B2Y 1C9 Canada",44.6694678,-63.565408,NS,10
+632,Shawarman Pizza & Subs,4.7,6,Donairs,halifax,NS,"342 Windmill Road Dartmouth, NS B3A 1J1 Canada",44.6798511,-63.59459189999999,NS,25
+633,El Chino Snack Bar,4.4,11,Mexican,halifax,NS,"2398 Robie St Halifax, NS B3K Canada",44.6510488,-63.5927594,NS,45
+634,Truly Tasty,3.8,84,Chinese,halifax,NS,"6214 Quinpool Road Halifax, NS B3L 1A3 Canada",44.6455768,-63.5962589,NS,25
+635,Sushi Nami Royale,3.8,66,Japanese,halifax,NS,"149 Hector Gate Dartmouth, NS B3B 0E5 Canada",44.7052262,-63.5626061,NS,25
+636,Sushi Nami Royale,3.8,66,Japanese,halifax,NS,"1458 Queen Street Suite 102 Halifax, NS B3J 2H7 Canada",44.64231270000001,-63.5760024,NS,25
+637,Piatto Pizzeria + Enoteca,3.8,102,Pizza,halifax,NS,"5144 Morris Street Halifax, NS B3J 1T6 Canada",44.6418513,-63.5695988,NS,25
+638,The Lower Deck,3.3,121,Bars,halifax,NS,"1887 Upper Water St Halifax, NS B0J 1W5 Canada",44.6505677,-63.573121,NS,25
+639,Yum Yum,4.2,6,Chinese,halifax,NS,"32 Albro Lake Road Dartmouth, NS B3A 3X8 Canada",44.676122,-63.5874324,NS,10
+640,El Centro Pizza,3.9,7,Pizza,halifax,NS,"2652 Lawrencetown Rd Halifax, NS B2Z 1L2 Canada",44.6817997,-63.4108088,NS,25
+641,IHOP,1.9,34,Breakfast & Brunch,halifax,NS,"80 Hogan Court Bedford, NS B4B 2H1 Canada",44.696387,-63.6905807,NS,25
+642,Nayya Restaurant,4.4,20,Mediterranean,halifax,NS,"540 Southgate Drive Bedford, NS B4A 0E1 Canada",44.7016886,-63.67758430000001,NS,25
+643,Encore,1.8,5,Canadian (New),halifax,NS,"3009 Highway #2 Halifax, NS B2T 1J5 Canada",44.8070694,-63.6072986,NS,25
+644,Esquire Restaurant,3.5,51,American (Traditional),halifax,NS,"772 Bedford Hwy Bedford, NS B4A 1A2 Canada",44.7079235,-63.6665179,NS,25
+645,Wasabi House,3.8,188,Japanese,halifax,NS,"6403 Quinpool Road Halifax, NS B3L 1A7 Canada",44.644649,-63.6005585,NS,25
+646,Paulo & Suzanne,4.3,103,Diners,montreal,QC,"5501 Boulevard Gouin O Montreal, QC H4J 1C8 Canada",45.5338649,-73.717242,QC,25
+647,Kazu,4.3,721,Japanese,montreal,QC,"1844 Rue Sainte-Catherine O Montreal, QC H3H 1M1 Canada",45.493037,-73.579836,QC,25
+648,Damas,4.7,414,Syrian,montreal,QC,"1201 Avenue Van Horne Montreal, QC H2V 1K4 Canada",45.5225641,-73.61321180000002,QC,45
+649,Bottega,3.9,56,Pizza,montreal,QC,"2059 Boulevard Saint-Martin Ouest Laval, QC H7S 1N3 Canada",45.5647977,-73.7345801,QC,25
+650,Il Focolaio,4.3,477,Pizza,montreal,QC,"1223 Rue du Square-Phillips Montreal, QC H3B 3E9 Canada",45.5040151,-73.5681774,QC,25
+651,Joe Beef,4.3,743,Seafood,montreal,QC,"2491 Rue Notre-Dame Ouest Montreal, QC H3J 1N6 Canada",45.483069,-73.5752691,QC,45
+652,Restaurant Yi Pin Xiang,3.9,31,Chinese,montreal,QC,"735 boul Décarie Saint-Laurent, QC H4L 3L3 Canada",45.5111798,-73.67747539999999,QC,25
+653,Gyu-Kaku Japanese BBQ,4.4,195,Japanese,montreal,QC,"1255 Rue Crescent Montreal, QC H3G 2B1 Canada",45.4969703,-73.5750572,QC,45
+654,KINTON RAMEN,4.4,59,Ramen,montreal,QC,"2575 Boulevard Daniel-Johnson Laval, QC H7T 1S8 Canada",45.5696632,-73.7570161,QC,25
+655,Phnom Penh,4.8,17,Vietnamese,montreal,QC,"7153 Chemin de la Côte-des-Neiges Montreal, QC H3R 2M2 Canada",45.5053098,-73.6416323,QC,25
+656,KINKA IZAKAYA MONTREAL,3.9,369,Japanese,montreal,QC,"1624 Rue Sainte-Catherine Ouest Montreal, QC H3H 2S7 Canada",45.4893389,-73.584505,QC,25
+657,Maison Mignon,4.3,49,Taiwanese,montreal,QC,"1440 Rue de l'Eglise Saint-Laurent, QC H4L 2H3 Canada",45.5121365,-73.67736959999999,QC,10
+658,Les Deux Gamins,4.2,593,French,montreal,QC,"170 Rue Prince Arthur E Montreal, QC H2X 1B7 Canada",45.515472,-73.570962,QC,25
+659,Rasputin,4.1,10,Russian,montreal,QC,"617 Boulevard Decarie Saint-Laurent, QC H4L 3L2 Canada",45.5098036,-73.675322,QC,45
+660,La Luncheonette,4.4,32,Cafes,montreal,QC,"4271 Rue Saint-Jacques Montreal, QC H4C 1J7 Canada",45.4769002,-73.58835119999999,QC,10
+661,Au Pied de Cochon,4.2,1400,Canadian (New),montreal,QC,"536 Avenue Duluth E Montreal, QC H2L 1A9 Canada",45.5221259,-73.5743815,QC,45
+662,Fourchette Antillaise,4.3,13,Cajun/Creole,montreal,QC,"5968 Rue de Salaberry Montreal, QC H4J 1J8 Canada",45.52671609999999,-73.7133054,QC,25
+663,Pasta da Panza,4.8,47,Italian,montreal,QC,"3825 Boulevard Saint-Martin O Laval, QC H7T 1B2 Canada",45.5527414,-73.7588131,QC,25
+664,Pushap,4.2,160,Indian,montreal,QC,"5195 Rue Paré Montreal, QC H4P 1P4 Canada",45.4975343,-73.6538838,QC,10
+665,Marché Méli-Mélo,4.3,32,Haitian,montreal,QC,"640 Rue Jarry E Montreal, QC H2P 1V7 Canada",45.5447239,-73.62761510000001,QC,10
+666,La Banquise,4.0,2200,Poutineries,montreal,QC,"994 Rue Rachel E Montreal, QC H2J 2J3 Canada",45.5253117,-73.5746721,QC,25
+667,Arepera,4.4,326,Venezuelan,montreal,QC,"73 Rue Prince Arthur E Montreal, QC H2X 1B4 Canada",45.5148272,-73.5719771,QC,25
+668,RUBS American BBQ,4.0,136,Barbeque,montreal,QC,"699 Boulevard Curé-Labelle Laval, QC H7L 5R7 Canada",45.5891336,-73.78727549999999,QC,25
+669,Satay Brothers,4.1,291,Singaporean,montreal,QC,"3721 Rue Notre-Dame Ouest Montreal, QC H4C 1P8 Canada",45.4793169,-73.5818739,QC,25
+670,La Belle et la Boeuf,3.8,122,Burgers,montreal,QC,"510 Promenade de Centropolis Laval, QC H7T 3C2 Canada",45.5611465,-73.7459071,QC,25
+671,Le Majestique,4.4,199,Bars,montreal,QC,"4105 Boulevard Saint-Laurent Montreal, QC H2W 1Y7 Canada",45.51756940000001,-73.580276,QC,25
+672,Bol Orange,4.3,62,Korean,montreal,QC,"983 Boulevard Décarie Montreal, QC H4L 3M6 Canada",45.514161,-73.6822895,QC,25
+673,Bar George,4.3,222,British,montreal,QC,"1440 Rue Drummond Montreal, QC H3G 1V9 Canada",45.4990691,-73.5757489,QC,25
+674,Beroya Restaurant,4.3,56,Mediterranean,montreal,QC,"3455 Boulevard Saint-Martin O Laval, QC H7T 1A2 Canada",45.5557034,-73.75208599999999,QC,25
+675,Beaufort,4.0,34,Bistros,montreal,QC,"6653 Rue St-Hubert Montreal, QC H2S 2M5 Canada",45.5374437,-73.6056463,QC,25
+676,Piatti Pronti,4.2,9,Italian,montreal,QC,"1794 Boulevard le Corbusier Laval, QC H7S 2K1 Canada",45.5672763,-73.7359519,QC,25
+677,Brazas Portugal,3.9,25,Portuguese,montreal,QC,"169A Boulevard Sainte-Rose Laval, QC H7L 1L2 Canada",45.615823,-73.7841454,QC,25
+678,Grigio,4.1,15,Italian,montreal,QC,"993 Boulevard Saint-Martin Ouest Laval, QC H7S 1M5 Canada",45.57251489999999,-73.72034169999999,QC,25
+679,Restaurant Ermitage,4.8,19,Russian,montreal,QC,"5024, ch de la Côte-des-Neiges Montreal, QC H3V 1G6 Canada",45.4946327,-73.6185302,QC,45
+680,Sen Vang,4.5,51,Vietnamese,montreal,QC,"5690 Avenue Victoria Montreal, QC H3W 2P8 Canada",45.4920358,-73.63277570000001,QC,10
+681,Bâton Rouge Steakhouse & Bar,3.4,45,Seafood,montreal,QC,"3035 Boulevard le Carrefour Laval, QC H7T 1C8 Canada",45.5694188,-73.7518262,QC,45
+682,Nouilles Zhonghua,4.4,38,Noodles,montreal,QC,"908 Rue Sherbrooke O Montreal, QC H3A 1G3 Canada",45.5032979,-73.5749436,QC,25
+683,Ave Seoul,3.8,42,Korean,montreal,QC,"885 Boulevard Décarie Montreal, QC H4L 3M2 Canada",45.5128542,-73.6802036,QC,25
+684,Dinette Triple Crown,4.4,271,Southern,montreal,QC,"6704 Rue Clark Montreal, QC H2S 3G2 Canada",45.5313656,-73.6131456,QC,25
+685,Toyo Japanese Steak House,3.3,15,Japanese,montreal,QC,"1510 Chomedey Boulevard Laval, QC H7V 3N8 Canada",45.5520845,-73.7471193,QC,45
+686,El Rey del Taco,4.0,188,Mexican,montreal,QC,"232 Rue Jean-Talon E Montreal, QC H2R 1S7 Canada",45.5364394,-73.6159795,QC,25
+687,Roch le Coq,4.2,46,Chicken Shop,montreal,QC,"1541 Avenue Van Horne Montreal, QC H2V 1L4 Canada",45.5186319,-73.616789,QC,25
+688,Joséphine,4.4,31,Seafood,montreal,QC,"4007 Rue Saint-Denis Montreal, QC H2W 2M4 Canada",45.5208464,-73.5755691,QC,25
+689,Christinas Cuisine,4.6,46,Greek,montreal,QC,"4367 Rue Notre Dame Laval, QC H7W 1T3 Canada",45.5379561,-73.7585631,QC,25
+690,Ten Teppanyaki & Izakaya,4.0,5,Japanese,montreal,QC,"11655 Boulevard Gouin Ouest Montreal, QC H8Y 1Y4 Canada",45.5089796,-73.8214035,QC,45
+691,Walter Bistro,4.7,11,French,montreal,QC,"1575 Rue Fleury Est Montreal, QC H2C 1S7 Canada",45.5635755,-73.6562131,QC,25
+692,MR PATTY,4.4,23,Caribbean,montreal,QC,"5312 Patricia Avenue Montreal, QC H4V 1Z2 Canada",45.4602097,-73.65437279999999,QC,10
+693,Well,4.5,42,Breakfast & Brunch,montreal,QC,"4567 Rue Wellington Montreal, QC H4G 1W8 Canada",45.4586604,-73.5675792,QC,25
+694,Boucherie et Grillades Rayan,4.8,4,Butcher,montreal,QC,"3082 Boulevard Cartier O Laval, QC H7V 1J5 Canada",45.5417359,-73.7278814,QC,10
+695,Chez Wafi,4.8,13,Lebanese,montreal,QC,"597 Boulevard Côte Vertu Saint-Laurent, QC H4L Canada",45.522665,-73.673327,QC,10
+696,Restaurant Makoto,4.0,41,Japanese,montreal,QC,"7112 Boulevard Saint-Laurent Montreal, QC H2S 3E2 Canada",45.533956,-73.617153,QC,25
+697,Hansang,4.6,43,Korean,montreal,QC,"5136 Avenue du Parc Montreal, QC H2V 4G5 Canada",45.5197603,-73.5967431,QC,25
+698,La Bêtise,4.0,43,Tapas Bars,montreal,QC,"6015 Saint-Hubert Montreal, QC H2S 2L8 Canada",45.53467269999999,-73.5993408,QC,25
+699,Kam Shing,3.7,31,Chinese,montreal,QC,"575 Boulevard Saint-Martin O Laval, QC H7M 1Y9 Canada",45.5766059,-73.7133532,QC,25
+700,Tandoori Palace,3.8,34,Indian,montreal,QC,"3424 Boulevard Cartier O Laval, QC H7V 1K2 Canada",45.5390679,-73.7330499,QC,25
+701,Kitchen 73,3.7,55,Breakfast & Brunch,montreal,QC,"1661 Boulevard de l'Avenir Laval, QC H7S 2N5 Canada",45.5664586,-73.72685729999999,QC,25
+702,Oui Mais Non,4.7,62,Cafes,montreal,QC,"72 Rue Jarry Est Montreal, QC H2P 1T1 Canada",45.5396749,-73.6306176,QC,10
+703,Le Chalutier,4.3,14,Canadian (New),montreal,QC,"1031 Boulevard des Laurentides Laval, QC H7G 2V8 Canada",45.575267,-73.697093,QC,25
+704,Birreria Itali.co,3.6,45,Gastropubs,montreal,QC,"3131 Boulevard de la Côte-Vertu Saint-Laurent, QC H4R 1Y6 Canada",45.4986307,-73.7064041,QC,25
+705,Les Faims Finauds,4.5,6,French,montreal,QC,"9443 Rue Lajeunesse Montreal, QC H2M 1S5 Canada",45.5502837,-73.6505584,QC,25
+706,Bar Suzanne,4.1,47,Speakeasies,montreal,QC,"20 Avenue Duluth E Montreal, QC H2W 1G6 Canada",45.5172616,-73.578972,QC,25
+707,Auberge du Dragon Rouge,4.6,50,Dinner Theater,montreal,QC,"8870 Rue Lajeunesse Montreal, QC H2M 1R6 Canada",45.5472499,-73.64141880000001,QC,45
+708,Madre,3.9,7,Seafood,montreal,QC,"124 Rue Fleury Ouest Montreal, QC H3L 1T4 Canada",45.5466452,-73.6657693,QC,25
+709,Le Professeur,3.9,16,Lebanese,montreal,QC,"9735 Boulevard de l'Acadie Montreal, QC H4N 2W2 Canada",45.5357659,-73.664576,QC,25
+710,Garage Beirut,4.3,176,Lebanese,montreal,QC,"1238 rue Mackay Montreal, QC H3G 2H4 Canada",45.4951918,-73.57623219999999,QC,25
+711,Kyoto,4.5,31,Japanese,montreal,QC,"861 Boulevard Decarie Saint-Laurent, QC H4L 3L7 Canada",45.51262879999999,-73.6794604,QC,25
+712,The Keg Steakhouse + Bar - Laval,4.0,71,Steakhouses,montreal,QC,"3035 Boul Le Carrefour Laval, QC H7T 1C8 Canada",45.5694188,-73.7518262,QC,45
+713,Escondite,4.1,245,Bars,montreal,QC,"1206 Avenue Union Montreal, QC H3B 3A7 Canada",45.502992,-73.5678938,QC,25
+714,Daou,4.0,25,Lebanese,montreal,QC,"2373 Boulevard Marcel-Laurin Saint-Laurent, QC H4R 1K4 Canada",45.5206135,-73.7040069,QC,25
+715,Madisons,3.3,16,American (Traditional),montreal,QC,"1695 Boulevard de l'Avenir Laval, QC H7S 2N5 Canada",45.5668085,-73.7278201,QC,25
+716,Le Boating Club,3.9,15,Breakfast & Brunch,montreal,QC,"30 Boulevard Curé-labelle Laval, QC H7L 3B5 Canada",45.6116918,-73.7921338,QC,45
+717,Saint Sushi Plateau,4.5,366,Sushi Bars,montreal,QC,"424 Avenue Duluth E Montreal, QC H2L 1A3 Canada",45.5211176,-73.5753568,QC,25
+718,Le Virunga,4.7,39,African,montreal,QC,"851 Rue Rachel E Montreal, QC H2J 2H9 Canada",45.52409979999999,-73.5762283,QC,45
+719,Yokato Yokabai,4.2,470,Ramen,montreal,QC,"4185 Rue Drolet Montreal, QC H2W 2L5 Canada",45.5211845,-73.5785612,QC,25
+720,Maison Minh,4.6,5,Vietnamese,montreal,QC,"488 Boulevard des Laurentides Laval, QC H7G 2V1 Canada",45.569683,-73.6917905,QC,25
+721,Les Cavistes,3.8,13,French,montreal,QC,"196 Rue Fleury O Montreal, QC H3L 1T5 Canada",45.54578619999999,-73.666207,QC,25
+722,Shanghai 360,3.7,6,Chinese,montreal,QC,"3035 Boulevard le Carrefour Laval, QC H7T 1C8 Canada",45.5694188,-73.7518262,QC,25
+723,San Gennaro,4.3,45,Pizza,montreal,QC,"69 Rue Saint-Zotique Est Montreal, QC H2S 1K7 Canada",45.5328169,-73.6112888,QC,10
+724,Le Petit Italien,3.6,27,Italian,montreal,QC,"1265 Rue Bernard O Outremont, QC H2V 1V8 Canada",45.5197383,-73.6092604,QC,25
+725,Mucho Burrito Fresh Mexican Grill,3.7,6,Mexican,montreal,QC,"1029 Marché Central Montreal, QC H4N 1J8 Canada",45.5346029,-73.65425789999999,QC,10
+726,Le Steak Frites St-Paul,3.7,10,Steakhouses,montreal,QC,"2125 Boulevard le Carrefour Boul Laval, QC H7S 2J7 Canada",45.5719704,-73.7427076,QC,45
+727,Restaurant Calvi,4.5,10,Italian,montreal,QC,"2940 Ave Pierre-Péladeau Laval, QC H7T 3B3 Canada",45.56312,-73.744751,QC,45
+728,Le Petit Flore,4.2,10,French,montreal,QC,"1145 Rue Fleury E Montreal, QC H2C 1P9 Canada",45.55863069999999,-73.659089,QC,25
+729,The Dumpling Hut,4.5,99,Chinese,montreal,QC,"3591 Rue Clark Montreal, QC H2X 2R9 Canada",45.5132831,-73.5725783,QC,25
+730,Le Pick-Up,4.6,85,Convenience Stores,montreal,QC,"7032 Rue Waverly Montreal, QC H2S 3J2 Canada",45.5318305,-73.6176596,QC,10
+731,Antep Kabab,4.4,123,Turkish,montreal,QC,"1626 Boulevard de Maisonneuve O Montreal, QC H3H 2N4 Canada",45.4952139,-73.5795416,QC,10
+732,Resto la Menthe Poivrée,4.5,11,French,montreal,QC,"2379 Boulevard Rosemont Montreal, QC H2G 1T9 Canada",45.54567,-73.5872569,QC,25
+733,Bistro Nolah,4.3,77,Southern,montreal,QC,"3669 Boulevard Saint-Jean Dollard-des-Ormeaux, QC H9G 1X2 Canada",45.4722837,-73.83221979999999,QC,25
+734,Table 51,3.3,60,Bars,montreal,QC,"3035 Boulevard Le Carrefour Laval, QC H7T 1C8 Canada",45.5694188,-73.7518262,QC,25
+735,Maria Bonita,4.2,31,Mexican,montreal,QC,"5163 Boulevard Saint-Laurent Montreal, QC H2T 1R9 Canada",45.5236601,-73.5938796,QC,25
+736,Le Colonel Moutarde,4.5,26,Canadian (New),montreal,QC,"4418 Rue Saint-Denis Montreal, QC H2J 2L1 Canada",45.5233065,-73.581856,QC,25
+737,Burger de Ville,4.4,19,Burgers,montreal,QC,"7093 Jarry E Montreal, QC H1J 1G3 Canada",45.6015782,-73.5762965,QC,10
+738,Lasagne Du Plateau,4.9,8,Italian,montreal,QC,"5007, Avenue Du Parc Montreal, QC H2V 4E9 Canada",45.519349,-73.5946623,QC,25
+739,Satay Brothers,4.2,81,Singaporean,montreal,QC,"138 Avenue Atwater Montreal, QC H4C 2H6 Canada",45.4796547,-73.5770991,QC,25
+740,Chez Gerard,4.1,7,Fast Food,montreal,QC,"46 Boulevard Cartier O Laval, QC H7N 2H4 Canada",45.5593894,-73.6884802,QC,25
+741,Boucherie Abu Elias,4.4,40,Middle Eastern,montreal,QC,"733 Boulevard de La Cote-Vertu Saint-Laurent, QC H4L 1Y3 Canada",45.521061,-73.6742542,QC,25
+742,Ottavio,3.7,31,Italian,montreal,QC,"1459 Boulevard Saint-Martin O Laval, QC H7S 1N1 Canada",45.5703094,-73.7245277,QC,25
+743,K-BBQ,4.0,36,Korean,montreal,QC,"4337 Boulevard Saint-Jean Dollard-des-Ormeaux, QC H9H 2A4 Canada",45.4814885,-73.8428624,QC,25
+744,Restaurant Lyla,3.9,20,Vietnamese,montreal,QC,"431 Jean-Talon Rue O Montreal, QC H3N 1P9 Canada",45.5294553,-73.6231887,QC,25
+745,LA BOULANGERIE PÂTISSERIE CONCORDE ARTISAN,4.0,2,Bakeries,montreal,QC,"608 Boulevard de la Concorde Ouest Laval, QC H7N 5R1 Canada",45.5617624,-73.70807719999999,QC,25
+746,Bành Mi Thinh,4.5,2,Vietnamese,montreal,QC,"8084 Rue Lajeunesse Montreal, QC H2R 2J6 Canada",45.5434718,-73.628095,QC,10
+747,Escondite,4.3,55,Mexican,montreal,QC,"2119 Boulevard le Carrefour Laval, QC H7S 1Z4 Canada",45.5721677,-73.7423496,QC,25
+748,20Ten City Eatery,3.9,7,Desserts,regina,SK,"2010 12th Avenue Regina, SK S4P 2B8 Canada",50.4491119,-104.6096929,SK,25
+749,Caraway Grill,4.5,49,Indian,regina,SK,"1625 Broad Street Regina, SK S4P 1X3 Canada",50.4525596,-104.6059291,SK,25
+750,The Fat Badger,3.9,20,Pubs,regina,SK,"1852 Scarth Street Regina, SK S4P 2G3 Canada",50.4494534,-104.6110486,SK,25
+751,The Diplomat Steakhouse,3.9,34,Steakhouses,regina,SK,"2032 Broad Street Regina, SK S4P 1Y3 Canada",50.4463889,-104.6067948,SK,45
+752,Skye Cafe & Bistro,4.8,8,Cafes,regina,SK,"2903 Powerhouse Drive Regina, SK S4N 0A1 Canada",50.4329533,-104.5941555,SK,25
+753,Mei Wei Bistro,4.3,24,Chinese,regina,SK,"4626 Albert Street Regina, SK S4S 6B4 Canada",50.4050764,-104.619663,SK,25
+754,Coney Island Cafe,4.4,17,Burgers,regina,SK,"4908 Dewdney Avenue Regina, SK S4T 1B8 Canada",50.4553904,-104.6513847,SK,10
+755,Quan Ngon Delicious Vietnamese Restaurant,4.4,20,Vietnamese,regina,SK,"227 Victoria Avenue Regina, SK S4N 0P4 Canada",50.44688,-104.5846051,SK,10
+756,Famoso Neapolitan Pizzeria,4.2,26,Pizza,regina,SK,"1881 Scarth Street Regina, SK S4P 4K9 Canada",50.44906,-104.6104207,SK,25
+757,The Copper Kettle Restaurant,3.4,31,Canadian (New),regina,SK,"1953 Scarth Street Regina, SK S4P 2H1 Canada",50.4477643,-104.6106907,SK,25
+758,Taste of Tuscany,3.2,5,Italian,regina,SK,"1851 Scarth Street Regina, SK S4P 2G9 Canada",50.4493455,-104.6106419,SK,25
+759,Moxies,4.3,24,Canadian (New),regina,SK,"1800 Victoria Avenue E Regina, SK S4N 7K3 Canada",50.4480824,-104.5587951,SK,25
+760,Wild Sage Kitchen & Bar,3.4,17,Canadian (New),regina,SK,"1975 Broad Street Regina, SK S4P 1Y1 Canada",50.4480833,-104.6061254,SK,25
+761,Siam Authentic Thai Restaurant,3.5,22,Thai,regina,SK,"1946 Hamilton Street Regina, SK S4P 2C4 Canada",50.447905,-104.6097856,SK,25
+762,Italian Star Deli,4.6,16,Delis,regina,SK,"1611 Victoria Avenue Regina, SK S4P 0P8 Canada",50.4469034,-104.6039015,SK,10
+763,The Rooftop Bar & Grill,3.2,17,American (Traditional),regina,SK,"1845 Victoria Avenue Regina, SK S4P 0R2 Canada",50.4468245,-104.6072585,SK,25
+764,Memories Dining & Bar,3.8,15,French,regina,SK,"1717 Victoria Avenue Regina, SK S4P 0P9 Canada",50.4468928,-104.6054355,SK,50
+765,Mai Phuong Restaurant,4.2,6,Vietnamese,regina,SK,"1821 Broad Street Regina, SK S4P 1X7 Canada",50.4498962,-104.6061987,SK,10
+766,Regent Family Restaurant,3.8,4,Pizza,regina,SK,"3823 Sherwood Drive Regina, SK S4R 6N1 Canada",50.4742878,-104.636387,SK,25
+767,Moxies,3.6,35,Seafood,regina,SK,"2605 Gordon Rd Regina, SK S4S 6H7 Canada",50.4041894,-104.6194641,SK,45
+768,The Canadian Brewhouse,2.8,18,Sports Bars,regina,SK,"4820 Gordon Road Regina, SK S4W 0B7 Canada",50.40739199999999,-104.649987,SK,25
+769,Peking House,3.4,12,Chinese,regina,SK,"1850 Rose Street Regina, SK S4P 3Y9 Canada",50.4497977,-104.6082241,SK,25
+770,Fireside Bistro,3.6,26,Bistros,regina,SK,"2305 Smith Street Regina, SK S4P 2P7 Canada",50.4422962,-104.6147604,SK,45
+771,The French Press,4.2,11,Cafes,regina,SK,"4114 Albert Street Regina, SK S4S 3R8 Canada",50.413374,-104.619015,SK,45
+772,Afghan Cuisine,4.1,13,Afghan,regina,SK,"832 Albert Street Regina, SK S4R 2P5 Canada",50.4653121,-104.6193141,SK,25
+773,Tangerine,4.0,10,Sandwiches,regina,SK,"2234 14th Avenue Regina, SK S4P 0X8 Canada",50.4441135,-104.6134383,SK,10
+774,Breakfast Bistro,3.4,32,Breakfast & Brunch,regina,SK,"3215 Quance Street E Regina, SK S4V 3B7 Canada",50.4448704,-104.5382305,SK,25
+775,Café Français,4.6,16,Bakeries,regina,SK,"1-425 Victoria Avenue E Regina, SK S4N 0N8 Canada",50.4468662,-104.5781887,SK,25
+776,I Like Sushi,3.3,7,Sushi Bars,regina,SK,"5875 Rochdale Boulevard Suite 16 Regina, SK S4X 2P9 Canada",50.4951598,-104.6657333,SK,25
+777,The Lobby Kitchen and Bar,3.1,7,Bars,regina,SK,"2545 S Broad Street Regina, SK S4P 0M9 Canada",50.4386939,-104.6057627,SK,25
+778,Marokena Crepe Cafe,4.8,8,Creperies,regina,SK,"5950 Rochdale Boulevard Suite 3 Regina, SK S4X 4J7 Canada",50.4963373,-104.6676062,SK,25
+779,Juliana PIZZA & Launge,3.4,7,Pizza,regina,SK,"5064 4th Avenue Regina, SK S4T 0J6 Canada",50.4635225,-104.6542931,SK,25
+780,Browns Socialhouse Eastgate,3.7,16,Canadian (New),regina,SK,"3610 Eastgate Drive Regina, SK S4Z 1A5 Canada",50.4516684,-104.5316383,SK,25
+781,Orange Izakaya,3.6,10,Korean,regina,SK,"A-2136 Robinson Street Regina, SK S4T 2P7 Canada",50.4448195,-104.6242069,SK,25
+782,Wann Izakaya Regina,2.9,15,Japanese,regina,SK,"1950 Broad Street Regina, SK S4P 1X9 Canada",50.4479453,-104.6067204,SK,25
+783,Cathedral Social Hall,3.4,16,Breakfast & Brunch,regina,SK,"2062 Albert Street Regina, SK S4P 2T7 Canada",50.4458704,-104.6184939,SK,25
+784,Teppanyaki Japanese Steak House,3.7,7,Japanese,regina,SK,"736 Victoria Avenue Regina, SK S4N 0R3 Canada",50.447541,-104.5920373,SK,45
+785,Pronto Asian Fusion Restaurant,4.0,6,Asian Fusion,regina,SK,"1101D Kramer Boulevard Regina, SK S4S 5W4 Canada",50.4150023,-104.5961827,SK,25
+786,The Canadian Brewhouse,3.5,8,Sports Bars,regina,SK,"2005 Prince of Wales Drive Regina, SK S4V 3A3 Canada",50.446987,-104.5314768,SK,25
+787,Viet-Thai Restaurant,3.6,19,Thai,regina,SK,"2080 Albert Street Regina, SK S4P 2T7 Canada",50.4457019,-104.6185206,SK,25
+788,ZamZam Wraps,4.7,22,Middle Eastern,regina,SK,"3618 Eastgate Drive Regina, SK S4Z 1A5 Canada",50.4516084,-104.5313867,SK,10
+789,Red Lobster,2.5,15,Seafood,regina,SK,"890 Albert Street Regina, SK S4R 2P5 Canada",50.46484969999999,-104.6185743,SK,45
+790,Dosa & Curry Garden,4.1,11,Indian,regina,SK,"2143 Albert Street Regina, SK S4P 2V1 Canada",50.4447071,-104.61778,SK,25
+791,Boston Pizza,3.8,4,Pizza,regina,SK,"4303 Rochdale Boulevard Regina, SK S4X 4R3 Canada",50.4960476,-104.6427872,SK,25
+792,13th Avenue Food and Coffee House,4.3,26,Coffee & Tea,regina,SK,"3136 13th Avenue Regina, SK S4T 1P2 Canada",50.4456648,-104.6266412,SK,25
+793,S R Kitchen,4.7,3,Chinese,regina,SK,"6843 Rochdale Boulevard Regina, SK S4X 2Z2 Canada",50.49410659999999,-104.6792857,SK,25
+794,Mercury Cafe,3.7,15,Diners,regina,SK,"2936 13th Ave Regina, SK S4T 1N7 Canada",50.4456877,-104.623709,SK,25
+795,Abstractions Cafe,4.0,1,Middle Eastern,regina,SK,"2161 Rose Street Regina, SK S4P 2A5 Canada",50.4443665,-104.6076095,SK,25
+796,Earls Kitchen + Bar,3.1,23,Canadian (New),regina,SK,"2606-28th Avenue Regina, SK S4S 6P3 Canada",50.41408029999999,-104.6187884,SK,25
+797,Happy Garden Restaurant,3.5,2,Chinese,regina,SK,"436 Dewdney Ave Regina, SK S4N 0E9 Canada",50.4553995,-104.5877834,SK,25
+798,Rock Creek Tap and Grill,2.4,7,Canadian (New),regina,SK,"474 Mcarthy Boulevard Regina, SK S4R 7M2 Canada",50.4838263,-104.6655041,SK,25
+799,S & A Favorito Foods,5.0,1,Bakeries,regina,SK,"363 Broad Street Regina, SK S4R 1X2 Canada",50.4727665,-104.6058882,SK,10
+800,Fresh & Sweet,3.3,27,Cafes,regina,SK,"Valley Girls Catering 2500 Victoria Ave Regina, SK S4P 2T5 Canada",50.44749359999999,-104.6169144,SK,25
+801,Dawat India,4.2,9,Indian,regina,SK,"1908 Prince of Wales Drive Regina, SK S4Z 1A4 Canada",50.4481086,-104.5354199,SK,25
+802,Saigon by Night Restaurant,3.5,16,Chinese,regina,SK,"1840 Broad Street Regina, SK S4P 1X6 Canada",50.4495231,-104.6069002,SK,25
+803,MR MIKES SteakhouseCasual,3.2,13,Steakhouses,regina,SK,"4651 Gordon Road Regina, SK S4W 0B7 Canada",50.4050892,-104.64781,SK,25
+804,Lakeshore Restaurant,2.6,17,Steakhouses,regina,SK,"1350 23rd Avenue Regina, SK S4S 3S5 Canada",50.4238388,-104.5999418,SK,25
+805,Sweet Bakery & Coffee House,4.0,4,Sandwiches,regina,SK,"2445 Broad Street Regina, SK S4P 1Y9 Canada",50.4398272,-104.6058613,SK,25
+806,Le Macaron,4.4,29,Bakeries,regina,SK,"2705 Quance Street E Regina, SK S4V 3B7 Canada",50.4438808,-104.5443812,SK,25
+807,Flavours of India,3.7,10,Indian,regina,SK,"305 Victoria Avenue E Regina, SK S4N 0N6 Canada",50.44686,-104.578654,SK,25
+808,Houston Pizza,3.9,15,Pizza,regina,SK,"3422 Hill Avenue Regina, SK S4S 0W9 Canada",50.4283771,-104.6310102,SK,25
+809,Houston Pizza,3.9,15,Pizza,regina,SK,"919 Albert Street Regina, SK S4R 2P6 Canada",50.4636755,-104.6167876,SK,25
+810,ZamZam Wraps,4.3,6,Donairs,regina,SK,"2102 - 11th Avenue Unit  TT10B Regina, SK S4P 3Y6 Canada",50.4511282,-104.6113445,SK,10
+811,Mr Breakfast Restaurant,2.8,8,Breakfast & Brunch,regina,SK,"1247 Albert Street Regina, SK S4R 2R4 Canada",50.4590234,-104.6178335,SK,25
+812,Cravings,3.7,6,American (Traditional),regina,SK,"1883 Victoria Ave E Regina, SK S4N 6E6 Canada",50.4450345,-104.5562531,SK,25
+813,I Love Sushi,2.1,23,Sushi Bars,regina,SK,"3622 Eastgate Drive Regina, SK S4Z 1A5 Canada",50.4515056,-104.531203,SK,25
+814,Boston Pizza,3.1,8,Pizza,regina,SK,"545 Albert Street N Regina, SK S4R 8E2 Canada",50.4858966,-104.6176077,SK,25
+815,Fiesta Filipino Bakeries,3.0,1,Bakeries,regina,SK,"2926 13th Avenue Regina, SK S4T 1N7 Canada",50.44562,-104.6234592,SK,10
+816,Four Seas Restaurant,2.8,8,Chinese,regina,SK,"1779 Rose Street Regina, SK S4P 1Z4 Canada",50.4508418,-104.6076187,SK,25
+817,The Green Spot Cafe,3.9,14,Vegetarian,regina,SK,"1812 Hamilton Street Regina, SK S4P 2B8 Canada",50.4499904,-104.6096445,SK,10
+818,Da India Curry House,3.4,10,Indian,regina,SK,"806 Victoria Avenue Regina, SK S4N 0R6 Canada",50.4473898,-104.5925705,SK,25
+819,Tim Hortons,3.8,4,Coffee & Tea,regina,SK,"2102 11th Ave Unit 11a Regina, SK S4P 3Y6 Canada",50.4511282,-104.6113445,SK,10
+820,Mallard Cottage,4.4,152,Canadian (New),st-john's,NL,"8 Barrows Road St. John's, NL A1A 1G8 Canada",47.5815956,-52.67845440000001,NL,25
+821,Bernard Stanley Gastropub,4.2,64,Gastropubs,st-john's,NL,"223 Duckwoth Street Saint John's, NL A1C 6N1 Canada",47.56695610000001,-52.7047114,NL,25
+822,Chinched,4.4,50,Canadian (New),st-john's,NL,"5 Bates Hill St. John's, NL A1C 4B5 Canada",47.5627271,-52.71049110000001,NL,45
+823,Adelaide Oyster House,4.5,59,Tapas Bars,st-john's,NL,"334 Water Street St. John's, NL A1C 1C1 Canada",47.5612535,-52.7107028,NL,45
+824,The Merchant Tavern,4.2,63,Canadian (New),st-john's,NL,"291 Water Street St. John's, NL A1B 4B8 Canada",47.5619006,-52.7094264,NL,45
+825,Frugal Steins,4.3,21,Seafood,st-john's,NL,"318 Water Street St. John's, NL A1C 1B8 Canada",47.5615712,-52.7105225,NL,25
+826,Piatto,4.4,59,Italian,st-john's,NL,"377 Duckworth Street St John's, NL A1C 1H7 Canada",47.562362,-52.71023229999999,NL,25
+827,Saltwater Restaurant,3.7,34,Seafood,st-john's,NL,"320 Water Street St. John's, NL A1C 1C1 Canada",47.561479,-52.7106021,NL,45
+828,The Celtic Hearth,2.9,50,American (Traditional),st-john's,NL,"298-300 Water Street St John's, NL A1C 1B6 Canada",47.56192859999999,-52.7099643,NL,25
+829,Blue On Water,3.7,47,Breakfast & Brunch,st-john's,NL,"319 Water Street St John's, NL A1C 1B9 Canada",47.5614295,-52.710147,NL,25
+830,Jasmines Restaurant,4.0,5,American (Traditional),st-john's,NL,"1 Dunns Road Mt Pearl, NL A1N 3L1 Canada",47.5226576,-52.7782936,NL,25
+831,Bad Bones Ramen,3.7,26,Ramen,st-john's,NL,"178 Water St St. John's, NL A1C 1A9 Canada",47.5649269,-52.70655499999999,NL,25
+832,Nourish Bakery,5.0,1,Bakeries,st-john's,NL,"1304 Topsail Road Paradise, NL A1L 1N9 Canada",47.5343513,-52.83981319999999,NL,25
+833,Rocket Bakery and Fresh Food,4.2,113,Coffee & Tea,st-john's,NL,"294 Water Street St John's, NL A1C 1B8 Canada",47.5620546,-52.7099146,NL,25
+834,Sushi Island,4.1,28,Japanese,st-john's,NL,"210 Water Street Saint John's, NL A1C 1A9 Canada",47.5639039,-52.70767009999999,NL,25
+835,Bellissimo Bistro & Espresso Bar,4.4,5,Breakfast & Brunch,st-john's,NL,"123 Quidi Vidi Road St. John's, NL A1A 1C3 Canada",47.575201,-52.6968057,NL,45
+836,The Battery Cafe,4.7,9,Cafes,st-john's,NL,"1 Duckworth Street St. John's, NL A1C 1E3 Canada",47.5715352,-52.6976393,NL,10
+837,Inn of Olde,4.2,5,American (Traditional),st-john's,NL,"67 Quidi Vidi Village Road St John's, NL A1A 1E9 Canada",47.5815171,-52.6794553,NL,10
+838,Afghan Restaurant,4.2,13,Afghan,st-john's,NL,"375 Duckworth Street St. John's, NL A1C 1H7 Canada",47.5624226,-52.7100988,NL,10
+839,Black Sea Resturant And Bar,3.3,3,Mediterranean,st-john's,NL,"193 Water Street St. John's, NL A1C 1B6 Canada",47.5640379,-52.706833,NL,45
+840,Acropolis Pizza,3.6,12,Pizza,st-john's,NL,"Glenhill Plaza 74 Old Placentia Road Mt Pearl, NL A1N 5H6 Canada",47.5105245,-52.8203273,NL,10
+841,Basho Restaurant & Lounge,3.9,25,Japanese,st-john's,NL,"283 Duckworth Street St. John's, NL A1C 1G9 Canada",47.565347,-52.70658599999999,NL,45
+842,Sushi Nami Royale,3.4,17,Japanese,st-john's,NL,"36 George Street Saint John's, NL A1C 1M3 Canada",47.5606104,-52.7118895,NL,25
+843,Hungry Heart Cafe,4.1,8,Coffee & Tea,st-john's,NL,"142 Military Road St John's, NL A1C 2E7 Canada",47.5688355,-52.7085483,NL,25
+844,Kelseys Original Roadhouse,2.5,10,American (Traditional),st-john's,NL,"302 Kenmount Rd St. John's, NL A1B 3R2 Canada",47.5513324,-52.7778542,NL,25
+845,The Sprout Restaurant,4.2,34,Vegetarian,st-john's,NL,"364 Duckworth St St. John's, NL A1C 1H5 Canada",47.5629571,-52.70967,NL,25
+846,Shamrock City,3.7,22,Pubs,st-john's,NL,"340 Water St St John's, NL A1C 6E8 Canada",47.5608313,-52.7109178,NL,25
+847,Shamrock City,3.7,22,Pubs,st-john's,NL,"355 Main Road St. John's, NL A1S 1J9 Canada",47.4629197,-52.7710888,NL,25
+848,Bagel Cafe,3.7,99,Breakfast & Brunch,st-john's,NL,"246 Duckworth Street St. John's, NL A1C 1G6 Canada",47.566814,-52.705286,NL,25
+849,Gypsy Tea Room,3.3,46,Canadian (New),st-john's,NL,"315 Water Street St. John's, NL A1C 1B4 Canada",47.5615303,-52.71003349999999,NL,45
+850,Magnum & Steins,4.0,12,Canadian (New),st-john's,NL,"329 Duckworth Street St. John's, NL A1C 1H3 Canada",47.5640829,-52.7079149,NL,45
+851,Pi,3.7,32,Pizza,st-john's,NL,"10 King's Road St John's, NL A1C 3P1 Canada",47.5682728,-52.7039097,NL,25
+852,The Keg Steakhouse + Bar,3.3,49,Bars,st-john's,NL,"127 Harbour Drive Bishops Cove Landing St. John's, NL A1C 6N6 Canada",47.56079339999999,-52.70932209999999,NL,45
+853,MAGIC WOK EATERY,3.8,17,Chinese,st-john's,NL,"402 - 408 Water Street St. John's, NL A1C 1C9 Canada",47.558556,-52.7119924,NL,25
+854,Boston Pizza,4.0,4,Pizza,st-john's,NL,"367 Water Street St. John's, NL A1C 1C2 Canada",47.559563,-52.7111218,NL,25
+855,India Gate Restaurant,3.7,35,Indian,st-john's,NL,"286 Duckworth Street St. John's, NL A1C 1H3 Canada",47.5656179,-52.70696909999999,NL,25
+856,PJ Billingtons Restaurant,2.6,11,Canadian (New),st-john's,NL,"102 Kenmount Rd St John's, NL A1B 3R2 Canada",47.55570549999999,-52.7682048,NL,25
+857,Green Sleeves,3.5,24,Pubs,st-john's,NL,"12-14 George Street St. John's, NL A1C 1L9 Canada",47.5618868,-52.7108822,NL,25
+858,Peaceful Loft Vegetarian Restaurant,4.3,21,Vegan,st-john's,NL,"250 Duckworth Street Saint John's, NL A1C Canada",47.5667698,-52.70547269999999,NL,25
+859,The Pantry,4.3,3,Cafes,st-john's,NL,"70 Clinch Crescent Saint John's, NL A1B 4G8 Canada",47.5740842,-52.7438616,NL,25
+860,Wok Box,4.0,5,Asian Fusion,st-john's,NL,"55 A-1 Kelsey Dr St John's, NL A1B 5C8 Canada",47.5529235,-52.7817078,NL,25
+861,City Light Restaurant,3.6,11,Buffets,st-john's,NL,"460 Topsail Rd St John's, NL A1E 2C2 Canada",47.532948,-52.752171,NL,25
+862,Kellys Pub,4.3,7,Pubs,st-john's,NL,"25 George Street St John's, NL A1C 1B8 Canada",47.5609969,-52.7111774,NL,25
+863,Manna European Bakery and Deli,3.6,22,Delis,st-john's,NL,"342 Freshwater Road St. John's, NL A1B 1C2 Canada",47.5616731,-52.7468527,NL,25
+864,Quintanas & Arribas,2.4,11,Tex-Mex,st-john's,NL,"57 Rowan Street St. John's, NL A1B 2X2 Canada",47.5746483,-52.7240633,NL,25
+865,Topsail Road Pizzeria Lounge,3.0,5,Pizza,st-john's,NL,"662 Topsail Road St. John's, NL A1E 2E2 Canada",47.52436429999999,-52.77179690000001,NL,25
+866,Big Cheese Pizza,1.7,10,Pizza,st-john's,NL,"29 Commonwealth Avenue Mt Pearl, NL A1N 1W7 Canada",47.5182355,-52.8068396,NL,25
+867,Coffee Matters,3.9,47,Coffee & Tea,st-john's,NL,"1 Military Road St. John's, NL A1C 2J3 Canada",47.5711652,-52.7021144,NL,25
+868,Boston Pizza,3.0,7,Pizza,st-john's,NL,"F3-35 Kelsey Dr St. John's, NL A1B 5C8 Canada",47.5517857,-52.7808739,NL,25
+869,Kenmount Restaurant,2.4,5,Chinese,st-john's,NL,"75 Kenmount Road St. John's, NL A1B 3P8 Canada",47.5576444,-52.7559426,NL,25
+870,Toya International Market & Specialty Store,3.5,2,Caribbean,st-john's,NL,"107 Long's Hill St John's, NL A1C 1V4 Canada",47.5642627,-52.7141889,NL,10
+871,Poyo,4.5,2,Mexican,st-john's,NL,"364 Duckworth Street St. John's, NL A1C1H5 Canada",47.5629571,-52.70967,NL,25
+872,Big R,2.8,9,American (Traditional),st-john's,NL,"201 Blackmarsh Rd. St John's, NL A1E Canada",47.54607170000001,-52.7384772,NL,10
+873,Venice Pizzeria,2.9,10,Pizza,st-john's,NL,"81 Military Road St John's, NL A1C 2C8 Canada",47.5704964,-52.7063113,NL,25
+874,Fabulous Foods,4.2,6,Bakeries,st-john's,NL,"166 Merrymeeting Road St. John's, NL A1C 2W4 Canada",47.5643379,-52.7233052,NL,10
+875,Quesada Burritos & Tacos,2.3,3,Mexican,st-john's,NL,"9 Kiwanis Street Unit 1C St. John's, NL A1B 0A2 Canada",47.5507272,-52.7801026,NL,25
+876,Shalimar Restaurant,3.0,3,Indian,st-john's,NL,"272 duckworth street St. John's,, NL A1C 1H3 Canada",47.5660317,-52.706418,NL,25
+877,New City Restaurant,1.5,6,Chinese,st-john's,NL,"210 Pennywell Rd St. John's, NL A1C 2L6 Canada",47.5601874,-52.7267898,NL,10
+878,Subway,4.0,1,Sandwiches,st-john's,NL,"18 Commonwealth Avenue Mount Pearl, NL A1N 1W5 Canada",47.5198302,-52.8082298,NL,10
+879,Subway,4.0,1,Sandwiches,st-john's,NL,"179 Elizabeth Ave St. John's, NL A1B 1S8 Canada",47.575602,-52.7228286,NL,10
+880,Hong Kong Restaurant,2.7,6,Chinese,st-john's,NL,"361 Water Street St. John's, NL A1C 1C2 Canada",47.5597498,-52.7112038,NL,25
+881,Richmond Station,4.4,897,Canadian (New),toronto,ON,"1 Richmond Street W Toronto, ON M5H 3W4 Canada",43.6513848,-79.3792915,ON,45
+882,STACK,4.0,331,Barbeque,toronto,ON,"3265 Yonge Street Toronto, ON M4N 2L5 Canada",43.72931620000001,-79.4030026,ON,25
+883,Holy Cow Japanese Steakhouse,4.3,156,Steakhouses,toronto,ON,"254 Queen Street  W Toronto, ON M5V 1Z8 Canada",43.650053,-79.3914456,ON,45
+884,Rasa,4.4,326,Canadian (New),toronto,ON,"196 Robert Street Toronto, ON M5S 2K8 Canada",43.6628642,-79.4041013,ON,25
+885,Megumi Mazesoba,4.7,27,Japanese,toronto,ON,"46 Saint Clair Avenue E Toronto, ON M4T 1M9 Canada",43.6887264,-79.3919129,ON,25
+886,Mary Be Kitchen,4.4,73,Canadian (New),toronto,ON,"21B St. Clair Avenue W Toronto, ON M4V 1K6 Canada",43.6876231,-79.3949696,ON,25
+887,Positano Restaurant,4.2,64,Pizza,toronto,ON,"633 Mount Pleasant Road Toronto, ON M4S 2M9 Canada",43.7047104,-79.3885304,ON,25
+888,KINKA IZAKAYA ORIGINAL,4.1,1800,Japanese,toronto,ON,"398 Church Street Toronto, ON M5B 2A2 Canada",43.6605922,-79.37903039999999,ON,25
+889,Pai Northern Thai Kitchen,4.4,3400,Thai,toronto,ON,"18 Duncan Street Toronto, ON M5H 3G8 Canada",43.6478695,-79.3886849,ON,25
+890,Pai Northern Thai Kitchen,4.4,3400,Thai,toronto,ON,"2335 Yonge Street Toronto, ON M4P 2E6 Canada",43.70865300000001,-79.3982462,ON,25
+891,Baretto Caffe,4.8,352,Cafes,toronto,ON,"1262 Don Mills Road Toronto, ON M3B 2W7 Canada",43.7447025,-79.34646769999999,ON,25
+892,Mayrik,4.1,74,Mediterranean,toronto,ON,"1580 Bayview Avenue Toronto, ON M4G 3B7 Canada",43.7056941,-79.3754415,ON,45
+893,Grazie Ristorante,3.9,495,Italian,toronto,ON,"2373 Yonge Street Toronto, ON M4P 2C8 Canada",43.7093451,-79.39869589999999,ON,25
+894,Kintako Japanese Restaurant,4.2,182,Japanese,toronto,ON,"214 Laird Drive Suite 101 Toronto, ON M4G 3W4 Canada",43.711497,-79.36408469999999,ON,25
+895,Mira,4.3,266,Peruvian,toronto,ON,"420A Wellington Street W Toronto, ON M5V 1E3 Canada",43.6440688,-79.3963113,ON,25
+896,Grandma Loves You,4.8,75,Sandwiches,toronto,ON,"1084 Yonge Street Toronto, ON M4W 2L4 Canada",43.6778353,-79.39025199999999,ON,25
+897,Aloette,4.4,296,French,toronto,ON,"163 Spadina Avenue 1st Floor Toronto, ON M5V 2L6 Canada",43.6485042,-79.39594939999999,ON,45
+898,Mexico Lindo,3.9,70,Mexican,toronto,ON,"1618 Bayview Ave Toronto, ON M4S 1T3 Canada",43.7063759,-79.37569979999999,ON,25
+899,The Olde Yorke,4.4,330,Seafood,toronto,ON,"96 Laird Drive East York, ON M4G 3V3 Canada",43.7062556,-79.3621144,ON,25
+900,TORA,3.8,216,Japanese,toronto,ON,"612B-3401 Dufferin Street Upper Level Toronto, ON M6A 2T9 Canada",43.7251083,-79.45280869999999,ON,45
+901,The Oxley,3.8,178,Pubs,toronto,ON,"121 Yorkville Avenue Toronto, ON M5R 1C4 Canada",43.6705763,-79.39308199999999,ON,25
+902,Tinuno,4.1,621,Filipino,toronto,ON,"31 Howard Street Toronto, ON M4X 1J6 Canada",43.6711355,-79.37486849999999,ON,25
+903,Zezafoun Syrian Cuisine,4.5,115,Syrian,toronto,ON,"4 Manor Road E Toronto, ON M4S 1P8 Canada",43.7026971,-79.39707980000001,ON,25
+904,Jin Dal Lae,4.4,114,Korean,toronto,ON,"647 Bloor Street W Toronto, ON M6G 1L1 Canada",43.6641278,-79.4151531,ON,25
+905,Katsuya,4.3,494,Japanese,toronto,ON,"66 Gerrard Street E Unit 100 Toronto, ON M5B 2M2 Canada",43.6599837,-79.37878979999999,ON,25
+906,Tabule Restaurant,3.9,287,Middle Eastern,toronto,ON,"2009 Yonge Street Toronto, ON M4S 1Z8 Canada",43.7009583,-79.3968715,ON,25
+907,Seven Lives Tacos y Mariscos,4.4,1500,Mexican,toronto,ON,"72 Kensington Avenue Toronto, ON M5T 2K1 Canada",43.6544782,-79.4008249,ON,10
+908,Nodo Restaurant,4.3,60,Italian,toronto,ON,"794 Saint Clair Avenue W Toronto, ON M6C 1B6 Canada",43.6811343,-79.42984009999999,ON,25
+909,Gusto 101,4.0,1100,Italian,toronto,ON,"101 Portland Street Toronto, ON M5V 2N3 Canada",43.6451839,-79.4000904,ON,25
+910,Byblos,4.4,901,Mediterranean,toronto,ON,"11 Duncan Street Toronto, ON M5V 3M2 Canada",43.64753,-79.3880145,ON,50
+911,Budapest Restaurant,4.3,85,Hungarian,toronto,ON,"2183 Danforth Ave Toronto, ON M4C 1K4 Canada",43.6861678,-79.3100321,ON,25
+912,Papyrus,4.8,50,Egyptian,toronto,ON,"337 Danforth Avenue Toronto, ON M4K 1N7 Canada",43.6771361,-79.353287,ON,25
+913,New Orleans Seafood & Steakhouse,4.8,170,Seafood,toronto,ON,"267 Scarlett Road Toronto, ON M6N 4L1 Canada",43.6777473,-79.5062584,ON,45
+914,Insomnia Restaurant & Lounge,4.1,1000,Lounges,toronto,ON,"563 Bloor Street W Toronto, ON M5S 1Y6 Canada",43.6650421,-79.4107779,ON,25
+915,The Belsize Public House,3.7,40,Gastropubs,toronto,ON,"535 Mt. Pleasant Road. Toronto, ON M4S 2M5 Canada",43.7026552,-79.3877002,ON,25
+916,Conspiracy Pizza,4.3,61,Pizza,toronto,ON,"858 Eglinton Avenue E Toronto, ON M4G 2B6 Canada",43.7136851,-79.3654162,ON,25
+917,Stock Bar,3.1,118,Steakhouses,toronto,ON,"2388 Yonge Street Toronto, ON M4P 3J5 Canada",43.7092238,-79.3991736,ON,45
+918,Bolan Thai Cuisine,4.1,105,Thai,toronto,ON,"709 Mount Pleasant Road Toronto, ON M4S 2N4 Canada",43.7066343,-79.3892106,ON,25
+919,Union Social Eatery,3.8,170,American (Traditional),toronto,ON,"21 Saint Clair Avenue W Toronto, ON M4V 1K6 Canada",43.6874066,-79.3949353,ON,25
+920,Banh Mi Boys,4.3,122,Vietnamese,toronto,ON,"2365 Yonge Street Toronto, ON M4P 3J6 Canada",43.7091644,-79.3985719,ON,10
+921,Eataly Toronto,3.6,286,Italian,toronto,ON,"55 Bloor Street W Manulife Centre Toronto, ON M4W 1A6 Canada",43.6696176,-79.3886462,ON,25
+922,Little Sister,3.7,218,Indonesian,toronto,ON,"2031 Yonge Street Toronto, ON M4S 1Z9 Canada",43.7016173,-79.3969364,ON,25
+923,Yukashi Japanese Cuisine,4.5,48,Japanese,toronto,ON,"643A Mount Pleasant Road Toronto, ON M4S 2M9 Canada",43.7049457,-79.3886153,ON,50
+924,Eggstatic,4.4,140,Breakfast & Brunch,toronto,ON,"1568 Bayview Avenue Toronto, ON M4G 3B7 Canada",43.7053952,-79.3752945,ON,25
+925,La Vecchia Ristorante,3.7,333,Italian,toronto,ON,"2405A Yonge Street Toronto, ON M4P 2E7 Canada",43.7102236,-79.39890249999999,ON,25
+926,Kaiseki Yu-zen Hashimoto,4.5,33,Japanese,toronto,ON,"6 Garamond Court Toronto, ON M3C 1Z5 Canada",43.7262091,-79.335554,ON,50
+927,Flaming Stove,4.3,68,Middle Eastern,toronto,ON,"21 Davisville Avenue Toronto, ON M4S 1G3 Canada",43.6981825,-79.39574189999999,ON,10
+928,El Sazón de la Tia Flor,4.3,30,Mexican,toronto,ON,"1549 O'Connor Drive Toronto, ON M4B 2V7 Canada",43.714705,-79.3051946,ON,10
+929,Hokkaido Ramen Santouka,4.3,58,Ramen,toronto,ON,"2057 Yonge St Toronto, ON M4S 2A2 Canada",43.7021185,-79.3971239,ON,25
+930,Black Camel,4.4,382,Sandwiches,toronto,ON,"4 Crescent Road Toronto, ON M4W 1S9 Canada",43.6772917,-79.3894791,ON,10
+931,Trattoria Nervosa,3.8,401,Italian,toronto,ON,"75 Yorkville Avenue Toronto, ON M5R 1B8 Canada",43.6710317,-79.39109940000002,ON,25
+932,Trattoria Nervosa,3.8,401,Italian,toronto,ON,"75 Yorkville Avenue Toronto, ON M5R 1B8 Canada",43.6710317,-79.39109940000002,ON,25
+933,Pii Nong Thai,4.0,66,Thai,toronto,ON,"1677 Bayview Avenue Toronto, ON M4G 3C1 Canada",43.70759839999999,-79.37561790000001,ON,25
+934,Playa Cabana,4.0,473,Mexican,toronto,ON,"111 Dupont Street Toronto, ON M5R 1V4 Canada",43.6760364,-79.4011532,ON,25
+935,Bi Bim Bap,4.1,81,Korean,toronto,ON,"950 Eglinton Avenue W Toronto, ON M6C 2C2 Canada",43.7005343,-79.4287204,ON,25
+936,La Bella Managua,4.3,252,Latin American,toronto,ON,"872 Bloor Street W Toronto, ON M6G 1M5 Canada",43.6623086,-79.4250112,ON,25
+937,LOCAL Public Eatery - Leaside,3.6,149,American (Traditional),toronto,ON,"180 Laird Drive Toronto, ON M4G 3V7 Canada",43.7098719,-79.3636071,ON,25
+938,Pantheon Restaurant,4.2,346,Greek,toronto,ON,"407 Danforth Avenue Toronto, ON M4K 1P1 Canada",43.6774731,-79.3513408,ON,25
+939,Library Bar,4.1,127,Lounges,toronto,ON,"100 Front Street W Fairmont Royal York Toronto, ON M5J 1E3 Canada",43.6460303,-79.381388,ON,45
+940,The Hole In the Wall,4.3,172,Pubs,toronto,ON,"2867 Dundas Street W Toronto, ON M6P 1Y9 Canada",43.6652736,-79.46519839999999,ON,25
+941,The Monkey Bar,4.2,44,Canadian (New),toronto,ON,"3353 Yonge Street Toronto, ON M4N 2M6 Canada",43.7314707,-79.4036249,ON,45
+942,Local 1794,4.1,120,Canadian (New),toronto,ON,"1794 Danforth Avenue Toronto, ON M4C 1H8 Canada",43.6845581,-79.3188315,ON,25
+943,MIA Brunch Bar,4.1,33,Breakfast & Brunch,toronto,ON,"2140 Yonge Street North York, ON M4S 2A8 Canada",43.7036185,-79.3979126,ON,25
+944,Completo,4.4,172,Latin American,toronto,ON,"5 Coady Avenue Toronto, ON M4M 2Y9 Canada",43.6626025,-79.3338376,ON,10
+945,Completo,4.4,172,Latin American,toronto,ON,"337 Broadview Ave Toronto, ON M4M 2H1 Canada",43.6647498,-79.3520836,ON,10
+946,Queen of Persia,4.4,50,Persian/Iranian,toronto,ON,"672A St Clair Avenue W Toronto, ON M6C 1B1 Canada",43.6820007,-79.42542159999999,ON,45
+947,Jerusalem Restaurant,3.8,96,Middle Eastern,toronto,ON,"955 Eglinton Avenue W York, ON M6C 2C4 Canada",43.7000323,-79.4290223,ON,25
+948,Jerusalem Restaurant,3.8,96,Middle Eastern,toronto,ON,"955 Eglinton Avenue W York, ON M6C 2C4 Canada",43.7000323,-79.4290223,ON,25
+949,Khau Gully,4.1,98,Indian,toronto,ON,"1991 Yonge Street Toronto, ON M4S 1Z8 Canada",43.7005696,-79.3968091,ON,25
+950,Thairoomgrand,4.5,23,Thai,toronto,ON,"288 Eglinton Avenue W Toronto, ON M4R 1B2 Canada",43.7049774,-79.4077427,ON,25
+951,Thairoomgrand,4.5,23,Thai,toronto,ON,"288 Eglinton Avenue W Toronto, ON M4R 1B2 Canada",43.7049774,-79.4077427,ON,25
+952,Mogouyan Hand-Pulled Noodles,4.4,62,Noodles,toronto,ON,"124 Dundas St W Toronto, ON M5G 1C3 Canada",43.6556902,-79.38447029999999,ON,25
+953,Mogouyan Hand-Pulled Noodles,4.4,62,Noodles,toronto,ON,"124 Dundas St W Toronto, ON M5G 1C3 Canada",43.6556902,-79.38447029999999,ON,25
+954,Mogouyan Hand-Pulled Noodles,4.4,62,Noodles,toronto,ON,"760 Yonge Street Toronto, ON M4Y 2B6 Canada",43.6694667,-79.3866001,ON,25
+955,Sunnyside Pavilion Cafe,2.8,56,Diners,toronto,ON,"1755 Lake Shore Boulevard W Toronto, ON M6S 5A3 Canada",43.6375567,-79.4563771,ON,25
+956,Sunnyside Pavilion Cafe,2.8,56,Diners,toronto,ON,"1755 Lake Shore Boulevard W Toronto, ON M6S 5A3 Canada",43.6375567,-79.4563771,ON,25
+957,Antler Kitchen & Bar,4.5,289,Canadian (New),toronto,ON,"1454 Dundas Street West Toronto, ON M6J 1Y6 Canada",43.6497178,-79.4305976,ON,45
+958,Antler Kitchen & Bar,4.5,289,Canadian (New),toronto,ON,"1454 Dundas Street West Toronto, ON M6J 1Y6 Canada",43.6497178,-79.4305976,ON,45
+959,Hot Pot Restaurant,4.7,28,Caribbean,toronto,ON,"1545 Eglinton Avenue  W Toronto, ON M6E 2G8 Canada",43.6974719,-79.4413706,ON,25
+960,Dirty Food Eatery,4.4,139,Breakfast & Brunch,toronto,ON,"3070 Dundas Street W Toronto, ON M6P 1Z7 Canada",43.6656109,-79.4719056,ON,25
+961,Juicy Dumpling,4.2,621,Dim Sum,toronto,ON,"280 Spadina Ave Unit M-N Toronto, ON M5T 0A1 Canada",43.653226,-79.3831843,ON,10
+962,Juicy Dumpling,4.2,621,Dim Sum,toronto,ON,"2150 Yonge street Toronto, ON M4S 2A8 Canada",43.70369050000001,-79.3980483,ON,10
+963,Hana Don,4.1,44,Japanese,toronto,ON,"128 Dundas Street W Toronto, ON M5G 1C3 Canada",43.655732,-79.38457629999999,ON,25
+964,Hana Don,4.1,44,Japanese,toronto,ON,"1800 Sheppard Ave E Unit 2020 Toronto, ON M2J 5A7 Canada",43.7774091,-79.3444481,ON,25
+965,Oakwood Hardware Food & Drink,4.1,55,Gastropubs,toronto,ON,"337 Oakwood Avenue Toronto, ON M6E 2V8 Canada",43.6862735,-79.43820989999999,ON,25
+966,The Queen And Beaver Public House,3.8,410,Pubs,toronto,ON,"35 Elm Street Toronto, ON M5G 1H1 Canada",43.6573389,-79.3833118,ON,25
+967,Pearl Diver,4.2,628,Seafood,toronto,ON,"100 Adelaide Street E Toronto, ON M5C 1K9 Canada",43.65157689999999,-79.3737766,ON,25
+968,Knuckle Sandwich,4.1,119,Poutineries,toronto,ON,"969 Coxwell Avenue Toronto, ON M4C 3G4 Canada",43.6962462,-79.3285751,ON,25
+969,Momo Hut & Gardens,4.7,121,Himalayan/Nepalese,toronto,ON,"401 Danforth Avenue Danforth Toronto, ON M4K 1P1 Canada",43.6775267,-79.35147119999999,ON,25
+970,El Charro,4.0,88,Mexican,toronto,ON,"788 Broadview ave Toronto, ON M4K 2P7 Canada",43.6771515,-79.3589738,ON,10
+971,Borrel,3.5,20,Modern European,toronto,ON,"1333 Danforth Avenue Toronto, ON M4J 1N1 Canada",43.6819544,-79.3290184,ON,25
+972,Scaramouche Restaurant Pasta Bar & Grill,4.5,335,French,toronto,ON,"1 Benvenuto Place Toronto, ON M4V 2L1 Canada",43.6814371,-79.3998184,ON,50
+973,Fat Pasha,3.8,209,Middle Eastern,toronto,ON,"414 Dupont Street Toronto, ON M5R 1V9 Canada",43.67384879999999,-79.4117249,ON,45
+974,Yasu,4.5,427,Japanese,toronto,ON,"81 Harbord Street Toronto, ON M5S 1G4 Canada",43.6627374,-79.4031961,ON,50
+975,Pizza Banfi,4.1,35,Italian,toronto,ON,"333 Lonsdale Rd Toronto, ON M5P 1R3 Canada",43.6884375,-79.4131124,ON,25
+976,Daldongnae,4.4,89,Korean,toronto,ON,"658 Bloor Street Toronto, ON M6G 1K9 Canada",43.6642855,-79.4156824,ON,45
+977,Seoul Food Take-Out,4.5,34,Korean,toronto,ON,"606 Sherbourne Street Ground Level Toronto, ON M4X Canada",43.6719658,-79.3768762,ON,10
+978,Gyubee Japanese Grill - Bloor,4.2,317,Barbeque,toronto,ON,"335 Bloor Street W Toronto, ON M5S 1W7 Canada",43.6671472,-79.400645,ON,45
+979,Sorrel,3.6,32,Mediterranean,toronto,ON,"1158 Yonge Street Toronto, ON M4W 2L9 Canada",43.6802296,-79.3910738,ON,45
+980,Nozomi Fusion Kitchen,4.8,20,Asian Fusion,toronto,ON,"3415 Bathurst Street Toronto, ON M6A 2C1 Canada",43.7270115,-79.4312798,ON,25
+981,Mezes,4.0,259,Greek,toronto,ON,"456 Danforth Avenue Toronto, ON M4K 1P4 Canada",43.6781397,-79.3502475,ON,25
+982,Eastside Social,4.3,80,Seafood,toronto,ON,"1008 Queen Street E Toronto, ON M4M 1K1 Canada",43.66145909999999,-79.3391978,ON,25
+983,Omai Restaurant,4.2,125,Japanese,toronto,ON,"3 Baldwin Street Toronto, ON M5T 1L1 Canada",43.6560802,-79.39265259999999,ON,25
+984,Amsterdam Barrel House,3.4,65,Breweries,toronto,ON,"87 Laird Drive Toronto, ON M4G 3T7 Canada",43.706078,-79.36146049999999,ON,25
+985,Corks Beer & Wine Bars,4.5,4,Bars,toronto,ON,"93 Laird Drive Toronto, ON M4G 3V1 Canada",43.7069609,-79.359624,ON,25
+986,Skylight Rooftop Bar,3.8,12,Desserts,toronto,ON,"90 Bloor Street E 9th Floor Toronto, ON M4W 1A7 Canada",43.67087,-79.3845923,ON,50
+987,Gyubee Japanese Grill - Dundas,4.4,206,Japanese,toronto,ON,"157 Dundas St W Toronto, ON M5B 1E4 Canada",43.6551824,-79.38581959999999,ON,45
+988,Tokyo Kitchen,4.0,168,Japanese,toronto,ON,"20 Charles Street E Toronto, ON M4Y 1T1 Canada",43.6690709,-79.3851306,ON,25
+989,Yummy Korean Food Restaurant,4.0,273,Korean,toronto,ON,"620 Bloor Street W Toronto, ON M6G 1K7 Canada",43.6646826,-79.41407149999999,ON,25
+990,Okonomi House Restaurant,3.9,315,Japanese,toronto,ON,"23 Charles Street W Toronto, ON M4Y 2R4 Canada",43.668238,-79.3871472,ON,10
+991,El Nahual Tacos,4.5,150,Mexican,toronto,ON,"556 parliament st Toronto, ON M5S 1X2 Canada",43.666945,-79.36923139999999,ON,10
+992,Meta Dos Leitoes,4.4,7,Portuguese,toronto,ON,"218 Geary Avenue Toronto, ON M6H 2C3 Canada",43.6698507,-79.4385209,ON,25
+993,Pho Anh Vu,4.1,78,Vietnamese,toronto,ON,"3200 Dufferin Street Toronto, ON M6A 3B2 Canada",43.7186746,-79.45628649999999,ON,25
+994,TAO Northern Chinese Cuisine,3.6,42,Chinese,toronto,ON,"220 Laird Drive Toronto, ON M4G 3X2 Canada",43.7123357,-79.36447129999999,ON,45
+995,EAT BKK Thai Kitchen,3.8,324,Thai,toronto,ON,"4704 Yonge Street Toronto, ON M2N 5M4 Canada",43.75924699999999,-79.41076009999999,ON,25
+996,RH Courtyard Restaurant at RH Toronto,3.9,179,Cafes,toronto,ON,"3401 Dufferin Street RH Toronto Toronto, ON M6A 2T9 Canada",43.7249034,-79.4555998,ON,45
+997,CANO Restaurant,4.4,70,Italian,toronto,ON,"1108 St Clair Avenue W Toronto, ON M6E 1A7 Canada",43.6787352,-79.4405939,ON,25
+998,Mogouyan Hand-Pulled Noodles,4.1,87,Noodles,toronto,ON,"124 Dundas St W Toronto, ON M5G 1C3 Canada",43.6556902,-79.38447029999999,ON,25
+999,Mogouyan Hand-Pulled Noodles,4.1,87,Noodles,toronto,ON,"124 Dundas St W Toronto, ON M5G 1C3 Canada",43.6556902,-79.38447029999999,ON,25
+1000,Mogouyan Hand-Pulled Noodles,4.1,87,Noodles,toronto,ON,"760 Yonge Street Toronto, ON M4Y 2B6 Canada",43.6694667,-79.3866001,ON,25
+1001,The Wren,4.2,219,Bars,toronto,ON,"1382 Danforth Avenue Toronto, ON M4J 1M9 Canada",43.6826628,-79.3281466,ON,25
+1002,The Eagle Twins Restaurant,4.1,16,Breakfast & Brunch,toronto,ON,"954 St Clair Avenue W Toronto, ON M6E 1A1 Canada",43.6796994,-79.4359935,ON,10
+1003,Mapo Gamjatang,4.1,91,Korean,toronto,ON,"4916 Yonge Street Toronto, ON M2N 5N5 Canada",43.764202,-79.41212569999999,ON,25
+1004,Mabu Generation,4.2,54,Taiwanese,toronto,ON,"575 Yonge Street Toronto, ON M4Y 1Z3 Canada",43.6656019,-79.3846082,ON,25
+1005,Nomé Izakaya,4.0,721,Lounges,toronto,ON,"4848 Yonge Street Toronto, ON M2N 5N2 Canada",43.7625081,-79.411549,ON,45
+1006,Itacate,4.5,57,Mexican,toronto,ON,"998 St. Clair Avenue W Toronto, ON M6E 1A2 Canada",43.679555,-79.4372325,ON,25
+1007,The House On Parliament,4.1,317,British,toronto,ON,"454 Parliament Street Toronto, ON M5A 3A2 Canada",43.6635855,-79.3679113,ON,25
+1008,Jatujak,4.0,402,Food Delivery Services,toronto,ON,"1744 Victoria Park Avenue Toronto, ON M1R 1R4 Canada",43.7360982,-79.3079429,ON,25
+1009,MEXITACO,3.8,153,Mexican,toronto,ON,"1109 Victoria Park Avenue Toronto, ON M4B 2K2 Canada",43.7086279,-79.2955738,ON,25
+1010,Beach Hill Smokehouse,4.3,146,Barbeque,toronto,ON,"172 Main Street S Toronto, ON M4E 2W1 Canada",43.6841063,-79.3004064,ON,25
+1011,Khmer Thai Restaurant,4.1,139,Thai,toronto,ON,"1018 St Clair Avenue W Toronto, ON M6E 1A4 Canada",43.6792837,-79.43782430000002,ON,25
+1012,Sea Witch Fish and Chips,4.0,136,Fish & Chips,toronto,ON,"636 Saint Clair Avenue W Toronto, ON M6C 1A9 Canada",43.6822977,-79.4240366,ON,25
+1013,Big Bear Donair,4.3,27,Donairs,whitehorse,YT,"4161 4 Avenue Whitehorse, YT Y1A 1J5 Canada",60.72297169999999,-135.0591426,YT,25
+1014,Burnt Toast,4.0,119,Breakfast & Brunch,whitehorse,YT,"2112 2nd Avenue Whitehorse, YT Y1A 1B9 Canada",60.7202238,-135.0529502,YT,25
+1015,Asahiya Japanese Restaurant,4.3,13,Japanese,whitehorse,YT,"309 Jarvis Street Whitehorse, YT Y1A 2H3 Canada",60.7211728,-135.0573227,YT,25
+1016,G & P Steak House & Pizza,3.5,13,Pizza,whitehorse,YT,"209 Main Street Whitehorse, YT Y1A 2B2 Canada",60.7191761,-135.0533582,YT,25
+1017,Yukon Meat & Sausage,4.4,9,Meat Shops,whitehorse,YT,"203 Hanson Street Whitehorse, YT Y1A 1Y3 Canada",60.71708950000001,-135.0509081,YT,25
+1018,Pickapeppa,3.8,15,Caribbean,whitehorse,YT,"2074 2nd Avenue Whitehorse, YT Y1A 1B1 Canada",60.7169877,-135.0504417,YT,25
+1019,VIETNAMESE CUISINE PHO FIVE STAR,3.1,22,Vietnamese,whitehorse,YT,"2190 2nd Avenue Whitehorse, YT Y1A 5N6 Canada",60.72566930000001,-135.0580578,YT,25
+1020,Earls Kitchen + Bar,3.4,27,Canadian (New),whitehorse,YT,"Unit 101 - 9016 Quartz Road Whitehorse, YT Y1A 2Z5 Canada",60.7321024,-135.0658225,YT,25
+1021,Giorgios Cuccina,3.4,25,Italian,whitehorse,YT,"206 Jarvis Street Whitehorse, YT Y1A 2H2 Canada",60.72191789999999,-135.0553005,YT,45
+1022,Baked-Cafe & Bakery,4.1,44,Coffee & Tea,whitehorse,YT,"108-100 Main Street Whitehorse, YT Y1A 2A8 Canada",60.7200924,-135.0509648,YT,10
+1023,Gold Pan Saloon,3.3,17,Bars,whitehorse,YT,"Best Western Gold Rush Inn 411 Main Street Whitehorse, YT Y1A 2B6 Canada",60.71844999999999,-135.05772,YT,25
+1024,Sanchez Cantina,3.7,46,Mexican,whitehorse,YT,"211 Hanson Street Whitehorse, YT Y1A 1Y3 Canada",60.7167411,-135.0518591,YT,25
+1025,Golden Sakura Sushi,4.2,20,Japanese,whitehorse,YT,"404 Wood Street Whitehorse, YT Y1A 2E8 Canada",60.720558,-135.058168,YT,25
+1026,The Java Connection,4.3,7,Breakfast & Brunch,whitehorse,YT,"3125 3rd Avenue Whitehorse, YT Y1A 1E6 Canada",60.72068369999999,-135.0538365,YT,25
+1027,New Asia Restaurant,3.5,6,Seafood,whitehorse,YT,"102 Wood St Whitehorse, YT Y1A 2E3 Canada",60.7217282,-135.0526145,YT,10
+1028,Boston Pizza,2.7,24,Pizza,whitehorse,YT,"2241 2nd Ave Whitehorse, YT Y1A 5W1 Canada",60.7300748,-135.0618749,YT,25
+1029,Tim Hortons,2.8,8,Breakfast & Brunch,whitehorse,YT,"2210 Second Ave Whitehorse, YT Y1A 1C8 Canada",60.72746660000001,-135.0588105,YT,10
+1030,Tonimoes,2.7,3,Canadian (New),whitehorse,YT,"101 Main Street Whitehorse, YT Y1A 0G5 Canada",60.7198445,-135.0504364,YT,25
+1031,Subway,1.0,1,Sandwiches,whitehorse,YT,"Yukon Centre Mall 2190 2nd Avenue Whitehorse, YT Y1A 5N6 Canada",60.7255426,-135.0577855,YT,10
+1032,Subway,1.0,1,Sandwiches,whitehorse,YT,"200 Hamilton Boulevard Whitehorse, YT Y1A 0A6 Canada",60.7312066,-135.0990031,YT,10
+1033,A&W,2.3,6,Fast Food,whitehorse,YT,"2222 2nd Avenue Whitehorse, YT Y1A 1C8 Canada",60.728123,-135.0594004,YT,10
+1034,Sun Fortune Restaurant,4.3,36,Chinese,winnipeg,MB,"2077 Pembina Hwy Winnipeg, MB R3T 5J9 Canada",49.8149583,-97.1536379,MB,25
+1035,Yujiro Japanese Restaurant,4.4,48,Japanese,winnipeg,MB,"1822 Grant Avenue Winnipeg, MB R3N 0N3 Canada",49.8567336,-97.20147,MB,25
+1036,OEB Breakfast,3.3,21,Breakfast & Brunch,winnipeg,MB,"100 - 330 Main Street Winnipeg, MB R3C 0Y7 Canada",49.8940336,-97.1382191,MB,25
+1037,Deer + Almond,4.3,73,Tapas Bars,winnipeg,MB,"85 Princess Street Winnipeg, MB R3B 1K4 Canada",49.8978751,-97.1423672,MB,25
+1038,Brazen Hall,3.6,67,Canadian (New),winnipeg,MB,"800 Pembina Highway Winnipeg, MB R3M 2M7 Canada",49.8572728,-97.15098,MB,25
+1039,Clementine,4.6,141,Cafes,winnipeg,MB,"123 Princess Street Winnipeg, MB R3B 1K8 Canada",49.8990129,-97.1415883,MB,25
+1040,Fusion Grill,4.3,36,Canadian (New),winnipeg,MB,"550 Academy Road Winnipeg, MB R3N 0E3 Canada",49.87413129999999,-97.1974105,MB,45
+1041,Bellissimo Restaurant & Lounge,4.0,21,Italian,winnipeg,MB,"877 Waverley Street Winnipeg, MB R3T 5V3 Canada",49.8449163,-97.1806142,MB,25
+1042,Sous Sol,4.9,16,French,winnipeg,MB,"222 Osborne Street Unit 22 Winnipeg, MB R3L 1Z3 Canada",49.87561350000001,-97.1423302,MB,50
+1043,Asian Hot Pot,4.1,14,Hot Pot,winnipeg,MB,"740 Corydon Avenue Winnipeg, MB R3M 0W6 Canada",49.870554,-97.1529167,MB,25
+1044,The Merchant Kitchen,4.0,34,Cocktail Bars,winnipeg,MB,"314 Donald Street Winnipeg, MB R3B 2B9 Canada",49.8943208,-97.1442907,MB,25
+1045,Marion Street Eatery,4.2,55,Canadian (New),winnipeg,MB,"393 Marion Street Winnipeg, MB R2H Canada",49.8821763,-97.1090184,MB,25
+1046,BMC Market,4.4,27,Mexican,winnipeg,MB,"722 Osborne Street Winnipeg, MB R3L Canada",49.86168319999999,-97.1313232,MB,10
+1047,Pho Hoang,4.4,67,Vietnamese,winnipeg,MB,"794 Sargent Avenue Suite 5 Winnipeg, MB R3E 0B7 Canada",49.8965239,-97.1677904,MB,25
+1048,Tre Visi Cafe,4.5,13,Italian,winnipeg,MB,"926 Grosvenor Avenue Winnipeg, MB R3M 2W9 Canada",49.8704604,-97.16304180000002,MB,25
+1049,Vera,4.8,9,Pizza,winnipeg,MB,"670 Osborne Street Winnipeg, MB R3L 2B9 Canada",49.8626329,-97.1321393,MB,25
+1050,Bonfire Bistro,3.9,20,Italian,winnipeg,MB,"1433 Corydon Avenue Winnipeg, MB R3N 0J2 Canada",49.8635921,-97.1851188,MB,45
+1051,Peasant Cookery,4.0,61,French,winnipeg,MB,"283 Bannatyne Avenue Winnipeg, MB R3B 1M3 Canada",49.8984842,-97.1412977,MB,45
+1052,Harth Mozza & Wine Bar,4.0,36,Italian,winnipeg,MB,"980 St Anne's Road Winnipeg, MB R2M 2X9 Canada",49.818728,-97.0813004,MB,45
+1053,IGI BBQ and Sushi Bistro,3.5,26,Sushi Bars,winnipeg,MB,"10-1875 Pembina Highway Winnipeg, MB R3T 2G6 Canada",49.8217704,-97.1546952,MB,25
+1054,East India Company Pub & Eatery,4.1,91,Indian,winnipeg,MB,"349 York Avenue Winnipeg, MB R3C 3S9 Canada",49.8887807,-97.1432601,MB,25
+1055,Cafe Dario,4.5,22,Latin American,winnipeg,MB,"1390 Erin Street Winnipeg, MB R3E 2S8 Canada",49.9009183,-97.1840769,MB,45
+1056,Santa Ana Pizzeria & Bistro,4.5,23,Pizza,winnipeg,MB,"1631 St. Mary's Road Unit F Winnipeg, MB R2N 1Z4 Canada",49.8197103,-97.111791,MB,25
+1057,The Palm Room,4.1,10,Cocktail Bars,winnipeg,MB,"222 Broadway Winnipeg, MB R3C 0R3 Canada",49.8879884,-97.1367387,MB,25
+1058,Enoteca,4.2,30,Tapas Bars,winnipeg,MB,"A-1670 Corydon Avenue Winnipeg, MB R3N 0J7 Canada",49.8634162,-97.1961755,MB,45
+1059,Ichiban Japanese Steakhouse,3.8,20,Japanese,winnipeg,MB,"189 Carlton St Winnipeg, MB R3C 3H7 Canada",49.889776,-97.144192,MB,45
+1060,The Grove Pub & Restaurant,4.0,24,British,winnipeg,MB,"164 Stafford St Winnipeg, MB R3M 2V8 Canada",49.8707268,-97.1632326,MB,25
+1061,JOEY Polo Park,4.3,54,Canadian (New),winnipeg,MB,"635 Saint James St Winnipeg, MB R3G 3R4 Canada",49.8816013,-97.2011837,MB,25
+1062,Izakaya Edokko,4.3,20,Sushi Bars,winnipeg,MB,"190 Smith Street Winnipeg, MB R3C 1J8 Canada",49.8904789,-97.1406845,MB,25
+1063,Tipsy Cow,3.5,13,Bars,winnipeg,MB,"285 Portage Avenue Winnipeg, MB R3B 2B4 Canada",49.8942535,-97.1426636,MB,25
+1064,Capital Grill and Bar,4.0,30,Seafood,winnipeg,MB,"3116 Roblin Boulevard Winnipeg, MB R3R 0C1 Canada",49.8678265,-97.2526514,MB,25
+1065,Cibo Waterfront Cafe,3.5,46,Mediterranean,winnipeg,MB,"339 Waterfront Drive Winnipeg, MB R3B 0G8 Canada",49.8987619,-97.1318846,MB,25
+1066,Bistro Dansk,4.4,14,Modern European,winnipeg,MB,"63 Sherbrook St Winnipeg, MB R3C 2B2 Canada",49.8806063,-97.159425,MB,25
+1067,529 Wellington,3.9,74,Steakhouses,winnipeg,MB,"529 Wellington Cresent Winnipeg, MB R3M 0A1 Canada",49.876662,-97.1613829,MB,50
+1068,Komodo Chinese Restaurant,4.3,3,Chinese,winnipeg,MB,"1031 Autumnwood Dr Winnipeg, MB R2J 1C6 Canada",49.8630345,-97.0774514,MB,25
+1069,Wood Tavern & Grill,3.3,6,Barbeque,winnipeg,MB,"112 Marion St Winnipeg, MB R2H 0T1 Canada",49.881131,-97.1240029,MB,25
+1070,Dancing Noodle,3.6,8,Chinese,winnipeg,MB,"1393A Pembina Highway Winnipeg, MB R3T 2B8 Canada",49.8384744,-97.1517795,MB,10
+1071,The Blue Marble Restaurant & Lounge,4.2,22,Tapas/Small Plates,winnipeg,MB,"1979 Wellington Avenue Winnipeg, MB R3H 1H5 Canada",49.9047955,-97.2249427,MB,25
+1072,Saperavi,4.8,16,Middle Eastern,winnipeg,MB,"709 Corydon Avenue Winnipeg, MB R3M 0W4 Canada",49.8714792,-97.1521675,MB,45
+1073,Moxies,3.3,54,Steakhouses,winnipeg,MB,"1750 Sargent Ave Winnipeg, MB R3H 0C7 Canada",49.8973866,-97.2035016,MB,45
+1074,Monticchio Ristorante Italiano,3.9,14,Caterers,winnipeg,MB,"684 Osborne Street Winnipeg, MB R3L 2B9 Canada",49.8625412,-97.1320455,MB,25
+1075,Tehran Market & Cafe,4.4,9,Mediterranean,winnipeg,MB,"8-1875 Pembina Highway Winnipeg, MB R3T 2G7 Canada",49.8215976,-97.1543929,MB,25
+1076,Fergies Fish N Chips & Seafood Market,4.3,40,Seafood,winnipeg,MB,"1 Forks Market Road Suite 142 Winnipeg, MB R3C 4L9 Canada",49.8870659,-97.1314518,MB,25
+1077,Carbone Coal Fired Pizza,4.0,12,Pizza,winnipeg,MB,"260 Saint Mary Avenue Winnipeg, MB R3C 0M6 Canada",49.8909235,-97.1394067,MB,25
+1078,Momo,4.2,18,Sushi Bars,winnipeg,MB,"2855 Pembina Highway Unit 40 Winnipeg, MB R3T 2H5 Canada",49.7876943,-97.158784,MB,10
+1079,The Tallest Poppy,3.4,33,Canadian (New),winnipeg,MB,"103 Sherbrook Winnipeg, MB R3C 2B5 Canada",49.8820705,-97.1592888,MB,25
+1080,Noodle Express,3.7,15,Dim Sum,winnipeg,MB,"180 King Street Unit 107 Winnipeg, MB R3B 3G8 Canada",49.901225,-97.1392444,MB,10
+1081,White Star Diner,4.3,12,Burgers,winnipeg,MB,"258 Kennedy St Winnipeg, MB R3C 1T2 Canada",49.8911855,-97.1482735,MB,10
+1082,TH Dang Restaurant,4.2,30,Vietnamese,winnipeg,MB,"1425 Pembina Highway Winnipeg, MB R3T 2C2 Canada",49.8374043,-97.1513843,MB,25
+1083,Smith Restaurant,3.4,28,Canadian (New),winnipeg,MB,"75 Forks Market Road Winnipeg, MB R3C 4Y3 Canada",49.8879173,-97.1295363,MB,45
+1084,New Golden Inn Restaurant,4.6,7,Chinese,winnipeg,MB,"1084 Pembina Hwy Winnipeg, MB R3T 1Z9 Canada",49.8490547,-97.1523223,MB,25
+1085,Colosseo Ristorante Italiano,3.8,15,Caterers,winnipeg,MB,"670 Corydon Ave Winnipeg, MB R3M 0X7 Canada",49.8715228,-97.1503885,MB,25
+1086,Jollibee,3.6,25,Chicken Shop,winnipeg,MB,"1406 Ellice Ave Winnipeg, MB R3G 0G4 Canada",49.8934896,-97.1985133,MB,10
+1087,La Fiesta Cafecito & Restaurant,3.6,16,Mexican,winnipeg,MB,"730 St Anne's Rd Unit M Winnipeg, MB R2N 0A2 Canada",49.8237009,-97.0852622,MB,25
+1088,Red Top Drive Inn,4.1,35,Burgers,winnipeg,MB,"219 Saint Mary's Road Winnipeg, MB R2H 1J2 Canada",49.8754321,-97.117725,MB,10
+1089,Spicy Noodle House,3.4,25,Chinese,winnipeg,MB,"99 Osborne Street Suite 102 Winnipeg, MB R3L 2R4 Canada",49.8787065,-97.1463592,MB,25
+1090,Tandoor House,4.0,6,Indian,winnipeg,MB,"598 Ebby Avenue Winnipeg, MB R3M Canada",49.8609364,-97.149276,MB,25
+1091,The Nook Diner,4.4,26,Diners,winnipeg,MB,"43 Sherbrook Street Winnipeg, MB R3C 2B1 Canada",49.8801326,-97.1593862,MB,10
+1092,Les Saj Restaurant,4.6,48,Middle Eastern,winnipeg,MB,"1038 St James Street Suite C1 Winnipeg, MB R3H 0K5 Canada",49.895319,-97.2010064,MB,25
+1093,Mona Lisa Ristorante Italiano,3.3,29,Italian,winnipeg,MB,"1697 Corydon Avenue Winnipeg, MB R3N 0J9 Canada",49.86409769999999,-97.196843,MB,25
+1094,Silver Heights Restaurant & Lounge,3.8,24,Steakhouses,winnipeg,MB,"2169 Portage Avenue Winnipeg, MB R3J 0L7 Canada",49.8770034,-97.238833,MB,25
+1095,Sam Po,4.3,8,Dim Sum,winnipeg,MB,"277 Rupert Avenue Winnipeg, MB R3B 0N5 Canada",49.9015818,-97.1390118,MB,25
+1096,Ben & Florentine,3.6,43,Breakfast & Brunch,winnipeg,MB,"155 Scurfield Boulevard Winnipeg, MB R3Y 1L6 Canada",49.8167152,-97.196208,MB,25
+1097,Confusion Corner Drinks + Food,3.8,28,Bars,winnipeg,MB,"500 Corydon Avenue Winnipeg, MB R3L 0P1 Canada",49.8739172,-97.1434241,MB,25
+1098,Falafel Place,4.4,47,Falafel,winnipeg,MB,"1101 Corydon Ave Winnipeg, MB R3M 0X3 Canada",49.8662341,-97.1676906,MB,25
+1099,Kazoku,4.0,22,Sushi Bars,winnipeg,MB,"30-2583 Pembina hwy Winnipeg, MB R3T Canada",49.7988295,-97.1577728,MB,25
+1100,Frenchway Cafe,3.8,16,French,winnipeg,MB,"238 Lilac Street Winnipeg, MB R3M 2T3 Canada",49.8697824,-97.1576754,MB,25
+1101,Kimchi Sushi,4.2,6,Korean,winnipeg,MB,"1270 Pembina Highway Winnipeg, MB R3T 2B1 Canada",49.8429456,-97.1527907,MB,25
+1102,Elephant & Castle,3.4,46,British,winnipeg,MB,"350 St Mary Ave Winnipeg, MB R3C 3J2 Canada",49.8900047,-97.1437883,MB,25
+1103,Chosabi,4.3,33,Asian Fusion,winnipeg,MB,"100 King Street Unit A Winnipeg, MB R3B 0P6 Canada",49.89804179999999,-97.1413807,MB,25
+1104,Sushi Cushi,4.0,35,Japanese,winnipeg,MB,"1045 St James Street Unit - K Winnipeg, MB R3H Canada",49.89514029999999,-97.1984924,MB,25
+1105,King + Bannatyne,3.9,35,Sandwiches,winnipeg,MB,"100 King Street Unit D Winnipeg, MB R3B 0P6 Canada",49.8981276,-97.1415202,MB,25
+1106,La Belle Baguette,4.2,18,Coffee & Tea,winnipeg,MB,"248 Avenue de la Cathedrale Winnipeg, MB R2H 2V9 Canada",49.88989669999999,-97.1178113,MB,10
+1107,Hsieh Family Restaurant,3.6,5,Taiwanese,winnipeg,MB,"230 Dalhousie Drive Winnipeg, MB R3T 2Z1 Canada",49.7964636,-97.1478731,MB,10
+1108,The Oakwood,3.6,30,Salad,winnipeg,MB,"660 Osborne Street Unit 4 Winnipeg, MB R3L 2B6 Canada",49.86315399999999,-97.13229,MB,25
+1109,Pizzeria Gusto,3.9,34,Pizza,winnipeg,MB,"404 Academy Road Winnipeg, MB R3N 0B8 Canada",49.8735972,-97.183366,MB,45
+1110,Ta.Ke Sushi Take-Out,4.0,6,Sushi Bars,winnipeg,MB,"1235 Pembina Highway Winnipeg, MB R3T 2A9 Canada",49.8433965,-97.1539551,MB,25
+1111,Naru Sushi,4.3,26,Japanese,winnipeg,MB,"159 Osborne Street Winnipeg, MB R3L 1Y7 Canada",49.8772354,-97.1444616,MB,25
+1112,Carnaval Brazilian BBQ,3.3,32,Barbeque,winnipeg,MB,"270 Waterfront Drive Winnipeg, MB R3B 0L4 Canada",49.8976151,-97.1336141,MB,50
+1113,Yellow Dog Tavern,3.7,30,Pubs,winnipeg,MB,"386 Donald Street Winnipeg, MB R3B 2J2 Canada",49.8962685,-97.1441631,MB,25
+1114,Dwarf No Cachette Cafe & Gift,4.2,30,Japanese,winnipeg,MB,"157 Provencher Boulevard Winnipeg, MB R2H 0G2 Canada",49.89201440000001,-97.1234694,MB,25
+1115,Cafe Carlo,3.5,17,Canadian (New),winnipeg,MB,"243 Lilac Street Winnipeg, MB R3M 2S2 Canada",49.86989850000001,-97.1571276,MB,45
+1116,The Don Restaurant,3.6,20,Breakfast & Brunch,winnipeg,MB,"120 Donald Street Suite 2 Winnipeg, MB R3C 4G2 Canada",49.8883176,-97.1409516,MB,25
+1117,Dim Sum Garden Restaurant,2.9,25,Dim Sum,winnipeg,MB,"2677 Pembina Highway Winnipeg, MB R3T 2H5 Canada",49.795117,-97.1582046,MB,25
+1118,Resto Gare Bistro,3.8,24,French,winnipeg,MB,"630 Des Meurons Street Winnipeg, MB R2H 2P9 Canada",49.8932576,-97.1121923,MB,45
+1119,Wasabi Sabi,4.2,31,Sushi Bars,winnipeg,MB,"1360 Taylor Ave Winnipeg, MB R3M 3Z1 Canada",49.850941,-97.177214,MB,45
+1120,Wako Sushi Cafe,4.1,11,Japanese,winnipeg,MB,"875 Corydon Avenue Winnipeg, MB R3M 0W7 Canada",49.8694722,-97.15821110000002,MB,10
+1121,Sukhothai,4.0,26,Thai,winnipeg,MB,"191 Osborne Street Winnipeg, MB R3L 1Z2 Canada",49.8761866,-97.1436839,MB,25
+1122,Clay Oven East Indian Restaurants,3.8,23,Indian,winnipeg,MB,"1 Portage Avenue E 3rd Floor Winnipeg, MB R3B 3N3 Canada",49.89382819999999,-97.1339684,MB,25
+1123,Nuburger,4.1,65,Burgers,winnipeg,MB,"472 Stradbrook Avenue Winnipeg, MB R3L 0J9 Canada",49.8774352,-97.1454094,MB,25
+1124,Bangkok Thai Restaurant,3.9,24,Thai,winnipeg,MB,"100 Osborne Street Suite 208,Floor 2 Winnipeg, MB R3L 1Y5 Canada",49.8790536,-97.1459481,MB,25
+1125,Vientiane Restaurant,3.8,13,Thai,winnipeg,MB,"12-208 Marion Street Winnipeg, MB R2H 0T6 Canada",49.8812874,-97.11885,MB,25
+1126,Delicious Vegetarian Restaurant,4.5,20,Vegetarian,winnipeg,MB,"1467 Pembina Highway Winnipeg, MB R3T 2C5 Canada",49.836016,-97.1509978,MB,25
+1127,Sizzling Dhaba,4.5,11,Indian,winnipeg,MB,"628A St Anne's Rd Winnipeg, MB R2C 0A1 Canada",49.83051690000001,-97.0882484,MB,25
+1128,The Keg Steakhouse + Bar,4.1,40,Steakhouses,winnipeg,MB,"115 Garry St Winnipeg, MB R3C 1G5 Canada",49.88905519999999,-97.1376057,MB,45
+1129,Southdale Village Family Restaurant,4.0,6,Canadian (New),winnipeg,MB,"35 Lakewood Boulevard Winnipeg, MB R2J 2M8 Canada",49.85456929999999,-97.0759186,MB,25
+1130,Feast Cafe Bistro,4.4,18,Canadian (New),winnipeg,MB,"587 Ellice Avenue Winnipeg, MB R3B 1Z7 Canada",49.8931505,-97.1584235,MB,25
+1131,The Rib Room,3.3,4,Hotels,winnipeg,MB,"330 York Ave Winnipeg, MB R3C 0N9 Canada",49.8886616,-97.1418354,MB,25
+1132,Helios Restaurant,4.3,4,Greek,winnipeg,MB,"241 St Mary's Road Winnipeg, MB R2H 1J4 Canada",49.87487609999999,-97.1169439,MB,25
+1133,The Park Cafe,4.0,21,Breakfast & Brunch,winnipeg,MB,"330 Assiniboine Park Drive Winnipeg, MB R3P 2N6 Canada",49.8731968,-97.233504,MB,25
+1134,Saucers Cafe,3.9,16,Cafes,winnipeg,MB,"570 Academy Road Winnipeg, MB R3N 0E3 Canada",49.8740421,-97.1982353,MB,25
+1135,QDOBA Mexican Eats,3.9,21,Mexican,winnipeg,MB,"1340 Ellice Ave Unit 1 Winnipeg, MB R3G 0E9 Canada",49.8937103,-97.1950081,MB,10
+1136,The Canadian Brewhouse,2.5,28,Sports Bars,winnipeg,MB,"1715 Kenaston Boulevard Winnipeg, MB R3Y 1V5 Canada",49.8204152,-97.1972559,MB,25
+1137,Mercadito Latino,4.5,13,Mexican,winnipeg,MB,"570-C Sargent Avenue Winnipeg, MB R3E 0A2 Canada",49.8963421,-97.1575056,MB,25
+1138,The Yellow Deli,3.6,5,Sandwiches,winnipeg,MB,"490 Des Meurons Street Unit 1 Winnipeg, MB R2H 2P5 Canada",49.8882703,-97.1112167,MB,10
+1139,OPA! of Greece SmartCentres Kenaston,4.1,10,Greek,winnipeg,MB,"1639 Kenaston Boulevard Building F Winnipeg, MB R3P Canada",49.8246619,-97.2027861,MB,10
+1140,The Black Knight Pub,3.9,29,Pubs,yellowknife,NT,"4910-49 Street Yellowknife, NT X1A 1P3 Canada",62.4552225,-114.3728197,NT,25
+1141,YK Hotpot,3.3,16,Chinese,yellowknife,NT,"5019 49 Street Yellowknife, NT X1A 1P5 Canada",62.4537121,-114.3682987,NT,45
+1142,A Taste of Saigon,3.6,17,Vietnamese,yellowknife,NT,"4913 50th Street Yellowknife, NT X1A 2P7 Canada",62.45473020000001,-114.3725708,NT,25
+1143,Red Apple,3.5,12,Chinese,yellowknife,NT,"4701 Franklin Avenue Yellowknife, NT X1A 1N2 Canada",62.4554244,-114.3681739,NT,25
+1144,Wildcat Cafe,3.3,9,Diners,yellowknife,NT,"3904 Wiley Rd Yellowknife, NT X1A Canada",62.46443540000001,-114.3503507,NT,25
+1145,Main Street Donair & Falafel,5.0,3,Falafel,yellowknife,NT,"4905 50th Ave Yellowknife, NT X1A 3X8 Canada",62.4541017,-114.3704125,NT,25
+1146,Zehabehsa,4.6,27,Ethiopian,yellowknife,NT,"5030 50th Street Yellowknife, NT X1A 3R8 Canada",62.45280750000001,-114.3696106,NT,25
+1147,Traders Grill,3.3,22,Breakfast & Brunch,yellowknife,NT,"4825 49th Avenue Yellowknife, NT X1A 2R3 Canada",62.45762809999999,-114.3726144,NT,25
+1148,Fatburger,3.6,7,Chicken Wings,yellowknife,NT,"100 Borden Drive Unit 1 Yellowknife, NT X0E 3W1 Canada",62.44998,-114.40627,NT,25
+1149,Sushi Cafe,4.1,12,Sushi Bars,yellowknife,NT,"5309 Franklin Avenue Yellowknife, NT X1A 1E3 Canada",62.4518213,-114.3759055,NT,25
+1150,Sushi North,3.4,16,Sushi Bars,yellowknife,NT,"200 4910 50th Avenue Yellowknife, NT X1A 3M3 Canada",62.4544021,-114.3715691,NT,25
+1151,Diamante Restaurant,2.4,7,Italian,yellowknife,NT,"483 Range Lake Road Yellowknife, NT X1A 3R9 Canada",62.44562709999999,-114.4092829,NT,25
+1152,Boston Pizza,2.4,21,Pizza,yellowknife,NT,"5102 48th Street Yellowknife, NT X1A 1N6 Canada",62.45357629999999,-114.3665258,NT,25
+1153,Javaroma Gourmet Coffee,3.4,19,Coffee & Tea,yellowknife,NT,"5201 50th Avenue Yellowknife, NT X1A 3S9 Canada",62.4526486,-114.3741561,NT,25
+1154,Pizza Hut,2.5,2,Pizza,yellowknife,NT,"312 D Old Airport Road Yellowknife, NT X1A 3T3 Canada",62.4482083,-114.4067276,NT,25
+1155,Subway,4.0,1,Sandwiches,yellowknife,NT,"100 Borden Drive Unit 21 Yellowknife, NT X1A 3W6 Canada",62.4499496,-114.4065145,NT,10
+1156,Northern Fancy Meats,3.0,1,Delis,yellowknife,NT,"314 Woolgar Avenue Yellowknife, NT X1A 3B5 Canada",62.4447443,-114.40929,NT,25
