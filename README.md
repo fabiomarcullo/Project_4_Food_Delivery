@@ -1,6 +1,6 @@
 ![image](https://github.com/Annbelbella/Belly_Button_Challenge/assets/124645643/fb5fa27a-c953-420f-86ac-aca8b1ccb77c)
 
-**Team Members:** Fabio Marcullo De Lima, Yamileth Cova, Annbell Nakigozi, Rahiq Osman and Joseph Arambula
+**Team Members:** Fabio Marcullo De Lima, Yamileth Cova, Annbell Nakigozi, Andreas Hill, Rahiq Osman and Joseph Arambula
 
 # **R**ESTAURANTS AND **C**UISINES
 
