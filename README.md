@@ -4,7 +4,7 @@
 
 # **R**ESTAURANTS AND **C**UISINES
 
-The goal of this project was to create an interactive dashboard that allows a customer or restaurant owner to search for food to eat or capitalize on based on three major factors; Province, cuisine type and Rating. Please view the webpage here: __________________________________________________
+The goal of this project was to create an interactive dashboard that allows a customer or restaurant owner to search for food to eat or capitalize on based on three major factors; Province, cuisine type and Rating. Please view the webpage here: 
 
 ## Data Source
 The data has been web scrapped from Uber-eats website and below are the two scrapped data sets that we used,
@@ -46,8 +46,6 @@ The following tools have been utilized to create the webpage:
 
 - Leaflet
 
-### Hosting: ____________________________________________________
-
 Notably, the software used to build the webpage was Visual Studio.
 
 ## Results
@@ -58,35 +56,36 @@ Using Javascript and HTML, we have created an interactive webpage that allows th
 
 - Category
 
-**PLEASE INSERT IMAGE OF FIG.1 LABELLED AS BELOW**-----------------------------------------------------------
+![image](https://github.com/Annbelbella/Web_Scraping_Challenge/assets/124645643/c19795a2-95e2-45e1-9066-ab40f812d90d)
 
 Figure 1 – showing webpage before filtering of data
 
 
+When a user wants to see data for restaurants in Ontario that serve Italian food for example, he/she must select these values from the dropdowns of the two filters stated above. As we can see in Fig2 below, 8 restaurants are available as indocated on the restaurant name table and map.
 
-
-When a user wants to see data for restaurants in Ontario that serve Italian food for example, he/she must select these values from the dropdowns of the two filters stated above. As we can see in Fig2 below, ……..restaurants are available
-
-**PLEASE INSERT IMAGE OF FIG.2 LABELLED AS BELOW**------------------------------------------------------------
+![dashboard filtered by Ontario and Italian food](https://github.com/Annbelbella/Web_Scraping_Challenge/assets/124645643/e0588d13-ea24-46a3-a87d-445a484e13da)
 
 Fig 2 – Restaurants in Ontario with Italian Food
 
 
 ## Visualizations
 
-- Bar chart demonstrates………………
+Bar chart represents the average rating of each category/cuisine type.
 
-**PLEASE INSERT IMAGE OF Bar Graph HERE.**........................................................
-
-- The chart represents
-
-- **PLEASE INSERT IMAGE OF Chart HERE if available**......................................................
-- 
-
-- The interactive map shows locations of the given available restaurants with detailed information for each restaurant. The map also encompasses the Zoom in or zoom out function to find restaurants in the specific provinces .
+![bar graph](https://github.com/Annbelbella/Web_Scraping_Challenge/assets/124645643/5bbcd17d-97b3-402f-b082-e75786d941ac)
 
 
-**PLEASE INSERT IMAGE OF MAP HERE**..............................................................................
+The dorghnut chart represents the count of the different cuisine types across Canada.
+
+![doughnut](https://github.com/fabiomarcullo/Project_3_Food_Delivery/assets/124645643/634d1daf-efd1-4986-ab46-15c4f204b736)
+
+
+
+The interactive map shows locations of the given available restaurants with detailed information for each restaurant. The map also encompasses the Zoom in or zoom out function to find restaurants in the specific provinces .
+
+
+![Map with no filter](https://github.com/fabiomarcullo/Project_3_Food_Delivery/assets/124645643/09092552-83b2-45d7-abe0-8dd6ba742348)
+
 
 
 ## Conclusion
@@ -98,5 +97,4 @@ We also encountered challenges in attaining all the data we needed for example, 
 ## References
 https://www.ubereats.com/
 
-https://www.fusioncharts.com/dev/getting-started/plain-javascript/your-first-chart-using-plain-javascript
 
